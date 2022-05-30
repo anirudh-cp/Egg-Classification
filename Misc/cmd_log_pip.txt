@@ -1,0 +1,2438 @@
+Microsoft Windows [Version 10.0.19044.1586]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip list
+Package     Version
+----------- -------
+autopep8    1.6.0
+numpy       1.22.3
+pip         22.0.4
+pycodestyle 2.8.0
+setuptools  58.1.0
+toml        0.10.2
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip --version
+pip 22.0.4 from C:\Users\cpani\AppData\Local\Programs\Python\Python310\lib\site-packages\pip (python 3.10)
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install -r requirements.txt
+WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000016E0E28CBE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/attrs/
+WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000016E0E28C9A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/attrs/
+WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000016E0E28DB70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/attrs/
+WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000016E0E28DDE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/attrs/
+WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x0000016E0E28E050>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /simple/attrs/
+ERROR: Could not find a version that satisfies the requirement attrs==19.3.0 (from versions: none)
+ERROR: No matching distribution found for attrs==19.3.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install -r requirements.txt
+Collecting attrs==19.3.0
+  Downloading attrs-19.3.0-py2.py3-none-any.whl (39 kB)
+Collecting Automat==0.8.0
+  Downloading Automat-0.8.0-py2.py3-none-any.whl (31 kB)
+Collecting backcall==0.1.0
+  Downloading backcall-0.1.0.zip (11 kB)
+  Preparing metadata (setup.py) ... done
+Collecting blinker==1.4
+  Downloading blinker-1.4.tar.gz (111 kB)
+     ---------------------------------------- 111.5/111.5 KB 723.1 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Collecting certifi==2019.11.28
+  Downloading certifi-2019.11.28-py2.py3-none-any.whl (156 kB)
+     ---------------------------------------- 156.0/156.0 KB 583.2 kB/s eta 0:00:00
+Collecting chardet==3.0.4
+  Downloading chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+     ---------------------------------------- 133.4/133.4 KB 984.9 kB/s eta 0:00:00
+Collecting Click==7.0
+  Downloading Click-7.0-py2.py3-none-any.whl (81 kB)
+     ---------------------------------------- 81.3/81.3 KB 1.5 MB/s eta 0:00:00
+ERROR: Could not find a version that satisfies the requirement cloud-init==20.1 (from versions: none)
+ERROR: No matching distribution found for cloud-init==20.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install -r requirements.txt
+Collecting attrs==19.3.0
+  Using cached attrs-19.3.0-py2.py3-none-any.whl (39 kB)
+Collecting Automat==0.8.0
+  Using cached Automat-0.8.0-py2.py3-none-any.whl (31 kB)
+Collecting backcall==0.1.0
+  Using cached backcall-0.1.0.zip (11 kB)
+  Preparing metadata (setup.py) ... done
+Collecting blinker==1.4
+  Using cached blinker-1.4.tar.gz (111 kB)
+  Preparing metadata (setup.py) ... done
+Collecting certifi==2019.11.28
+  Using cached certifi-2019.11.28-py2.py3-none-any.whl (156 kB)
+Collecting chardet==3.0.4
+  Using cached chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+Collecting Click==7.0
+  Using cached Click-7.0-py2.py3-none-any.whl (81 kB)
+ERROR: Could not find a version that satisfies the requirement cloud-init==20.1 (from versions: none)
+ERROR: No matching distribution found for cloud-init==20.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>for /F %p in (requirements.txt) do pip install %p
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install attrs==19.3.0
+Collecting attrs==19.3.0
+  Using cached attrs-19.3.0-py2.py3-none-any.whl (39 kB)
+Installing collected packages: attrs
+Successfully installed attrs-19.3.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install Automat==0.8.0
+Collecting Automat==0.8.0
+  Using cached Automat-0.8.0-py2.py3-none-any.whl (31 kB)
+Requirement already satisfied: attrs>=16.1.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from Automat==0.8.0) (19.3.0)
+Collecting six
+  Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: six, Automat
+Successfully installed Automat-0.8.0 six-1.16.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install backcall==0.1.0
+Collecting backcall==0.1.0
+  Using cached backcall-0.1.0.zip (11 kB)
+  Preparing metadata (setup.py) ... done
+Using legacy 'setup.py install' for backcall, since package 'wheel' is not installed.
+Installing collected packages: backcall
+  Running setup.py install for backcall ... done
+Successfully installed backcall-0.1.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install blinker==1.4
+Collecting blinker==1.4
+  Using cached blinker-1.4.tar.gz (111 kB)
+  Preparing metadata (setup.py) ... done
+Using legacy 'setup.py install' for blinker, since package 'wheel' is not installed.
+Installing collected packages: blinker
+  Running setup.py install for blinker ... done
+Successfully installed blinker-1.4
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install certifi==2019.11.28
+Collecting certifi==2019.11.28
+  Using cached certifi-2019.11.28-py2.py3-none-any.whl (156 kB)
+Installing collected packages: certifi
+Successfully installed certifi-2019.11.28
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install chardet==3.0.4
+Collecting chardet==3.0.4
+  Using cached chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+Installing collected packages: chardet
+Successfully installed chardet-3.0.4
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install Click==7.0
+Collecting Click==7.0
+  Using cached Click-7.0-py2.py3-none-any.whl (81 kB)
+Installing collected packages: Click
+Successfully installed Click-7.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install cloud-init==20.1
+ERROR: Could not find a version that satisfies the requirement cloud-init==20.1 (from versions: none)
+ERROR: No matching distribution found for cloud-init==20.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install colorama==0.4.3
+Collecting colorama==0.4.3
+  Downloading colorama-0.4.3-py2.py3-none-any.whl (15 kB)
+Installing collected packages: colorama
+Successfully installed colorama-0.4.3
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install command-not-found==0.3
+ERROR: Could not find a version that satisfies the requirement command-not-found==0.3 (from versions: none)
+ERROR: No matching distribution found for command-not-found==0.3
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install configobj==5.0.6
+Collecting configobj==5.0.6
+  Downloading configobj-5.0.6.tar.gz (33 kB)
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: six in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from configobj==5.0.6) (1.16.0)
+Using legacy 'setup.py install' for configobj, since package 'wheel' is not installed.
+Installing collected packages: configobj
+  Running setup.py install for configobj ... done
+Successfully installed configobj-5.0.6
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install constantly==15.1.0
+Collecting constantly==15.1.0
+  Using cached constantly-15.1.0-py2.py3-none-any.whl (7.9 kB)
+Installing collected packages: constantly
+Successfully installed constantly-15.1.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install cryptography==2.8
+Collecting cryptography==2.8
+  Downloading cryptography-2.8.tar.gz (504 kB)
+     ---------------------------------------- 504.5/504.5 KB 1.1 MB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Requirement already satisfied: six>=1.4.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from cryptography==2.8) (1.16.0)
+Collecting cffi!=1.11.3,>=1.8
+  Using cached cffi-1.15.0-cp310-cp310-win_amd64.whl (180 kB)
+Collecting pycparser
+  Using cached pycparser-2.21-py2.py3-none-any.whl (118 kB)
+Building wheels for collected packages: cryptography
+  Building wheel for cryptography (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Building wheel for cryptography (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [136 lines of output]
+      running bdist_wheel
+      running build
+      running build_py
+      creating build
+      creating build\lib.win-amd64-3.10
+      creating build\lib.win-amd64-3.10\cryptography
+      copying src\cryptography\exceptions.py -> build\lib.win-amd64-3.10\cryptography
+      copying src\cryptography\fernet.py -> build\lib.win-amd64-3.10\cryptography
+      copying src\cryptography\utils.py -> build\lib.win-amd64-3.10\cryptography
+      copying src\cryptography\__about__.py -> build\lib.win-amd64-3.10\cryptography
+      copying src\cryptography\__init__.py -> build\lib.win-amd64-3.10\cryptography
+      creating build\lib.win-amd64-3.10\cryptography\hazmat
+      copying src\cryptography\hazmat\_der.py -> build\lib.win-amd64-3.10\cryptography\hazmat
+      copying src\cryptography\hazmat\_oid.py -> build\lib.win-amd64-3.10\cryptography\hazmat
+      copying src\cryptography\hazmat\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat
+      creating build\lib.win-amd64-3.10\cryptography\x509
+      copying src\cryptography\x509\base.py -> build\lib.win-amd64-3.10\cryptography\x509
+      copying src\cryptography\x509\certificate_transparency.py -> build\lib.win-amd64-3.10\cryptography\x509
+      copying src\cryptography\x509\extensions.py -> build\lib.win-amd64-3.10\cryptography\x509
+      copying src\cryptography\x509\general_name.py -> build\lib.win-amd64-3.10\cryptography\x509
+      copying src\cryptography\x509\name.py -> build\lib.win-amd64-3.10\cryptography\x509
+      copying src\cryptography\x509\ocsp.py -> build\lib.win-amd64-3.10\cryptography\x509
+      copying src\cryptography\x509\oid.py -> build\lib.win-amd64-3.10\cryptography\x509
+      copying src\cryptography\x509\__init__.py -> build\lib.win-amd64-3.10\cryptography\x509
+      creating build\lib.win-amd64-3.10\cryptography\hazmat\backends
+      copying src\cryptography\hazmat\backends\interfaces.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends
+      copying src\cryptography\hazmat\backends\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends
+      creating build\lib.win-amd64-3.10\cryptography\hazmat\bindings
+      copying src\cryptography\hazmat\bindings\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat\bindings
+      creating build\lib.win-amd64-3.10\cryptography\hazmat\primitives
+      copying src\cryptography\hazmat\primitives\cmac.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives
+      copying src\cryptography\hazmat\primitives\constant_time.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives
+      copying src\cryptography\hazmat\primitives\hashes.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives
+      copying src\cryptography\hazmat\primitives\hmac.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives
+      copying src\cryptography\hazmat\primitives\keywrap.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives
+      copying src\cryptography\hazmat\primitives\padding.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives
+      copying src\cryptography\hazmat\primitives\poly1305.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives
+      copying src\cryptography\hazmat\primitives\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives
+      creating build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\aead.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\backend.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\ciphers.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\cmac.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\decode_asn1.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\dh.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\dsa.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\ec.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\ed25519.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\ed448.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\encode_asn1.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\hashes.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\hmac.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\ocsp.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\poly1305.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\rsa.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\utils.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\x25519.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\x448.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\x509.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      copying src\cryptography\hazmat\backends\openssl\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat\backends\openssl
+      creating build\lib.win-amd64-3.10\cryptography\hazmat\bindings\openssl
+      copying src\cryptography\hazmat\bindings\openssl\binding.py -> build\lib.win-amd64-3.10\cryptography\hazmat\bindings\openssl
+      copying src\cryptography\hazmat\bindings\openssl\_conditional.py -> build\lib.win-amd64-3.10\cryptography\hazmat\bindings\openssl
+      copying src\cryptography\hazmat\bindings\openssl\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat\bindings\openssl
+      creating build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\dh.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\dsa.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\ec.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\ed25519.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\ed448.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\padding.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\rsa.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\utils.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\x25519.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\x448.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      copying src\cryptography\hazmat\primitives\asymmetric\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\asymmetric
+      creating build\lib.win-amd64-3.10\cryptography\hazmat\primitives\ciphers
+      copying src\cryptography\hazmat\primitives\ciphers\aead.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\ciphers
+      copying src\cryptography\hazmat\primitives\ciphers\algorithms.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\ciphers
+      copying src\cryptography\hazmat\primitives\ciphers\base.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\ciphers
+      copying src\cryptography\hazmat\primitives\ciphers\modes.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\ciphers
+      copying src\cryptography\hazmat\primitives\ciphers\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\ciphers
+      creating build\lib.win-amd64-3.10\cryptography\hazmat\primitives\kdf
+      copying src\cryptography\hazmat\primitives\kdf\concatkdf.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\kdf
+      copying src\cryptography\hazmat\primitives\kdf\hkdf.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\kdf
+      copying src\cryptography\hazmat\primitives\kdf\kbkdf.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\kdf
+      copying src\cryptography\hazmat\primitives\kdf\pbkdf2.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\kdf
+      copying src\cryptography\hazmat\primitives\kdf\scrypt.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\kdf
+      copying src\cryptography\hazmat\primitives\kdf\x963kdf.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\kdf
+      copying src\cryptography\hazmat\primitives\kdf\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\kdf
+      creating build\lib.win-amd64-3.10\cryptography\hazmat\primitives\serialization
+      copying src\cryptography\hazmat\primitives\serialization\base.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\serialization
+      copying src\cryptography\hazmat\primitives\serialization\pkcs12.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\serialization
+      copying src\cryptography\hazmat\primitives\serialization\ssh.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\serialization
+      copying src\cryptography\hazmat\primitives\serialization\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\serialization
+      creating build\lib.win-amd64-3.10\cryptography\hazmat\primitives\twofactor
+      copying src\cryptography\hazmat\primitives\twofactor\hotp.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\twofactor
+      copying src\cryptography\hazmat\primitives\twofactor\totp.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\twofactor
+      copying src\cryptography\hazmat\primitives\twofactor\utils.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\twofactor
+      copying src\cryptography\hazmat\primitives\twofactor\__init__.py -> build\lib.win-amd64-3.10\cryptography\hazmat\primitives\twofactor
+      running egg_info
+      writing src\cryptography.egg-info\PKG-INFO
+      writing dependency_links to src\cryptography.egg-info\dependency_links.txt
+      writing requirements to src\cryptography.egg-info\requires.txt
+      writing top-level names to src\cryptography.egg-info\top_level.txt
+      reading manifest file 'src\cryptography.egg-info\SOURCES.txt'
+      reading manifest template 'MANIFEST.in'
+      no previously-included directories found matching 'docs\_build'
+      warning: no previously-included files found matching 'vectors'
+      warning: no previously-included files matching '*' found under directory 'vectors'
+      warning: no previously-included files found matching 'azure-pipelines.yml'
+      warning: no previously-included files found matching '.azure-pipelines'
+      warning: no previously-included files found matching '.travis.yml'
+      warning: no previously-included files found matching '.travis'
+      warning: no previously-included files matching '*' found under directory '.azure-pipelines'
+      warning: no previously-included files matching '*' found under directory '.travis'
+      warning: no previously-included files found matching 'release.py'
+      warning: no previously-included files found matching '.coveragerc'
+      warning: no previously-included files found matching 'codecov.yml'
+      warning: no previously-included files found matching 'dev-requirements.txt'
+      warning: no previously-included files found matching 'rtd-requirements.txt'
+      warning: no previously-included files found matching 'tox.ini'
+      adding license file 'LICENSE'
+      adding license file 'LICENSE.APACHE'
+      adding license file 'LICENSE.BSD'
+      adding license file 'LICENSE.PSF'
+      adding license file 'AUTHORS.rst'
+      writing manifest file 'src\cryptography.egg-info\SOURCES.txt'
+      running build_ext
+      generating cffi module 'build\\temp.win-amd64-3.10\\Release\\_padding.c'
+      creating build\temp.win-amd64-3.10
+      creating build\temp.win-amd64-3.10\Release
+      generating cffi module 'build\\temp.win-amd64-3.10\\Release\\_constant_time.c'
+      generating cffi module 'build\\temp.win-amd64-3.10\\Release\\_openssl.c'
+      building '_openssl' extension
+      error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for cryptography
+Failed to build cryptography
+ERROR: Could not build wheels for cryptography, which is required to install pyproject.toml-based projects
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install dbus-python==1.2.16
+Collecting dbus-python==1.2.16
+  Downloading dbus-python-1.2.16.tar.gz (576 kB)
+     ---------------------------------------- 576.7/576.7 KB 953.6 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Using legacy 'setup.py install' for dbus-python, since package 'wheel' is not installed.
+Installing collected packages: dbus-python
+  Running setup.py install for dbus-python ... error
+  error: subprocess-exited-with-error
+
+  × Running setup.py install for dbus-python did not run successfully.
+  │ exit code: 1
+  ╰─> [5 lines of output]
+      running install
+      running build
+      creating C:\Users\cpani\AppData\Local\Temp\pip-install-3nnwn6ny\dbus-python_45e637093ded42a1bbab74e7d464c7dd\build
+      creating C:\Users\cpani\AppData\Local\Temp\pip-install-3nnwn6ny\dbus-python_45e637093ded42a1bbab74e7d464c7dd\build\temp.win-amd64-3.10
+      error: [WinError 193] %1 is not a valid Win32 application
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: legacy-install-failure
+
+× Encountered error while trying to install package.
+╰─> dbus-python
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for output from the failure.
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install decorator==4.4.2
+Collecting decorator==4.4.2
+  Downloading decorator-4.4.2-py2.py3-none-any.whl (9.2 kB)
+Installing collected packages: decorator
+Successfully installed decorator-4.4.2
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install distro==1.4.0
+Collecting distro==1.4.0
+  Downloading distro-1.4.0-py2.py3-none-any.whl (17 kB)
+Installing collected packages: distro
+Successfully installed distro-1.4.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install distro-info===0.23ubuntu1
+ERROR: Could not find a version that satisfies the requirement distro-info===0.23ubuntu1 (from versions: 0.10, 1.0)
+ERROR: No matching distribution found for distro-info===0.23ubuntu1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install entrypoints==0.3
+Collecting entrypoints==0.3
+  Downloading entrypoints-0.3-py2.py3-none-any.whl (11 kB)
+Installing collected packages: entrypoints
+Successfully installed entrypoints-0.3
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install httplib2==0.14.0
+Collecting httplib2==0.14.0
+  Downloading httplib2-0.14.0-py3-none-any.whl (94 kB)
+     ---------------------------------------- 94.6/94.6 KB 897.9 kB/s eta 0:00:00
+Installing collected packages: httplib2
+Successfully installed httplib2-0.14.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install hyperlink==19.0.0
+Collecting hyperlink==19.0.0
+  Downloading hyperlink-19.0.0-py2.py3-none-any.whl (38 kB)
+Collecting idna>=2.5
+  Downloading idna-3.3-py3-none-any.whl (61 kB)
+     ---------------------------------------- 61.2/61.2 KB 821.3 kB/s eta 0:00:00
+Installing collected packages: idna, hyperlink
+Successfully installed hyperlink-19.0.0 idna-3.3
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install idna==2.8
+Collecting idna==2.8
+  Downloading idna-2.8-py2.py3-none-any.whl (58 kB)
+     ---------------------------------------- 58.6/58.6 KB 767.5 kB/s eta 0:00:00
+Installing collected packages: idna
+  Attempting uninstall: idna
+    Found existing installation: idna 3.3
+    Uninstalling idna-3.3:
+      Successfully uninstalled idna-3.3
+Successfully installed idna-2.8
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install importlib-metadata==1.5.0
+Collecting importlib-metadata==1.5.0
+  Downloading importlib_metadata-1.5.0-py2.py3-none-any.whl (30 kB)
+Collecting zipp>=0.5
+  Downloading zipp-3.8.0-py3-none-any.whl (5.4 kB)
+Installing collected packages: zipp, importlib-metadata
+Successfully installed importlib-metadata-1.5.0 zipp-3.8.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install incremental==16.10.1
+Collecting incremental==16.10.1
+  Downloading incremental-16.10.1-py2.py3-none-any.whl (16 kB)
+Installing collected packages: incremental
+Successfully installed incremental-16.10.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install ipython==7.13.0
+Collecting ipython==7.13.0
+  Downloading ipython-7.13.0-py3-none-any.whl (780 kB)
+     ---------------------------------------- 780.3/780.3 KB 1.2 MB/s eta 0:00:00
+Requirement already satisfied: decorator in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from ipython==7.13.0) (4.4.2)
+Requirement already satisfied: setuptools>=18.5 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from ipython==7.13.0) (58.1.0)
+Requirement already satisfied: colorama in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from ipython==7.13.0) (0.4.3)
+Collecting prompt-toolkit!=3.0.0,!=3.0.1,<3.1.0,>=2.0.0
+  Downloading prompt_toolkit-3.0.29-py3-none-any.whl (381 kB)
+     ---------------------------------------- 381.5/381.5 KB 1.5 MB/s eta 0:00:00
+Requirement already satisfied: backcall in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from ipython==7.13.0) (0.1.0)
+Collecting jedi>=0.10
+  Downloading jedi-0.18.1-py2.py3-none-any.whl (1.6 MB)
+     ---------------------------------------- 1.6/1.6 MB 1.2 MB/s eta 0:00:00
+Collecting traitlets>=4.2
+  Downloading traitlets-5.1.1-py3-none-any.whl (102 kB)
+     ---------------------------------------- 102.0/102.0 KB 1.2 MB/s eta 0:00:00
+Collecting pygments
+  Downloading Pygments-2.11.2-py3-none-any.whl (1.1 MB)
+     ---------------------------------------- 1.1/1.1 MB 1.1 MB/s eta 0:00:00
+Collecting pickleshare
+  Downloading pickleshare-0.7.5-py2.py3-none-any.whl (6.9 kB)
+Collecting parso<0.9.0,>=0.8.0
+  Downloading parso-0.8.3-py2.py3-none-any.whl (100 kB)
+     ---------------------------------------- 100.8/100.8 KB 6.0 MB/s eta 0:00:00
+Collecting wcwidth
+  Downloading wcwidth-0.2.5-py2.py3-none-any.whl (30 kB)
+Installing collected packages: wcwidth, pickleshare, traitlets, pygments, prompt-toolkit, parso, jedi, ipython
+Successfully installed ipython-7.13.0 jedi-0.18.1 parso-0.8.3 pickleshare-0.7.5 prompt-toolkit-3.0.29 pygments-2.11.2 traitlets-5.1.1 wcwidth-0.2.5
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install ipython-genutils==0.2.0
+Collecting ipython-genutils==0.2.0
+  Downloading ipython_genutils-0.2.0-py2.py3-none-any.whl (26 kB)
+Installing collected packages: ipython-genutils
+Successfully installed ipython-genutils-0.2.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install jedi==0.15.2
+Collecting jedi==0.15.2
+  Downloading jedi-0.15.2-py2.py3-none-any.whl (1.1 MB)
+     ---------------------------------------- 1.1/1.1 MB 1.0 MB/s eta 0:00:00
+Requirement already satisfied: parso>=0.5.2 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from jedi==0.15.2) (0.8.3)
+Installing collected packages: jedi
+  Attempting uninstall: jedi
+    Found existing installation: jedi 0.18.1
+    Uninstalling jedi-0.18.1:
+      Successfully uninstalled jedi-0.18.1
+Successfully installed jedi-0.15.2
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install Jinja2==2.10.1
+Collecting Jinja2==2.10.1
+  Downloading Jinja2-2.10.1-py2.py3-none-any.whl (124 kB)
+     ---------------------------------------- 124.9/124.9 KB 818.9 kB/s eta 0:00:00
+Collecting MarkupSafe>=0.23
+  Downloading MarkupSafe-2.1.1-cp310-cp310-win_amd64.whl (17 kB)
+Installing collected packages: MarkupSafe, Jinja2
+Successfully installed Jinja2-2.10.1 MarkupSafe-2.1.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install jsonpatch==1.22
+Collecting jsonpatch==1.22
+  Downloading jsonpatch-1.22-py2.py3-none-any.whl (10 kB)
+Collecting jsonpointer>=1.9
+  Downloading jsonpointer-2.2-py2.py3-none-any.whl (7.5 kB)
+Installing collected packages: jsonpointer, jsonpatch
+Successfully installed jsonpatch-1.22 jsonpointer-2.2
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install jsonpointer==2.0
+Collecting jsonpointer==2.0
+  Downloading jsonpointer-2.0-py2.py3-none-any.whl (7.6 kB)
+Installing collected packages: jsonpointer
+  Attempting uninstall: jsonpointer
+    Found existing installation: jsonpointer 2.2
+    Uninstalling jsonpointer-2.2:
+      Successfully uninstalled jsonpointer-2.2
+Successfully installed jsonpointer-2.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install jsonschema==3.2.0
+Collecting jsonschema==3.2.0
+  Downloading jsonschema-3.2.0-py2.py3-none-any.whl (56 kB)
+     ---------------------------------------- 56.3/56.3 KB 368.5 kB/s eta 0:00:00
+Collecting pyrsistent>=0.14.0
+  Downloading pyrsistent-0.18.1-cp310-cp310-win_amd64.whl (61 kB)
+     ---------------------------------------- 61.6/61.6 KB 815.3 kB/s eta 0:00:00
+Requirement already satisfied: attrs>=17.4.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from jsonschema==3.2.0) (19.3.0)
+Requirement already satisfied: six>=1.11.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from jsonschema==3.2.0) (1.16.0)
+Requirement already satisfied: setuptools in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from jsonschema==3.2.0) (58.1.0)
+Installing collected packages: pyrsistent, jsonschema
+Successfully installed jsonschema-3.2.0 pyrsistent-0.18.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install keyring==18.0.1
+Collecting keyring==18.0.1
+  Downloading keyring-18.0.1-py2.py3-none-any.whl (35 kB)
+Requirement already satisfied: entrypoints in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from keyring==18.0.1) (0.3)
+Collecting pywin32-ctypes!=0.1.0,!=0.1.1
+  Using cached pywin32_ctypes-0.2.0-py2.py3-none-any.whl (28 kB)
+Installing collected packages: pywin32-ctypes, keyring
+Successfully installed keyring-18.0.1 pywin32-ctypes-0.2.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install language-selector==0.1
+ERROR: Could not find a version that satisfies the requirement language-selector==0.1 (from versions: none)
+ERROR: No matching distribution found for language-selector==0.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install launchpadlib==1.10.13
+Collecting launchpadlib==1.10.13
+  Downloading launchpadlib-1.10.13.tar.gz (200 kB)
+     ---------------------------------------- 200.8/200.8 KB 508.1 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: httplib2 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from launchpadlib==1.10.13) (0.14.0)
+Requirement already satisfied: keyring in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from launchpadlib==1.10.13) (18.0.1)
+Collecting lazr.restfulclient>=0.9.19
+  Downloading lazr.restfulclient-0.14.4.tar.gz (62 kB)
+     ---------------------------------------- 62.2/62.2 KB 838.4 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Collecting lazr.uri
+  Downloading lazr.uri-1.0.6.tar.gz (18 kB)
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: setuptools in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from launchpadlib==1.10.13) (58.1.0)
+Requirement already satisfied: six in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from launchpadlib==1.10.13) (1.16.0)
+Collecting testresources
+  Downloading testresources-2.0.1-py2.py3-none-any.whl (36 kB)
+Collecting wadllib
+  Downloading wadllib-1.3.6.tar.gz (62 kB)
+     ---------------------------------------- 62.2/62.2 KB 415.7 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: distro in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from lazr.restfulclient>=0.9.19->launchpadlib==1.10.13) (1.4.0)
+Collecting oauthlib
+  Downloading oauthlib-3.2.0-py3-none-any.whl (151 kB)
+     ---------------------------------------- 151.5/151.5 KB 501.0 kB/s eta 0:00:00
+Requirement already satisfied: pywin32-ctypes!=0.1.0,!=0.1.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from keyring->launchpadlib==1.10.13) (0.2.0)
+Requirement already satisfied: entrypoints in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from keyring->launchpadlib==1.10.13) (0.3)
+Collecting pbr>=1.8
+  Downloading pbr-5.8.1-py2.py3-none-any.whl (113 kB)
+     ---------------------------------------- 113.0/113.0 KB 411.2 kB/s eta 0:00:00
+Using legacy 'setup.py install' for launchpadlib, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for lazr.restfulclient, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for wadllib, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for lazr.uri, since package 'wheel' is not installed.
+Installing collected packages: pbr, oauthlib, lazr.uri, wadllib, testresources, lazr.restfulclient, launchpadlib
+  Running setup.py install for lazr.uri ... done
+  Running setup.py install for wadllib ... done
+  Running setup.py install for lazr.restfulclient ... done
+  Running setup.py install for launchpadlib ... done
+Successfully installed launchpadlib-1.10.13 lazr.restfulclient-0.14.4 lazr.uri-1.0.6 oauthlib-3.2.0 pbr-5.8.1 testresources-2.0.1 wadllib-1.3.6
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install lazr.restfulclient==0.14.2
+Collecting lazr.restfulclient==0.14.2
+  Downloading lazr.restfulclient-0.14.2.tar.gz (55 kB)
+     ---------------------------------------- 55.8/55.8 KB 325.1 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: distro in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from lazr.restfulclient==0.14.2) (1.4.0)
+Requirement already satisfied: oauthlib in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from lazr.restfulclient==0.14.2) (3.2.0)
+Requirement already satisfied: setuptools in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from lazr.restfulclient==0.14.2) (58.1.0)
+Requirement already satisfied: six in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from lazr.restfulclient==0.14.2) (1.16.0)
+Requirement already satisfied: wadllib>=1.1.4 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from lazr.restfulclient==0.14.2) (1.3.6)
+Requirement already satisfied: httplib2>=0.7.7 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from lazr.restfulclient==0.14.2) (0.14.0)
+Requirement already satisfied: lazr.uri in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from wadllib>=1.1.4->lazr.restfulclient==0.14.2) (1.0.6)
+Using legacy 'setup.py install' for lazr.restfulclient, since package 'wheel' is not installed.
+Installing collected packages: lazr.restfulclient
+  Attempting uninstall: lazr.restfulclient
+    Found existing installation: lazr.restfulclient 0.14.4
+    Uninstalling lazr.restfulclient-0.14.4:
+      Successfully uninstalled lazr.restfulclient-0.14.4
+  Running setup.py install for lazr.restfulclient ... done
+Successfully installed lazr.restfulclient-0.14.2
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install lazr.uri==1.0.3
+Collecting lazr.uri==1.0.3
+  Downloading lazr.uri-1.0.3.tar.gz (18 kB)
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: setuptools in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from lazr.uri==1.0.3) (58.1.0)
+Using legacy 'setup.py install' for lazr.uri, since package 'wheel' is not installed.
+Installing collected packages: lazr.uri
+  Attempting uninstall: lazr.uri
+    Found existing installation: lazr.uri 1.0.6
+    Uninstalling lazr.uri-1.0.6:
+      Successfully uninstalled lazr.uri-1.0.6
+  Running setup.py install for lazr.uri ... done
+Successfully installed lazr.uri-1.0.3
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install MarkupSafe==1.1.0
+Collecting MarkupSafe==1.1.0
+  Downloading MarkupSafe-1.1.0.tar.gz (18 kB)
+  Preparing metadata (setup.py) ... done
+Using legacy 'setup.py install' for MarkupSafe, since package 'wheel' is not installed.
+Installing collected packages: MarkupSafe
+  Attempting uninstall: MarkupSafe
+    Found existing installation: MarkupSafe 2.1.1
+    Uninstalling MarkupSafe-2.1.1:
+      Successfully uninstalled MarkupSafe-2.1.1
+  Running setup.py install for MarkupSafe ... done
+Successfully installed MarkupSafe-1.1.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install more-itertools==4.2.0
+Collecting more-itertools==4.2.0
+  Downloading more_itertools-4.2.0-py3-none-any.whl (45 kB)
+     ---------------------------------------- 45.0/45.0 KB 440.2 kB/s eta 0:00:00
+Requirement already satisfied: six<2.0.0,>=1.0.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from more-itertools==4.2.0) (1.16.0)
+Installing collected packages: more-itertools
+Successfully installed more-itertools-4.2.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install netifaces==0.10.4
+Collecting netifaces==0.10.4
+  Downloading netifaces-0.10.4.tar.gz (22 kB)
+  Preparing metadata (setup.py) ... done
+Using legacy 'setup.py install' for netifaces, since package 'wheel' is not installed.
+Installing collected packages: netifaces
+  Running setup.py install for netifaces ... error
+  error: subprocess-exited-with-error
+
+  × Running setup.py install for netifaces did not run successfully.
+  │ exit code: 1
+  ╰─> [5 lines of output]
+      running install
+      running build
+      running build_ext
+      building 'netifaces' extension
+      error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: legacy-install-failure
+
+× Encountered error while trying to install package.
+╰─> netifaces
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for output from the failure.
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install oauthlib==3.1.0
+Collecting oauthlib==3.1.0
+  Downloading oauthlib-3.1.0-py2.py3-none-any.whl (147 kB)
+     ---------------------------------------- 147.4/147.4 KB 488.0 kB/s eta 0:00:00
+Installing collected packages: oauthlib
+  Attempting uninstall: oauthlib
+    Found existing installation: oauthlib 3.2.0
+    Uninstalling oauthlib-3.2.0:
+      Successfully uninstalled oauthlib-3.2.0
+Successfully installed oauthlib-3.1.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install parso==0.5.2
+Collecting parso==0.5.2
+  Downloading parso-0.5.2-py2.py3-none-any.whl (99 kB)
+     ---------------------------------------- 99.7/99.7 KB 634.6 kB/s eta 0:00:00
+Installing collected packages: parso
+  Attempting uninstall: parso
+    Found existing installation: parso 0.8.3
+    Uninstalling parso-0.8.3:
+      Successfully uninstalled parso-0.8.3
+Successfully installed parso-0.5.2
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install pexpect==4.6.0
+Collecting pexpect==4.6.0
+  Downloading pexpect-4.6.0-py2.py3-none-any.whl (57 kB)
+     ---------------------------------------- 57.9/57.9 KB 381.2 kB/s eta 0:00:00
+Collecting ptyprocess>=0.5
+  Downloading ptyprocess-0.7.0-py2.py3-none-any.whl (13 kB)
+Installing collected packages: ptyprocess, pexpect
+Successfully installed pexpect-4.6.0 ptyprocess-0.7.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install pickleshare==0.7.5
+Requirement already satisfied: pickleshare==0.7.5 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (0.7.5)
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install prompt-toolkit==2.0.10
+Collecting prompt-toolkit==2.0.10
+  Downloading prompt_toolkit-2.0.10-py3-none-any.whl (340 kB)
+     ---------------------------------------- 340.0/340.0 KB 639.2 kB/s eta 0:00:00
+Requirement already satisfied: wcwidth in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from prompt-toolkit==2.0.10) (0.2.5)
+Requirement already satisfied: six>=1.9.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from prompt-toolkit==2.0.10) (1.16.0)
+Installing collected packages: prompt-toolkit
+  Attempting uninstall: prompt-toolkit
+    Found existing installation: prompt-toolkit 3.0.29
+    Uninstalling prompt-toolkit-3.0.29:
+      Successfully uninstalled prompt-toolkit-3.0.29
+Successfully installed prompt-toolkit-2.0.10
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install pyasn1==0.4.2
+Collecting pyasn1==0.4.2
+  Downloading pyasn1-0.4.2-py2.py3-none-any.whl (71 kB)
+     ---------------------------------------- 71.6/71.6 KB 438.6 kB/s eta 0:00:00
+Installing collected packages: pyasn1
+Successfully installed pyasn1-0.4.2
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install pyasn1-modules==0.2.1
+Collecting pyasn1-modules==0.2.1
+  Downloading pyasn1_modules-0.2.1-py2.py3-none-any.whl (60 kB)
+     ---------------------------------------- 60.9/60.9 KB 361.6 kB/s eta 0:00:00
+Requirement already satisfied: pyasn1<0.5.0,>=0.4.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from pyasn1-modules==0.2.1) (0.4.2)
+Installing collected packages: pyasn1-modules
+Successfully installed pyasn1-modules-0.2.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install Pygments==2.3.1
+Collecting Pygments==2.3.1
+  Downloading Pygments-2.3.1-py2.py3-none-any.whl (849 kB)
+     ---------------------------------------- 849.5/849.5 KB 725.4 kB/s eta 0:00:00
+Installing collected packages: Pygments
+  Attempting uninstall: Pygments
+    Found existing installation: Pygments 2.11.2
+    Uninstalling Pygments-2.11.2:
+      Successfully uninstalled Pygments-2.11.2
+Successfully installed Pygments-2.3.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install PyGObject==3.36.0
+Collecting PyGObject==3.36.0
+  Downloading PyGObject-3.36.0.tar.gz (714 kB)
+     ---------------------------------------- 714.8/714.8 KB 777.6 kB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting pycairo>=1.11.1
+  Using cached pycairo-1.21.0-cp310-cp310-win_amd64.whl (1.3 MB)
+Building wheels for collected packages: PyGObject
+  Building wheel for PyGObject (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Building wheel for PyGObject (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [43 lines of output]
+      running bdist_wheel
+      running build
+      running build_py
+      creating build
+      creating build\lib.win-amd64-3.10
+      creating build\lib.win-amd64-3.10\pygtkcompat
+      copying pygtkcompat\generictreemodel.py -> build\lib.win-amd64-3.10\pygtkcompat
+      copying pygtkcompat\pygtkcompat.py -> build\lib.win-amd64-3.10\pygtkcompat
+      copying pygtkcompat\__init__.py -> build\lib.win-amd64-3.10\pygtkcompat
+      creating build\lib.win-amd64-3.10\gi
+      copying gi\docstring.py -> build\lib.win-amd64-3.10\gi
+      copying gi\importer.py -> build\lib.win-amd64-3.10\gi
+      copying gi\module.py -> build\lib.win-amd64-3.10\gi
+      copying gi\pygtkcompat.py -> build\lib.win-amd64-3.10\gi
+      copying gi\types.py -> build\lib.win-amd64-3.10\gi
+      copying gi\_compat.py -> build\lib.win-amd64-3.10\gi
+      copying gi\_constants.py -> build\lib.win-amd64-3.10\gi
+      copying gi\_error.py -> build\lib.win-amd64-3.10\gi
+      copying gi\_gtktemplate.py -> build\lib.win-amd64-3.10\gi
+      copying gi\_option.py -> build\lib.win-amd64-3.10\gi
+      copying gi\_ossighelper.py -> build\lib.win-amd64-3.10\gi
+      copying gi\_propertyhelper.py -> build\lib.win-amd64-3.10\gi
+      copying gi\_signalhelper.py -> build\lib.win-amd64-3.10\gi
+      copying gi\__init__.py -> build\lib.win-amd64-3.10\gi
+      creating build\lib.win-amd64-3.10\gi\repository
+      copying gi\repository\__init__.py -> build\lib.win-amd64-3.10\gi\repository
+      creating build\lib.win-amd64-3.10\gi\overrides
+      copying gi\overrides\Gdk.py -> build\lib.win-amd64-3.10\gi\overrides
+      copying gi\overrides\GdkPixbuf.py -> build\lib.win-amd64-3.10\gi\overrides
+      copying gi\overrides\GIMarshallingTests.py -> build\lib.win-amd64-3.10\gi\overrides
+      copying gi\overrides\Gio.py -> build\lib.win-amd64-3.10\gi\overrides
+      copying gi\overrides\GLib.py -> build\lib.win-amd64-3.10\gi\overrides
+      copying gi\overrides\GObject.py -> build\lib.win-amd64-3.10\gi\overrides
+      copying gi\overrides\Gtk.py -> build\lib.win-amd64-3.10\gi\overrides
+      copying gi\overrides\keysyms.py -> build\lib.win-amd64-3.10\gi\overrides
+      copying gi\overrides\Pango.py -> build\lib.win-amd64-3.10\gi\overrides
+      copying gi\overrides\__init__.py -> build\lib.win-amd64-3.10\gi\overrides
+      running build_ext
+      pycairo: new API
+      pycairo: trying include directory: 'C:\\Users\\cpani\\AppData\\Local\\Temp\\pip-build-env-eqrci76u\\overlay\\Lib\\site-packages\\cairo\\include'
+      pycairo: found 'C:\\Users\\cpani\\AppData\\Local\\Temp\\pip-build-env-eqrci76u\\overlay\\Lib\\site-packages\\cairo\\include\\py3cairo.h'
+      building 'gi._gi' extension
+      error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for PyGObject
+Failed to build PyGObject
+ERROR: Could not build wheels for PyGObject, which is required to install pyproject.toml-based projects
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install PyHamcrest==1.9.0
+Collecting PyHamcrest==1.9.0
+  Downloading PyHamcrest-1.9.0-py2.py3-none-any.whl (52 kB)
+     ---------------------------------------- 52.3/52.3 KB 225.0 kB/s eta 0:00:00
+Requirement already satisfied: setuptools in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from PyHamcrest==1.9.0) (58.1.0)
+Requirement already satisfied: six in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from PyHamcrest==1.9.0) (1.16.0)
+Installing collected packages: PyHamcrest
+Successfully installed PyHamcrest-1.9.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install PyJWT==1.7.1
+Collecting PyJWT==1.7.1
+  Downloading PyJWT-1.7.1-py2.py3-none-any.whl (18 kB)
+Installing collected packages: PyJWT
+Successfully installed PyJWT-1.7.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install pymacaroons==0.13.0
+Collecting pymacaroons==0.13.0
+  Downloading pymacaroons-0.13.0-py2.py3-none-any.whl (19 kB)
+Requirement already satisfied: six>=1.8.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from pymacaroons==0.13.0) (1.16.0)
+Collecting PyNaCl<2.0,>=1.1.2
+  Downloading PyNaCl-1.5.0-cp36-abi3-win_amd64.whl (212 kB)
+     ---------------------------------------- 212.1/212.1 KB 392.0 kB/s eta 0:00:00
+Collecting cffi>=1.4.1
+  Using cached cffi-1.15.0-cp310-cp310-win_amd64.whl (180 kB)
+Collecting pycparser
+  Using cached pycparser-2.21-py2.py3-none-any.whl (118 kB)
+Installing collected packages: pycparser, cffi, PyNaCl, pymacaroons
+Successfully installed PyNaCl-1.5.0 cffi-1.15.0 pycparser-2.21 pymacaroons-0.13.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install PyNaCl==1.3.0
+Collecting PyNaCl==1.3.0
+  Downloading PyNaCl-1.3.0.tar.gz (3.4 MB)
+     ---------------------------------------- 3.4/3.4 MB 755.5 kB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Requirement already satisfied: cffi>=1.4.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from PyNaCl==1.3.0) (1.15.0)
+Requirement already satisfied: six in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from PyNaCl==1.3.0) (1.16.0)
+Requirement already satisfied: pycparser in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from cffi>=1.4.1->PyNaCl==1.3.0) (2.21)
+Building wheels for collected packages: PyNaCl
+  Building wheel for PyNaCl (pyproject.toml) ... error
+  error: subprocess-exited-with-error
+
+  × Building wheel for PyNaCl (pyproject.toml) did not run successfully.
+  │ exit code: 1
+  ╰─> [86 lines of output]
+      running bdist_wheel
+      running build
+      running build_py
+      creating build
+      creating build\lib.win-amd64-3.10
+      creating build\lib.win-amd64-3.10\nacl
+      copying src\nacl\encoding.py -> build\lib.win-amd64-3.10\nacl
+      copying src\nacl\exceptions.py -> build\lib.win-amd64-3.10\nacl
+      copying src\nacl\hash.py -> build\lib.win-amd64-3.10\nacl
+      copying src\nacl\hashlib.py -> build\lib.win-amd64-3.10\nacl
+      copying src\nacl\public.py -> build\lib.win-amd64-3.10\nacl
+      copying src\nacl\secret.py -> build\lib.win-amd64-3.10\nacl
+      copying src\nacl\signing.py -> build\lib.win-amd64-3.10\nacl
+      copying src\nacl\utils.py -> build\lib.win-amd64-3.10\nacl
+      copying src\nacl\__init__.py -> build\lib.win-amd64-3.10\nacl
+      creating build\lib.win-amd64-3.10\nacl\pwhash
+      copying src\nacl\pwhash\argon2i.py -> build\lib.win-amd64-3.10\nacl\pwhash
+      copying src\nacl\pwhash\argon2id.py -> build\lib.win-amd64-3.10\nacl\pwhash
+      copying src\nacl\pwhash\scrypt.py -> build\lib.win-amd64-3.10\nacl\pwhash
+      copying src\nacl\pwhash\_argon2.py -> build\lib.win-amd64-3.10\nacl\pwhash
+      copying src\nacl\pwhash\__init__.py -> build\lib.win-amd64-3.10\nacl\pwhash
+      creating build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_aead.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_box.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_generichash.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_hash.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_kx.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_pwhash.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_scalarmult.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_secretbox.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_secretstream.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_shorthash.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\crypto_sign.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\randombytes.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\sodium_core.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\utils.py -> build\lib.win-amd64-3.10\nacl\bindings
+      copying src\nacl\bindings\__init__.py -> build\lib.win-amd64-3.10\nacl\bindings
+      running build_clib
+      Traceback (most recent call last):
+        File "C:\Users\cpani\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_vendor\pep517\in_process\_in_process.py", line 363, in <module>
+          main()
+        File "C:\Users\cpani\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_vendor\pep517\in_process\_in_process.py", line 345, in main
+          json_out['return_val'] = hook(**hook_input['kwargs'])
+        File "C:\Users\cpani\AppData\Local\Programs\Python\Python310\lib\site-packages\pip\_vendor\pep517\in_process\_in_process.py", line 261, in build_wheel
+          return _build_backend().build_wheel(wheel_directory, config_settings,
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\build_meta.py", line 244, in build_wheel
+          return self._build_with_temp_dir(['bdist_wheel'], '.whl',
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\build_meta.py", line 229, in _build_with_temp_dir
+          self.run_setup()
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\build_meta.py", line 281, in run_setup
+          super(_BuildMetaLegacyBackend,
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\build_meta.py", line 174, in run_setup
+          exec(compile(code, __file__, 'exec'), locals())
+        File "setup.py", line 208, in <module>
+          setup(
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\__init__.py", line 87, in setup
+          return distutils.core.setup(**attrs)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\_distutils\core.py", line 148, in setup
+          return run_commands(dist)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\_distutils\core.py", line 163, in run_commands
+          dist.run_commands()
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\_distutils\dist.py", line 967, in run_commands
+          self.run_command(cmd)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\dist.py", line 1214, in run_command
+          super().run_command(command)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\_distutils\dist.py", line 986, in run_command
+          cmd_obj.run()
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\wheel\bdist_wheel.py", line 299, in run
+          self.run_command('build')
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\_distutils\cmd.py", line 313, in run_command
+          self.distribution.run_command(command)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\dist.py", line 1214, in run_command
+          super().run_command(command)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\_distutils\dist.py", line 986, in run_command
+          cmd_obj.run()
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\_distutils\command\build.py", line 135, in run
+          self.run_command(cmd_name)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\_distutils\cmd.py", line 313, in run_command
+          self.distribution.run_command(command)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\dist.py", line 1214, in run_command
+          super().run_command(command)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-build-env-hqnaehy0\overlay\Lib\site-packages\setuptools\_distutils\dist.py", line 986, in run_command
+          cmd_obj.run()
+        File "setup.py", line 159, in run
+          raise Exception("ERROR: The 'make' utility is missing from PATH")
+      Exception: ERROR: The 'make' utility is missing from PATH
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for PyNaCl
+Failed to build PyNaCl
+ERROR: Could not build wheels for PyNaCl, which is required to install pyproject.toml-based projects
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install pyOpenSSL==19.0.0
+Collecting pyOpenSSL==19.0.0
+  Downloading pyOpenSSL-19.0.0-py2.py3-none-any.whl (53 kB)
+     ---------------------------------------- 53.3/53.3 KB 70.8 kB/s eta 0:00:00
+Requirement already satisfied: six>=1.5.2 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from pyOpenSSL==19.0.0) (1.16.0)
+Collecting cryptography>=2.3
+  Downloading cryptography-36.0.2-cp36-abi3-win_amd64.whl (2.2 MB)
+     ---------------------------------------- 2.2/2.2 MB 65.2 kB/s eta 0:00:00
+Requirement already satisfied: cffi>=1.12 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from cryptography>=2.3->pyOpenSSL==19.0.0) (1.15.0)
+Requirement already satisfied: pycparser in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from cffi>=1.12->cryptography>=2.3->pyOpenSSL==19.0.0) (2.21)
+Installing collected packages: cryptography, pyOpenSSL
+Successfully installed cryptography-36.0.2 pyOpenSSL-19.0.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install pyrsistent==0.15.5
+Collecting pyrsistent==0.15.5
+  Downloading pyrsistent-0.15.5.tar.gz (107 kB)
+     ---------------------------------------- 107.4/107.4 KB 105.4 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: six in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from pyrsistent==0.15.5) (1.16.0)
+Using legacy 'setup.py install' for pyrsistent, since package 'wheel' is not installed.
+Installing collected packages: pyrsistent
+  Attempting uninstall: pyrsistent
+    Found existing installation: pyrsistent 0.18.1
+    Uninstalling pyrsistent-0.18.1:
+      Successfully uninstalled pyrsistent-0.18.1
+  Running setup.py install for pyrsistent ... done
+Successfully installed pyrsistent-0.15.5
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install pyserial==3.4
+Collecting pyserial==3.4
+  Downloading pyserial-3.4-py2.py3-none-any.whl (193 kB)
+     ---------------------------------------- 193.7/193.7 KB 126.3 kB/s eta 0:00:00
+Installing collected packages: pyserial
+Successfully installed pyserial-3.4
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install python-apt==2.0.0
+ERROR: Could not find a version that satisfies the requirement python-apt==2.0.0 (from versions: 0.0.0, 0.7.8)
+ERROR: No matching distribution found for python-apt==2.0.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install python-debian===0.1.36ubuntu1
+ERROR: Could not find a version that satisfies the requirement python-debian===0.1.36ubuntu1 (from versions: 0.1.21-nmu2, 0.1.16, 0.1.21, 0.1.23, 0.1.28, 0.1.30, 0.1.31, 0.1.32, 0.1.33, 0.1.34, 0.1.35, 0.1.36, 0.1.37, 0.1.38, 0.1.39, 0.1.40, 0.1.42, 0.1.43)
+ERROR: No matching distribution found for python-debian===0.1.36ubuntu1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install PyYAML==5.3.1
+Collecting PyYAML==5.3.1
+  Downloading PyYAML-5.3.1.tar.gz (269 kB)
+     ---------------------------------------- 269.4/269.4 KB 237.1 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Using legacy 'setup.py install' for PyYAML, since package 'wheel' is not installed.
+Installing collected packages: PyYAML
+  Running setup.py install for PyYAML ... done
+Successfully installed PyYAML-5.3.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install requests==2.22.0
+Collecting requests==2.22.0
+  Downloading requests-2.22.0-py2.py3-none-any.whl (57 kB)
+     ---------------------------------------- 58.0/58.0 KB 78.3 kB/s eta 0:00:00
+Collecting urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1
+  Downloading urllib3-1.25.11-py2.py3-none-any.whl (127 kB)
+     ---------------------------------------- 128.0/128.0 KB 66.1 kB/s eta 0:00:00
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests==2.22.0) (3.0.4)
+Requirement already satisfied: idna<2.9,>=2.5 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests==2.22.0) (2.8)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests==2.22.0) (2019.11.28)
+Installing collected packages: urllib3, requests
+Successfully installed requests-2.22.0 urllib3-1.25.11
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install requests-unixsocket==0.2.0
+Collecting requests-unixsocket==0.2.0
+  Downloading requests_unixsocket-0.2.0-py2.py3-none-any.whl (11 kB)
+Requirement already satisfied: requests>=1.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests-unixsocket==0.2.0) (2.22.0)
+Requirement already satisfied: urllib3>=1.8 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests-unixsocket==0.2.0) (1.25.11)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests>=1.1->requests-unixsocket==0.2.0) (3.0.4)
+Requirement already satisfied: idna<2.9,>=2.5 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests>=1.1->requests-unixsocket==0.2.0) (2.8)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests>=1.1->requests-unixsocket==0.2.0) (2019.11.28)
+Installing collected packages: requests-unixsocket
+Successfully installed requests-unixsocket-0.2.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install SecretStorage==2.3.1
+Collecting SecretStorage==2.3.1
+  Downloading SecretStorage-2.3.1.tar.gz (16 kB)
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: cryptography in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from SecretStorage==2.3.1) (36.0.2)
+Requirement already satisfied: cffi>=1.12 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from cryptography->SecretStorage==2.3.1) (1.15.0)
+Requirement already satisfied: pycparser in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from cffi>=1.12->cryptography->SecretStorage==2.3.1) (2.21)
+Using legacy 'setup.py install' for SecretStorage, since package 'wheel' is not installed.
+Installing collected packages: SecretStorage
+  Running setup.py install for SecretStorage ... done
+Successfully installed SecretStorage-2.3.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install service-identity==18.1.0
+Collecting service-identity==18.1.0
+  Downloading service_identity-18.1.0-py2.py3-none-any.whl (11 kB)
+Requirement already satisfied: cryptography in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from service-identity==18.1.0) (36.0.2)
+Requirement already satisfied: pyasn1-modules in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from service-identity==18.1.0) (0.2.1)
+Requirement already satisfied: pyasn1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from service-identity==18.1.0) (0.4.2)
+Requirement already satisfied: attrs>=16.0.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from service-identity==18.1.0) (19.3.0)
+Requirement already satisfied: cffi>=1.12 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from cryptography->service-identity==18.1.0) (1.15.0)
+Requirement already satisfied: pycparser in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from cffi>=1.12->cryptography->service-identity==18.1.0) (2.21)
+Installing collected packages: service-identity
+Successfully installed service-identity-18.1.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install simplejson==3.16.0
+Collecting simplejson==3.16.0
+  Downloading simplejson-3.16.0.tar.gz (81 kB)
+     ---------------------------------------- 81.2/81.2 KB 105.6 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Using legacy 'setup.py install' for simplejson, since package 'wheel' is not installed.
+Installing collected packages: simplejson
+  Running setup.py install for simplejson ... done
+Successfully installed simplejson-3.16.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install six==1.14.0
+Collecting six==1.14.0
+  Downloading six-1.14.0-py2.py3-none-any.whl (10 kB)
+Installing collected packages: six
+  Attempting uninstall: six
+    Found existing installation: six 1.16.0
+    Uninstalling six-1.16.0:
+      Successfully uninstalled six-1.16.0
+Successfully installed six-1.14.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install ssh-import-id==5.10
+Collecting ssh-import-id==5.10
+  Downloading ssh-import-id-5.10.tar.gz (6.7 kB)
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: requests>=1.1.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from ssh-import-id==5.10) (2.22.0)
+Requirement already satisfied: distro in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from ssh-import-id==5.10) (1.4.0)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests>=1.1.0->ssh-import-id==5.10) (1.25.11)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests>=1.1.0->ssh-import-id==5.10) (2019.11.28)
+Requirement already satisfied: idna<2.9,>=2.5 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests>=1.1.0->ssh-import-id==5.10) (2.8)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests>=1.1.0->ssh-import-id==5.10) (3.0.4)
+Using legacy 'setup.py install' for ssh-import-id, since package 'wheel' is not installed.
+Installing collected packages: ssh-import-id
+  Running setup.py install for ssh-import-id ... done
+Successfully installed ssh-import-id-5.10
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install systemd-python==234
+Collecting systemd-python==234
+  Downloading systemd-python-234.tar.gz (53 kB)
+     ---------------------------------------- 53.6/53.6 KB 89.6 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... error
+  error: subprocess-exited-with-error
+
+  × python setup.py egg_info did not run successfully.
+  │ exit code: 1
+  ╰─> [16 lines of output]
+      Traceback (most recent call last):
+        File "<string>", line 2, in <module>
+        File "<pip-setuptools-caller>", line 34, in <module>
+        File "C:\Users\cpani\AppData\Local\Temp\pip-install-9nz92j1h\systemd-python_3ff6d22b3b3e459b807e778c9d43160c\setup.py", line 55, in <module>
+          **lib('libsystemd', 'libsystemd-journal', **defines))
+        File "C:\Users\cpani\AppData\Local\Temp\pip-install-9nz92j1h\systemd-python_3ff6d22b3b3e459b807e778c9d43160c\setup.py", line 40, in lib
+          status, result = pkgconfig(name, **kw)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-install-9nz92j1h\systemd-python_3ff6d22b3b3e459b807e778c9d43160c\setup.py", line 18, in pkgconfig
+          status, result = call(pkgconf, '--libs', '--cflags', package)
+        File "C:\Users\cpani\AppData\Local\Temp\pip-install-9nz92j1h\systemd-python_3ff6d22b3b3e459b807e778c9d43160c\setup.py", line 6, in call
+          cmd = Popen(cmd,
+        File "C:\Users\cpani\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 966, in __init__
+          self._execute_child(args, executable, preexec_fn, close_fds,
+        File "C:\Users\cpani\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 1435, in _execute_child
+          hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+      FileNotFoundError: [WinError 2] The system cannot find the file specified
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install traitlets==4.3.3
+Collecting traitlets==4.3.3
+  Downloading traitlets-4.3.3-py2.py3-none-any.whl (75 kB)
+     ---------------------------------------- 75.7/75.7 KB 419.5 kB/s eta 0:00:00
+Requirement already satisfied: six in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from traitlets==4.3.3) (1.14.0)
+Requirement already satisfied: decorator in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from traitlets==4.3.3) (4.4.2)
+Requirement already satisfied: ipython-genutils in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from traitlets==4.3.3) (0.2.0)
+Installing collected packages: traitlets
+  Attempting uninstall: traitlets
+    Found existing installation: traitlets 5.1.1
+    Uninstalling traitlets-5.1.1:
+      Successfully uninstalled traitlets-5.1.1
+Successfully installed traitlets-4.3.3
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install Twisted==18.9.0
+Collecting Twisted==18.9.0
+  Downloading Twisted-18.9.0.tar.bz2 (3.1 MB)
+     ---------------------------------------- 3.1/3.1 MB 369.6 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Collecting zope.interface>=4.4.2
+  Downloading zope.interface-5.4.0.tar.gz (249 kB)
+     ---------------------------------------- 249.3/249.3 KB 493.0 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: constantly>=15.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from Twisted==18.9.0) (15.1.0)
+Requirement already satisfied: incremental>=16.10.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from Twisted==18.9.0) (16.10.1)
+Requirement already satisfied: Automat>=0.3.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from Twisted==18.9.0) (0.8.0)
+Requirement already satisfied: hyperlink>=17.1.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from Twisted==18.9.0) (19.0.0)
+Requirement already satisfied: PyHamcrest>=1.9.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from Twisted==18.9.0) (1.9.0)
+Requirement already satisfied: attrs>=17.4.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from Twisted==18.9.0) (19.3.0)
+Requirement already satisfied: six in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from Automat>=0.3.0->Twisted==18.9.0) (1.14.0)
+Requirement already satisfied: idna>=2.5 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from hyperlink>=17.1.1->Twisted==18.9.0) (2.8)
+Requirement already satisfied: setuptools in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from PyHamcrest>=1.9.0->Twisted==18.9.0) (58.1.0)
+Using legacy 'setup.py install' for Twisted, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for zope.interface, since package 'wheel' is not installed.
+Installing collected packages: zope.interface, Twisted
+  Running setup.py install for zope.interface ... done
+  Running setup.py install for Twisted ... error
+  error: subprocess-exited-with-error
+
+  × Running setup.py install for Twisted did not run successfully.
+  │ exit code: 1
+  ╰─> [941 lines of output]
+      running install
+      running build
+      running build_py
+      creating build
+      creating build\lib.win-amd64-3.10
+      creating build\lib.win-amd64-3.10\twisted
+      copying src\twisted\copyright.py -> build\lib.win-amd64-3.10\twisted
+      copying src\twisted\plugin.py -> build\lib.win-amd64-3.10\twisted
+      copying src\twisted\_version.py -> build\lib.win-amd64-3.10\twisted
+      copying src\twisted\__init__.py -> build\lib.win-amd64-3.10\twisted
+      copying src\twisted\__main__.py -> build\lib.win-amd64-3.10\twisted
+      creating build\lib.win-amd64-3.10\twisted\application
+      copying src\twisted\application\app.py -> build\lib.win-amd64-3.10\twisted\application
+      copying src\twisted\application\internet.py -> build\lib.win-amd64-3.10\twisted\application
+      copying src\twisted\application\reactors.py -> build\lib.win-amd64-3.10\twisted\application
+      copying src\twisted\application\service.py -> build\lib.win-amd64-3.10\twisted\application
+      copying src\twisted\application\strports.py -> build\lib.win-amd64-3.10\twisted\application
+      copying src\twisted\application\__init__.py -> build\lib.win-amd64-3.10\twisted\application
+      creating build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\avatar.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\checkers.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\endpoints.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\error.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\interfaces.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\ls.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\manhole.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\manhole_ssh.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\manhole_tap.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\mixin.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\recvline.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\stdio.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\tap.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\telnet.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\ttymodes.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\unix.py -> build\lib.win-amd64-3.10\twisted\conch
+      copying src\twisted\conch\__init__.py -> build\lib.win-amd64-3.10\twisted\conch
+      creating build\lib.win-amd64-3.10\twisted\cred
+      copying src\twisted\cred\checkers.py -> build\lib.win-amd64-3.10\twisted\cred
+      copying src\twisted\cred\credentials.py -> build\lib.win-amd64-3.10\twisted\cred
+      copying src\twisted\cred\error.py -> build\lib.win-amd64-3.10\twisted\cred
+      copying src\twisted\cred\portal.py -> build\lib.win-amd64-3.10\twisted\cred
+      copying src\twisted\cred\strcred.py -> build\lib.win-amd64-3.10\twisted\cred
+      copying src\twisted\cred\_digest.py -> build\lib.win-amd64-3.10\twisted\cred
+      copying src\twisted\cred\__init__.py -> build\lib.win-amd64-3.10\twisted\cred
+      creating build\lib.win-amd64-3.10\twisted\enterprise
+      copying src\twisted\enterprise\adbapi.py -> build\lib.win-amd64-3.10\twisted\enterprise
+      copying src\twisted\enterprise\__init__.py -> build\lib.win-amd64-3.10\twisted\enterprise
+      creating build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\abstract.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\address.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\asyncioreactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\base.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\cfreactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\default.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\defer.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\endpoints.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\epollreactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\error.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\fdesc.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\gireactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\glib2reactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\gtk2reactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\gtk3reactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\inotify.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\interfaces.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\kqreactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\main.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\pollreactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\posixbase.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\process.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\protocol.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\pyuisupport.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\reactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\selectreactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\serialport.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\ssl.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\stdio.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\task.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\tcp.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\threads.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\tksupport.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\udp.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\unix.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\utils.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\win32eventreactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\wxreactor.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\wxsupport.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_baseprocess.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_dumbwin32proc.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_glibbase.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_idna.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_newtls.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_pollingfile.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_posixserialport.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_posixstdio.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_producer_helpers.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_resolver.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_signals.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_sslverify.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_threadedselect.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_win32serialport.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\_win32stdio.py -> build\lib.win-amd64-3.10\twisted\internet
+      copying src\twisted\internet\__init__.py -> build\lib.win-amd64-3.10\twisted\internet
+      creating build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_buffer.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_file.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_filter.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_flatten.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_format.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_global.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_io.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_json.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_legacy.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_levels.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_logger.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_observer.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_stdlib.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\_util.py -> build\lib.win-amd64-3.10\twisted\logger
+      copying src\twisted\logger\__init__.py -> build\lib.win-amd64-3.10\twisted\logger
+      creating build\lib.win-amd64-3.10\twisted\mail
+      copying src\twisted\mail\imap4.py -> build\lib.win-amd64-3.10\twisted\mail
+      copying src\twisted\mail\interfaces.py -> build\lib.win-amd64-3.10\twisted\mail
+      copying src\twisted\mail\pop3.py -> build\lib.win-amd64-3.10\twisted\mail
+      copying src\twisted\mail\pop3client.py -> build\lib.win-amd64-3.10\twisted\mail
+      copying src\twisted\mail\protocols.py -> build\lib.win-amd64-3.10\twisted\mail
+      copying src\twisted\mail\relay.py -> build\lib.win-amd64-3.10\twisted\mail
+      copying src\twisted\mail\smtp.py -> build\lib.win-amd64-3.10\twisted\mail
+      copying src\twisted\mail\_cred.py -> build\lib.win-amd64-3.10\twisted\mail
+      copying src\twisted\mail\_except.py -> build\lib.win-amd64-3.10\twisted\mail
+      copying src\twisted\mail\__init__.py -> build\lib.win-amd64-3.10\twisted\mail
+      creating build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\authority.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\cache.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\client.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\common.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\dns.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\error.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\hosts.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\resolve.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\root.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\secondary.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\server.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\srvconnect.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\tap.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\_rfc1982.py -> build\lib.win-amd64-3.10\twisted\names
+      copying src\twisted\names\__init__.py -> build\lib.win-amd64-3.10\twisted\names
+      creating build\lib.win-amd64-3.10\twisted\pair
+      copying src\twisted\pair\ethernet.py -> build\lib.win-amd64-3.10\twisted\pair
+      copying src\twisted\pair\ip.py -> build\lib.win-amd64-3.10\twisted\pair
+      copying src\twisted\pair\raw.py -> build\lib.win-amd64-3.10\twisted\pair
+      copying src\twisted\pair\rawudp.py -> build\lib.win-amd64-3.10\twisted\pair
+      copying src\twisted\pair\testing.py -> build\lib.win-amd64-3.10\twisted\pair
+      copying src\twisted\pair\tuntap.py -> build\lib.win-amd64-3.10\twisted\pair
+      copying src\twisted\pair\__init__.py -> build\lib.win-amd64-3.10\twisted\pair
+      creating build\lib.win-amd64-3.10\twisted\persisted
+      copying src\twisted\persisted\aot.py -> build\lib.win-amd64-3.10\twisted\persisted
+      copying src\twisted\persisted\crefutil.py -> build\lib.win-amd64-3.10\twisted\persisted
+      copying src\twisted\persisted\dirdbm.py -> build\lib.win-amd64-3.10\twisted\persisted
+      copying src\twisted\persisted\sob.py -> build\lib.win-amd64-3.10\twisted\persisted
+      copying src\twisted\persisted\styles.py -> build\lib.win-amd64-3.10\twisted\persisted
+      copying src\twisted\persisted\__init__.py -> build\lib.win-amd64-3.10\twisted\persisted
+      creating build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\cred_anonymous.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\cred_file.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\cred_memory.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\cred_sshkeys.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\cred_unix.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_conch.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_core.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_ftp.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_inet.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_names.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_portforward.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_reactors.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_runner.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_socks.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_trial.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_web.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\twisted_words.py -> build\lib.win-amd64-3.10\twisted\plugins
+      copying src\twisted\plugins\__init__.py -> build\lib.win-amd64-3.10\twisted\plugins
+      creating build\lib.win-amd64-3.10\twisted\positioning
+      copying src\twisted\positioning\base.py -> build\lib.win-amd64-3.10\twisted\positioning
+      copying src\twisted\positioning\ipositioning.py -> build\lib.win-amd64-3.10\twisted\positioning
+      copying src\twisted\positioning\nmea.py -> build\lib.win-amd64-3.10\twisted\positioning
+      copying src\twisted\positioning\_sentence.py -> build\lib.win-amd64-3.10\twisted\positioning
+      copying src\twisted\positioning\__init__.py -> build\lib.win-amd64-3.10\twisted\positioning
+      creating build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\amp.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\basic.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\dict.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\finger.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\ftp.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\htb.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\ident.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\loopback.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\memcache.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\pcp.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\policies.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\portforward.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\postfix.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\sip.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\socks.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\stateful.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\tls.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\wire.py -> build\lib.win-amd64-3.10\twisted\protocols
+      copying src\twisted\protocols\__init__.py -> build\lib.win-amd64-3.10\twisted\protocols
+      creating build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\compat.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\components.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\constants.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\context.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\deprecate.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\failure.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\fakepwd.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\filepath.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\formmethod.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\htmlizer.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\lockfile.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\log.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\logfile.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\modules.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\monkey.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\procutils.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\randbytes.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\rebuild.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\reflect.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\release.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\roots.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\runtime.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\sendmsg.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\shortcut.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\syslog.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\systemd.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\text.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\threadable.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\threadpool.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\url.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\urlpath.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\usage.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\util.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\versions.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\win32.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\zippath.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\zipstream.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\_appdirs.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\_inotify.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\_oldstyle.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\_release.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\_setup.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\_shellcomp.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\_textattributes.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\_tzhelper.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\_url.py -> build\lib.win-amd64-3.10\twisted\python
+      copying src\twisted\python\__init__.py -> build\lib.win-amd64-3.10\twisted\python
+      creating build\lib.win-amd64-3.10\twisted\runner
+      copying src\twisted\runner\inetd.py -> build\lib.win-amd64-3.10\twisted\runner
+      copying src\twisted\runner\inetdconf.py -> build\lib.win-amd64-3.10\twisted\runner
+      copying src\twisted\runner\inetdtap.py -> build\lib.win-amd64-3.10\twisted\runner
+      copying src\twisted\runner\procmon.py -> build\lib.win-amd64-3.10\twisted\runner
+      copying src\twisted\runner\procmontap.py -> build\lib.win-amd64-3.10\twisted\runner
+      copying src\twisted\runner\__init__.py -> build\lib.win-amd64-3.10\twisted\runner
+      creating build\lib.win-amd64-3.10\twisted\scripts
+      copying src\twisted\scripts\htmlizer.py -> build\lib.win-amd64-3.10\twisted\scripts
+      copying src\twisted\scripts\trial.py -> build\lib.win-amd64-3.10\twisted\scripts
+      copying src\twisted\scripts\twistd.py -> build\lib.win-amd64-3.10\twisted\scripts
+      copying src\twisted\scripts\_twistd_unix.py -> build\lib.win-amd64-3.10\twisted\scripts
+      copying src\twisted\scripts\_twistw.py -> build\lib.win-amd64-3.10\twisted\scripts
+      copying src\twisted\scripts\__init__.py -> build\lib.win-amd64-3.10\twisted\scripts
+      creating build\lib.win-amd64-3.10\twisted\spread
+      copying src\twisted\spread\banana.py -> build\lib.win-amd64-3.10\twisted\spread
+      copying src\twisted\spread\flavors.py -> build\lib.win-amd64-3.10\twisted\spread
+      copying src\twisted\spread\interfaces.py -> build\lib.win-amd64-3.10\twisted\spread
+      copying src\twisted\spread\jelly.py -> build\lib.win-amd64-3.10\twisted\spread
+      copying src\twisted\spread\pb.py -> build\lib.win-amd64-3.10\twisted\spread
+      copying src\twisted\spread\publish.py -> build\lib.win-amd64-3.10\twisted\spread
+      copying src\twisted\spread\util.py -> build\lib.win-amd64-3.10\twisted\spread
+      copying src\twisted\spread\__init__.py -> build\lib.win-amd64-3.10\twisted\spread
+      creating build\lib.win-amd64-3.10\twisted\tap
+      copying src\twisted\tap\ftp.py -> build\lib.win-amd64-3.10\twisted\tap
+      copying src\twisted\tap\portforward.py -> build\lib.win-amd64-3.10\twisted\tap
+      copying src\twisted\tap\socks.py -> build\lib.win-amd64-3.10\twisted\tap
+      copying src\twisted\tap\__init__.py -> build\lib.win-amd64-3.10\twisted\tap
+      creating build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\crash_test_dummy.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\iosim.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\mock_win32process.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\myrebuilder1.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\myrebuilder2.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\plugin_basic.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\plugin_extra1.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\plugin_extra2.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_cmdline.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_echoer.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_fds.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_getargv.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_getenv.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_linger.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_reader.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_signal.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_stdinreader.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_tester.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_tty.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\process_twisted.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\proto_helpers.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\reflect_helper_IE.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\reflect_helper_VE.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\reflect_helper_ZDE.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\ssl_helpers.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\stdio_test_consumer.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\stdio_test_halfclose.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\stdio_test_hostpeer.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\stdio_test_lastwrite.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\stdio_test_loseconn.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\stdio_test_producer.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\stdio_test_write.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\stdio_test_writeseq.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\testutils.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_abstract.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_adbapi.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_amp.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_application.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_compat.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_context.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_cooperator.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_defer.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_defgen.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_dict.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_dirdbm.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_error.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_factories.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_failure.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_fdesc.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_finger.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_formmethod.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_ftp.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_ftp_options.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_htb.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_ident.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_internet.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_iosim.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_iutils.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_lockfile.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_log.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_logfile.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_loopback.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_main.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_memcache.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_modules.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_monkey.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_nooldstyle.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_paths.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_pcp.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_persisted.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_plugin.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_policies.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_postfix.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_process.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_protocols.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_randbytes.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_rebuild.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_reflect.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_roots.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_shortcut.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_sip.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_sob.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_socks.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_ssl.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_sslverify.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_stateful.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_stdio.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_strerror.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_stringtransport.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_strports.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_task.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_tcp.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_tcp_internals.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_text.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_threadable.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_threadpool.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_threads.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_tpfile.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_twistd.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_twisted.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_udp.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_unix.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\test_usage.py -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\__init__.py -> build\lib.win-amd64-3.10\twisted\test
+      creating build\lib.win-amd64-3.10\twisted\trial
+      copying src\twisted\trial\itrial.py -> build\lib.win-amd64-3.10\twisted\trial
+      copying src\twisted\trial\reporter.py -> build\lib.win-amd64-3.10\twisted\trial
+      copying src\twisted\trial\runner.py -> build\lib.win-amd64-3.10\twisted\trial
+      copying src\twisted\trial\unittest.py -> build\lib.win-amd64-3.10\twisted\trial
+      copying src\twisted\trial\util.py -> build\lib.win-amd64-3.10\twisted\trial
+      copying src\twisted\trial\_asyncrunner.py -> build\lib.win-amd64-3.10\twisted\trial
+      copying src\twisted\trial\_asynctest.py -> build\lib.win-amd64-3.10\twisted\trial
+      copying src\twisted\trial\_synctest.py -> build\lib.win-amd64-3.10\twisted\trial
+      copying src\twisted\trial\__init__.py -> build\lib.win-amd64-3.10\twisted\trial
+      copying src\twisted\trial\__main__.py -> build\lib.win-amd64-3.10\twisted\trial
+      creating build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\client.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\demo.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\distrib.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\domhelpers.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\error.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\guard.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\html.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\http.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\http_headers.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\iweb.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\microdom.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\proxy.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\resource.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\rewrite.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\script.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\server.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\static.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\sux.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\tap.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\template.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\twcgi.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\util.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\vhost.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\wsgi.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\xmlrpc.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\_element.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\_flatten.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\_http2.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\_newclient.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\_responses.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\_stan.py -> build\lib.win-amd64-3.10\twisted\web
+      copying src\twisted\web\__init__.py -> build\lib.win-amd64-3.10\twisted\web
+      creating build\lib.win-amd64-3.10\twisted\words
+      copying src\twisted\words\ewords.py -> build\lib.win-amd64-3.10\twisted\words
+      copying src\twisted\words\iwords.py -> build\lib.win-amd64-3.10\twisted\words
+      copying src\twisted\words\service.py -> build\lib.win-amd64-3.10\twisted\words
+      copying src\twisted\words\tap.py -> build\lib.win-amd64-3.10\twisted\words
+      copying src\twisted\words\xmpproutertap.py -> build\lib.win-amd64-3.10\twisted\words
+      copying src\twisted\words\__init__.py -> build\lib.win-amd64-3.10\twisted\words
+      creating build\lib.win-amd64-3.10\twisted\_threads
+      copying src\twisted\_threads\_convenience.py -> build\lib.win-amd64-3.10\twisted\_threads
+      copying src\twisted\_threads\_ithreads.py -> build\lib.win-amd64-3.10\twisted\_threads
+      copying src\twisted\_threads\_memory.py -> build\lib.win-amd64-3.10\twisted\_threads
+      copying src\twisted\_threads\_pool.py -> build\lib.win-amd64-3.10\twisted\_threads
+      copying src\twisted\_threads\_team.py -> build\lib.win-amd64-3.10\twisted\_threads
+      copying src\twisted\_threads\_threadworker.py -> build\lib.win-amd64-3.10\twisted\_threads
+      copying src\twisted\_threads\__init__.py -> build\lib.win-amd64-3.10\twisted\_threads
+      creating build\lib.win-amd64-3.10\twisted\application\runner
+      copying src\twisted\application\runner\_exit.py -> build\lib.win-amd64-3.10\twisted\application\runner
+      copying src\twisted\application\runner\_pidfile.py -> build\lib.win-amd64-3.10\twisted\application\runner
+      copying src\twisted\application\runner\_runner.py -> build\lib.win-amd64-3.10\twisted\application\runner
+      copying src\twisted\application\runner\__init__.py -> build\lib.win-amd64-3.10\twisted\application\runner
+      creating build\lib.win-amd64-3.10\twisted\application\test
+      copying src\twisted\application\test\test_internet.py -> build\lib.win-amd64-3.10\twisted\application\test
+      copying src\twisted\application\test\test_service.py -> build\lib.win-amd64-3.10\twisted\application\test
+      copying src\twisted\application\test\__init__.py -> build\lib.win-amd64-3.10\twisted\application\test
+      creating build\lib.win-amd64-3.10\twisted\application\twist
+      copying src\twisted\application\twist\_options.py -> build\lib.win-amd64-3.10\twisted\application\twist
+      copying src\twisted\application\twist\_twist.py -> build\lib.win-amd64-3.10\twisted\application\twist
+      copying src\twisted\application\twist\__init__.py -> build\lib.win-amd64-3.10\twisted\application\twist
+      creating build\lib.win-amd64-3.10\twisted\application\runner\test
+      copying src\twisted\application\runner\test\test_exit.py -> build\lib.win-amd64-3.10\twisted\application\runner\test
+      copying src\twisted\application\runner\test\test_pidfile.py -> build\lib.win-amd64-3.10\twisted\application\runner\test
+      copying src\twisted\application\runner\test\test_runner.py -> build\lib.win-amd64-3.10\twisted\application\runner\test
+      copying src\twisted\application\runner\test\__init__.py -> build\lib.win-amd64-3.10\twisted\application\runner\test
+      creating build\lib.win-amd64-3.10\twisted\application\twist\test
+      copying src\twisted\application\twist\test\test_options.py -> build\lib.win-amd64-3.10\twisted\application\twist\test
+      copying src\twisted\application\twist\test\test_twist.py -> build\lib.win-amd64-3.10\twisted\application\twist\test
+      copying src\twisted\application\twist\test\__init__.py -> build\lib.win-amd64-3.10\twisted\application\twist\test
+      creating build\lib.win-amd64-3.10\twisted\conch\client
+      copying src\twisted\conch\client\agent.py -> build\lib.win-amd64-3.10\twisted\conch\client
+      copying src\twisted\conch\client\connect.py -> build\lib.win-amd64-3.10\twisted\conch\client
+      copying src\twisted\conch\client\default.py -> build\lib.win-amd64-3.10\twisted\conch\client
+      copying src\twisted\conch\client\direct.py -> build\lib.win-amd64-3.10\twisted\conch\client
+      copying src\twisted\conch\client\knownhosts.py -> build\lib.win-amd64-3.10\twisted\conch\client
+      copying src\twisted\conch\client\options.py -> build\lib.win-amd64-3.10\twisted\conch\client
+      copying src\twisted\conch\client\__init__.py -> build\lib.win-amd64-3.10\twisted\conch\client
+      creating build\lib.win-amd64-3.10\twisted\conch\insults
+      copying src\twisted\conch\insults\client.py -> build\lib.win-amd64-3.10\twisted\conch\insults
+      copying src\twisted\conch\insults\colors.py -> build\lib.win-amd64-3.10\twisted\conch\insults
+      copying src\twisted\conch\insults\helper.py -> build\lib.win-amd64-3.10\twisted\conch\insults
+      copying src\twisted\conch\insults\insults.py -> build\lib.win-amd64-3.10\twisted\conch\insults
+      copying src\twisted\conch\insults\text.py -> build\lib.win-amd64-3.10\twisted\conch\insults
+      copying src\twisted\conch\insults\window.py -> build\lib.win-amd64-3.10\twisted\conch\insults
+      copying src\twisted\conch\insults\__init__.py -> build\lib.win-amd64-3.10\twisted\conch\insults
+      creating build\lib.win-amd64-3.10\twisted\conch\openssh_compat
+      copying src\twisted\conch\openssh_compat\factory.py -> build\lib.win-amd64-3.10\twisted\conch\openssh_compat
+      copying src\twisted\conch\openssh_compat\primes.py -> build\lib.win-amd64-3.10\twisted\conch\openssh_compat
+      copying src\twisted\conch\openssh_compat\__init__.py -> build\lib.win-amd64-3.10\twisted\conch\openssh_compat
+      creating build\lib.win-amd64-3.10\twisted\conch\scripts
+      copying src\twisted\conch\scripts\cftp.py -> build\lib.win-amd64-3.10\twisted\conch\scripts
+      copying src\twisted\conch\scripts\ckeygen.py -> build\lib.win-amd64-3.10\twisted\conch\scripts
+      copying src\twisted\conch\scripts\conch.py -> build\lib.win-amd64-3.10\twisted\conch\scripts
+      copying src\twisted\conch\scripts\tkconch.py -> build\lib.win-amd64-3.10\twisted\conch\scripts
+      copying src\twisted\conch\scripts\__init__.py -> build\lib.win-amd64-3.10\twisted\conch\scripts
+      creating build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\address.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\agent.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\channel.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\common.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\connection.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\factory.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\filetransfer.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\forwarding.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\keys.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\service.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\session.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\sexpy.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\transport.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\userauth.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\_kex.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      copying src\twisted\conch\ssh\__init__.py -> build\lib.win-amd64-3.10\twisted\conch\ssh
+      creating build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\keydata.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\loopback.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_address.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_agent.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_cftp.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_channel.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_checkers.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_ckeygen.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_conch.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_connection.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_default.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_endpoints.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_filetransfer.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_forwarding.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_helper.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_insults.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_keys.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_knownhosts.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_manhole.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_manhole_tap.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_mixin.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_openssh_compat.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_recvline.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_scripts.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_session.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_ssh.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_tap.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_telnet.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_text.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_transport.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_unix.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_userauth.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\test_window.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      copying src\twisted\conch\test\__init__.py -> build\lib.win-amd64-3.10\twisted\conch\test
+      creating build\lib.win-amd64-3.10\twisted\conch\ui
+      copying src\twisted\conch\ui\ansi.py -> build\lib.win-amd64-3.10\twisted\conch\ui
+      copying src\twisted\conch\ui\tkvt100.py -> build\lib.win-amd64-3.10\twisted\conch\ui
+      copying src\twisted\conch\ui\__init__.py -> build\lib.win-amd64-3.10\twisted\conch\ui
+      creating build\lib.win-amd64-3.10\twisted\cred\test
+      copying src\twisted\cred\test\test_cramauth.py -> build\lib.win-amd64-3.10\twisted\cred\test
+      copying src\twisted\cred\test\test_cred.py -> build\lib.win-amd64-3.10\twisted\cred\test
+      copying src\twisted\cred\test\test_digestauth.py -> build\lib.win-amd64-3.10\twisted\cred\test
+      copying src\twisted\cred\test\test_simpleauth.py -> build\lib.win-amd64-3.10\twisted\cred\test
+      copying src\twisted\cred\test\test_strcred.py -> build\lib.win-amd64-3.10\twisted\cred\test
+      copying src\twisted\cred\test\__init__.py -> build\lib.win-amd64-3.10\twisted\cred\test
+      creating build\lib.win-amd64-3.10\twisted\internet\iocpreactor
+      copying src\twisted\internet\iocpreactor\abstract.py -> build\lib.win-amd64-3.10\twisted\internet\iocpreactor
+      copying src\twisted\internet\iocpreactor\const.py -> build\lib.win-amd64-3.10\twisted\internet\iocpreactor
+      copying src\twisted\internet\iocpreactor\interfaces.py -> build\lib.win-amd64-3.10\twisted\internet\iocpreactor
+      copying src\twisted\internet\iocpreactor\reactor.py -> build\lib.win-amd64-3.10\twisted\internet\iocpreactor
+      copying src\twisted\internet\iocpreactor\setup.py -> build\lib.win-amd64-3.10\twisted\internet\iocpreactor
+      copying src\twisted\internet\iocpreactor\tcp.py -> build\lib.win-amd64-3.10\twisted\internet\iocpreactor
+      copying src\twisted\internet\iocpreactor\udp.py -> build\lib.win-amd64-3.10\twisted\internet\iocpreactor
+      copying src\twisted\internet\iocpreactor\__init__.py -> build\lib.win-amd64-3.10\twisted\internet\iocpreactor
+      creating build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\connectionmixins.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\fakeendpoint.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\modulehelpers.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\process_cli.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\process_connectionlost.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\process_gireactornocompat.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\process_helper.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\reactormixins.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_abstract.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_address.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_asyncioreactor.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_base.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_baseprocess.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_core.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_coroutines.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_default.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_endpoints.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_epollreactor.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_fdset.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_filedescriptor.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_gireactor.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_glibbase.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_inlinecb.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_inotify.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_iocp.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_kqueuereactor.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_main.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_newtls.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_pollingfile.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_posixbase.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_posixprocess.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_process.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_protocol.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_resolver.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_serialport.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_sigchld.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_socket.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_stdio.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_tcp.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_threads.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_time.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_tls.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_udp.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_udp_internals.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_unix.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_win32events.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\test_win32serialport.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\_posixifaces.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\_win32ifaces.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\__init__.py -> build\lib.win-amd64-3.10\twisted\internet\test
+      creating build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_buffer.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_file.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_filter.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_flatten.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_format.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_global.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_io.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_json.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_legacy.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_levels.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_logger.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_observer.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_stdlib.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\test_util.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      copying src\twisted\logger\test\__init__.py -> build\lib.win-amd64-3.10\twisted\logger\test
+      creating build\lib.win-amd64-3.10\twisted\mail\scripts
+      copying src\twisted\mail\scripts\mailmail.py -> build\lib.win-amd64-3.10\twisted\mail\scripts
+      creating build\lib.win-amd64-3.10\twisted\mail\test
+      copying src\twisted\mail\test\pop3testserver.py -> build\lib.win-amd64-3.10\twisted\mail\test
+      copying src\twisted\mail\test\test_imap.py -> build\lib.win-amd64-3.10\twisted\mail\test
+      copying src\twisted\mail\test\test_mailmail.py -> build\lib.win-amd64-3.10\twisted\mail\test
+      copying src\twisted\mail\test\test_pop3.py -> build\lib.win-amd64-3.10\twisted\mail\test
+      copying src\twisted\mail\test\test_pop3client.py -> build\lib.win-amd64-3.10\twisted\mail\test
+      copying src\twisted\mail\test\test_smtp.py -> build\lib.win-amd64-3.10\twisted\mail\test
+      copying src\twisted\mail\test\__init__.py -> build\lib.win-amd64-3.10\twisted\mail\test
+      creating build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_cache.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_client.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_common.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_dns.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_examples.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_hosts.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_names.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_resolve.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_rfc1982.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_rootresolve.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_server.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_srvconnect.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_tap.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\test_util.py -> build\lib.win-amd64-3.10\twisted\names\test
+      copying src\twisted\names\test\__init__.py -> build\lib.win-amd64-3.10\twisted\names\test
+      creating build\lib.win-amd64-3.10\twisted\pair\test
+      copying src\twisted\pair\test\test_ethernet.py -> build\lib.win-amd64-3.10\twisted\pair\test
+      copying src\twisted\pair\test\test_ip.py -> build\lib.win-amd64-3.10\twisted\pair\test
+      copying src\twisted\pair\test\test_rawudp.py -> build\lib.win-amd64-3.10\twisted\pair\test
+      copying src\twisted\pair\test\test_tuntap.py -> build\lib.win-amd64-3.10\twisted\pair\test
+      copying src\twisted\pair\test\__init__.py -> build\lib.win-amd64-3.10\twisted\pair\test
+      creating build\lib.win-amd64-3.10\twisted\persisted\test
+      copying src\twisted\persisted\test\test_styles.py -> build\lib.win-amd64-3.10\twisted\persisted\test
+      copying src\twisted\persisted\test\__init__.py -> build\lib.win-amd64-3.10\twisted\persisted\test
+      creating build\lib.win-amd64-3.10\twisted\positioning\test
+      copying src\twisted\positioning\test\receiver.py -> build\lib.win-amd64-3.10\twisted\positioning\test
+      copying src\twisted\positioning\test\test_base.py -> build\lib.win-amd64-3.10\twisted\positioning\test
+      copying src\twisted\positioning\test\test_nmea.py -> build\lib.win-amd64-3.10\twisted\positioning\test
+      copying src\twisted\positioning\test\test_sentence.py -> build\lib.win-amd64-3.10\twisted\positioning\test
+      copying src\twisted\positioning\test\__init__.py -> build\lib.win-amd64-3.10\twisted\positioning\test
+      creating build\lib.win-amd64-3.10\twisted\protocols\haproxy
+      copying src\twisted\protocols\haproxy\_exceptions.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy
+      copying src\twisted\protocols\haproxy\_info.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy
+      copying src\twisted\protocols\haproxy\_interfaces.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy
+      copying src\twisted\protocols\haproxy\_parser.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy
+      copying src\twisted\protocols\haproxy\_v1parser.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy
+      copying src\twisted\protocols\haproxy\_v2parser.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy
+      copying src\twisted\protocols\haproxy\_wrapper.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy
+      copying src\twisted\protocols\haproxy\__init__.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy
+      creating build\lib.win-amd64-3.10\twisted\protocols\test
+      copying src\twisted\protocols\test\test_basic.py -> build\lib.win-amd64-3.10\twisted\protocols\test
+      copying src\twisted\protocols\test\test_tls.py -> build\lib.win-amd64-3.10\twisted\protocols\test
+      copying src\twisted\protocols\test\__init__.py -> build\lib.win-amd64-3.10\twisted\protocols\test
+      creating build\lib.win-amd64-3.10\twisted\protocols\haproxy\test
+      copying src\twisted\protocols\haproxy\test\test_parser.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy\test
+      copying src\twisted\protocols\haproxy\test\test_v1parser.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy\test
+      copying src\twisted\protocols\haproxy\test\test_v2parser.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy\test
+      copying src\twisted\protocols\haproxy\test\test_wrapper.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy\test
+      copying src\twisted\protocols\haproxy\test\__init__.py -> build\lib.win-amd64-3.10\twisted\protocols\haproxy\test
+      creating build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\deprecatedattributes.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\modules_helpers.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\pullpipe.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_appdirs.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_components.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_constants.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_deprecate.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_dist3.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_fakepwd.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_htmlizer.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_inotify.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_release.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_runtime.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_sendmsg.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_setup.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_shellcomp.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_syslog.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_systemd.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_textattributes.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_tzhelper.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_url.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_urlpath.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_util.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_versions.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_zippath.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\test_zipstream.py -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\python\test\__init__.py -> build\lib.win-amd64-3.10\twisted\python\test
+      creating build\lib.win-amd64-3.10\twisted\runner\test
+      copying src\twisted\runner\test\test_inetdconf.py -> build\lib.win-amd64-3.10\twisted\runner\test
+      copying src\twisted\runner\test\test_procmon.py -> build\lib.win-amd64-3.10\twisted\runner\test
+      copying src\twisted\runner\test\test_procmontap.py -> build\lib.win-amd64-3.10\twisted\runner\test
+      copying src\twisted\runner\test\__init__.py -> build\lib.win-amd64-3.10\twisted\runner\test
+      creating build\lib.win-amd64-3.10\twisted\scripts\test
+      copying src\twisted\scripts\test\test_scripts.py -> build\lib.win-amd64-3.10\twisted\scripts\test
+      copying src\twisted\scripts\test\__init__.py -> build\lib.win-amd64-3.10\twisted\scripts\test
+      creating build\lib.win-amd64-3.10\twisted\spread\test
+      copying src\twisted\spread\test\test_banana.py -> build\lib.win-amd64-3.10\twisted\spread\test
+      copying src\twisted\spread\test\test_jelly.py -> build\lib.win-amd64-3.10\twisted\spread\test
+      copying src\twisted\spread\test\test_pb.py -> build\lib.win-amd64-3.10\twisted\spread\test
+      copying src\twisted\spread\test\test_pbfailure.py -> build\lib.win-amd64-3.10\twisted\spread\test
+      copying src\twisted\spread\test\__init__.py -> build\lib.win-amd64-3.10\twisted\spread\test
+      creating build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\detests.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\erroneous.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\mockcustomsuite.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\mockcustomsuite2.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\mockcustomsuite3.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\mockdoctest.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\moduleself.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\moduletest.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\novars.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\ordertests.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\packages.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\sample.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\scripttest.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\skipping.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\suppression.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_assertions.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_asyncassertions.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_deferred.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_doctest.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_keyboard.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_loader.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_log.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_output.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_plugins.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_pyunitcompat.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_reporter.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_runner.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_script.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_suppression.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_testcase.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_tests.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_util.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\test_warning.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\weird.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      copying src\twisted\trial\test\__init__.py -> build\lib.win-amd64-3.10\twisted\trial\test
+      creating build\lib.win-amd64-3.10\twisted\trial\_dist
+      copying src\twisted\trial\_dist\distreporter.py -> build\lib.win-amd64-3.10\twisted\trial\_dist
+      copying src\twisted\trial\_dist\disttrial.py -> build\lib.win-amd64-3.10\twisted\trial\_dist
+      copying src\twisted\trial\_dist\managercommands.py -> build\lib.win-amd64-3.10\twisted\trial\_dist
+      copying src\twisted\trial\_dist\options.py -> build\lib.win-amd64-3.10\twisted\trial\_dist
+      copying src\twisted\trial\_dist\worker.py -> build\lib.win-amd64-3.10\twisted\trial\_dist
+      copying src\twisted\trial\_dist\workercommands.py -> build\lib.win-amd64-3.10\twisted\trial\_dist
+      copying src\twisted\trial\_dist\workerreporter.py -> build\lib.win-amd64-3.10\twisted\trial\_dist
+      copying src\twisted\trial\_dist\workertrial.py -> build\lib.win-amd64-3.10\twisted\trial\_dist
+      copying src\twisted\trial\_dist\__init__.py -> build\lib.win-amd64-3.10\twisted\trial\_dist
+      creating build\lib.win-amd64-3.10\twisted\trial\_dist\test
+      copying src\twisted\trial\_dist\test\test_distreporter.py -> build\lib.win-amd64-3.10\twisted\trial\_dist\test
+      copying src\twisted\trial\_dist\test\test_disttrial.py -> build\lib.win-amd64-3.10\twisted\trial\_dist\test
+      copying src\twisted\trial\_dist\test\test_options.py -> build\lib.win-amd64-3.10\twisted\trial\_dist\test
+      copying src\twisted\trial\_dist\test\test_worker.py -> build\lib.win-amd64-3.10\twisted\trial\_dist\test
+      copying src\twisted\trial\_dist\test\test_workerreporter.py -> build\lib.win-amd64-3.10\twisted\trial\_dist\test
+      copying src\twisted\trial\_dist\test\test_workertrial.py -> build\lib.win-amd64-3.10\twisted\trial\_dist\test
+      copying src\twisted\trial\_dist\test\__init__.py -> build\lib.win-amd64-3.10\twisted\trial\_dist\test
+      creating build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\requesthelper.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_agent.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_cgi.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_client.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_distrib.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_domhelpers.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_error.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_flatten.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_html.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_http.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_http2.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_httpauth.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_http_headers.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_newclient.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_proxy.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_resource.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_script.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_stan.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_static.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_tap.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_template.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_util.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_vhost.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_web.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_webclient.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_web__responses.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_wsgi.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_xml.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\test_xmlrpc.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\_util.py -> build\lib.win-amd64-3.10\twisted\web\test
+      copying src\twisted\web\test\__init__.py -> build\lib.win-amd64-3.10\twisted\web\test
+      creating build\lib.win-amd64-3.10\twisted\web\_auth
+      copying src\twisted\web\_auth\basic.py -> build\lib.win-amd64-3.10\twisted\web\_auth
+      copying src\twisted\web\_auth\digest.py -> build\lib.win-amd64-3.10\twisted\web\_auth
+      copying src\twisted\web\_auth\wrapper.py -> build\lib.win-amd64-3.10\twisted\web\_auth
+      copying src\twisted\web\_auth\__init__.py -> build\lib.win-amd64-3.10\twisted\web\_auth
+      creating build\lib.win-amd64-3.10\twisted\words\im
+      copying src\twisted\words\im\baseaccount.py -> build\lib.win-amd64-3.10\twisted\words\im
+      copying src\twisted\words\im\basechat.py -> build\lib.win-amd64-3.10\twisted\words\im
+      copying src\twisted\words\im\basesupport.py -> build\lib.win-amd64-3.10\twisted\words\im
+      copying src\twisted\words\im\interfaces.py -> build\lib.win-amd64-3.10\twisted\words\im
+      copying src\twisted\words\im\ircsupport.py -> build\lib.win-amd64-3.10\twisted\words\im
+      copying src\twisted\words\im\locals.py -> build\lib.win-amd64-3.10\twisted\words\im
+      copying src\twisted\words\im\pbsupport.py -> build\lib.win-amd64-3.10\twisted\words\im
+      copying src\twisted\words\im\__init__.py -> build\lib.win-amd64-3.10\twisted\words\im
+      creating build\lib.win-amd64-3.10\twisted\words\protocols
+      copying src\twisted\words\protocols\irc.py -> build\lib.win-amd64-3.10\twisted\words\protocols
+      copying src\twisted\words\protocols\__init__.py -> build\lib.win-amd64-3.10\twisted\words\protocols
+      creating build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_basechat.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_basesupport.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_domish.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_irc.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_ircsupport.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_irc_service.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_jabberclient.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_jabbercomponent.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_jabbererror.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_jabberjid.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_jabberjstrports.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_jabbersasl.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_jabbersaslmechanisms.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_jabberxmlstream.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_jabberxmppstringprep.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_service.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_tap.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_xishutil.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_xmlstream.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_xmpproutertap.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\test_xpath.py -> build\lib.win-amd64-3.10\twisted\words\test
+      copying src\twisted\words\test\__init__.py -> build\lib.win-amd64-3.10\twisted\words\test
+      creating build\lib.win-amd64-3.10\twisted\words\xish
+      copying src\twisted\words\xish\domish.py -> build\lib.win-amd64-3.10\twisted\words\xish
+      copying src\twisted\words\xish\utility.py -> build\lib.win-amd64-3.10\twisted\words\xish
+      copying src\twisted\words\xish\xmlstream.py -> build\lib.win-amd64-3.10\twisted\words\xish
+      copying src\twisted\words\xish\xpath.py -> build\lib.win-amd64-3.10\twisted\words\xish
+      copying src\twisted\words\xish\xpathparser.py -> build\lib.win-amd64-3.10\twisted\words\xish
+      copying src\twisted\words\xish\__init__.py -> build\lib.win-amd64-3.10\twisted\words\xish
+      creating build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\client.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\component.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\error.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\ijabber.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\jid.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\jstrports.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\sasl.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\sasl_mechanisms.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\xmlstream.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\xmpp_stringprep.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      copying src\twisted\words\protocols\jabber\__init__.py -> build\lib.win-amd64-3.10\twisted\words\protocols\jabber
+      creating build\lib.win-amd64-3.10\twisted\_threads\test
+      copying src\twisted\_threads\test\test_convenience.py -> build\lib.win-amd64-3.10\twisted\_threads\test
+      copying src\twisted\_threads\test\test_memory.py -> build\lib.win-amd64-3.10\twisted\_threads\test
+      copying src\twisted\_threads\test\test_team.py -> build\lib.win-amd64-3.10\twisted\_threads\test
+      copying src\twisted\_threads\test\test_threadworker.py -> build\lib.win-amd64-3.10\twisted\_threads\test
+      copying src\twisted\_threads\test\__init__.py -> build\lib.win-amd64-3.10\twisted\_threads\test
+      running egg_info
+      writing src\Twisted.egg-info\PKG-INFO
+      writing dependency_links to src\Twisted.egg-info\dependency_links.txt
+      writing entry points to src\Twisted.egg-info\entry_points.txt
+      writing requirements to src\Twisted.egg-info\requires.txt
+      writing top-level names to src\Twisted.egg-info\top_level.txt
+      reading manifest file 'src\Twisted.egg-info\SOURCES.txt'
+      reading manifest template 'MANIFEST.in'
+      warning: no previously-included files matching '*.misc' found under directory 'src\twisted'
+      warning: no previously-included files matching '*.bugfix' found under directory 'src\twisted'
+      warning: no previously-included files matching '*.doc' found under directory 'src\twisted'
+      warning: no previously-included files matching '*.feature' found under directory 'src\twisted'
+      warning: no previously-included files matching '*.removal' found under directory 'src\twisted'
+      warning: no previously-included files matching 'NEWS' found under directory 'src\twisted'
+      warning: no previously-included files matching 'README' found under directory 'src\twisted'
+      warning: no previously-included files matching 'newsfragments' found under directory 'src\twisted'
+      warning: no previously-included files found matching 'src\twisted\topfiles\CREDITS'
+      warning: no previously-included files found matching 'src\twisted\topfiles\ChangeLog.Old'
+      warning: no previously-included files found matching 'pyproject.toml'
+      warning: no previously-included files found matching 'codecov.yml'
+      warning: no previously-included files found matching 'appveyor.yml'
+      warning: no previously-included files found matching '.circleci'
+      warning: no previously-included files matching '*' found under directory '.circleci'
+      no previously-included directories found matching 'bin'
+      no previously-included directories found matching 'admin'
+      no previously-included directories found matching '.travis'
+      no previously-included directories found matching '.github'
+      warning: no previously-included files found matching 'docs\historic\2003'
+      warning: no previously-included files matching '*' found under directory 'docs\historic\2003'
+      adding license file 'LICENSE'
+      writing manifest file 'src\Twisted.egg-info\SOURCES.txt'
+      copying src\twisted\python\twisted-completion.zsh -> build\lib.win-amd64-3.10\twisted\python
+      creating build\lib.win-amd64-3.10\twisted\python\_pydoctortemplates
+      copying src\twisted\python\_pydoctortemplates\common.html -> build\lib.win-amd64-3.10\twisted\python\_pydoctortemplates
+      copying src\twisted\python\_pydoctortemplates\index.html -> build\lib.win-amd64-3.10\twisted\python\_pydoctortemplates
+      copying src\twisted\python\_pydoctortemplates\summary.html -> build\lib.win-amd64-3.10\twisted\python\_pydoctortemplates
+      copying src\twisted\test\cert.pem.no_trailing_newline -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\key.pem.no_trailing_newline -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\test\server.pem -> build\lib.win-amd64-3.10\twisted\test
+      copying src\twisted\internet\iocpreactor\notes.txt -> build\lib.win-amd64-3.10\twisted\internet\iocpreactor
+      copying src\twisted\internet\test\_awaittests.py.3only -> build\lib.win-amd64-3.10\twisted\internet\test
+      copying src\twisted\internet\test\_yieldfromtests.py.3only -> build\lib.win-amd64-3.10\twisted\internet\test
+      creating build\lib.win-amd64-3.10\twisted\internet\test\fake_CAs
+      copying src\twisted\internet\test\fake_CAs\chain.pem -> build\lib.win-amd64-3.10\twisted\internet\test\fake_CAs
+      copying src\twisted\internet\test\fake_CAs\not-a-certificate -> build\lib.win-amd64-3.10\twisted\internet\test\fake_CAs
+      copying src\twisted\internet\test\fake_CAs\thing1.pem -> build\lib.win-amd64-3.10\twisted\internet\test\fake_CAs
+      copying src\twisted\internet\test\fake_CAs\thing2-duplicate.pem -> build\lib.win-amd64-3.10\twisted\internet\test\fake_CAs
+      copying src\twisted\internet\test\fake_CAs\thing2.pem -> build\lib.win-amd64-3.10\twisted\internet\test\fake_CAs
+      copying src\twisted\mail\test\rfc822.message -> build\lib.win-amd64-3.10\twisted\mail\test
+      copying src\twisted\python\test\_deprecatetests.py.3only -> build\lib.win-amd64-3.10\twisted\python\test
+      copying src\twisted\words\im\instancemessenger.glade -> build\lib.win-amd64-3.10\twisted\words\im
+      copying src\twisted\words\xish\xpathparser.g -> build\lib.win-amd64-3.10\twisted\words\xish
+      running build_ext
+      building 'twisted.test.raiser' extension
+      error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: legacy-install-failure
+
+× Encountered error while trying to install package.
+╰─> Twisted
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for output from the failure.
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install ubuntu-advantage-tools==20.3
+ERROR: Could not find a version that satisfies the requirement ubuntu-advantage-tools==20.3 (from versions: none)
+ERROR: No matching distribution found for ubuntu-advantage-tools==20.3
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install ufw==0.36
+ERROR: Could not find a version that satisfies the requirement ufw==0.36 (from versions: none)
+ERROR: No matching distribution found for ufw==0.36
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install unattended-upgrades==0.1
+ERROR: Could not find a version that satisfies the requirement unattended-upgrades==0.1 (from versions: none)
+ERROR: No matching distribution found for unattended-upgrades==0.1
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install urllib3==1.25.8
+Collecting urllib3==1.25.8
+  Downloading urllib3-1.25.8-py2.py3-none-any.whl (125 kB)
+     ---------------------------------------- 125.6/125.6 KB 307.7 kB/s eta 0:00:00
+Installing collected packages: urllib3
+  Attempting uninstall: urllib3
+    Found existing installation: urllib3 1.25.11
+    Uninstalling urllib3-1.25.11:
+      Successfully uninstalled urllib3-1.25.11
+Successfully installed urllib3-1.25.8
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install wadllib==1.3.3
+Collecting wadllib==1.3.3
+  Downloading wadllib-1.3.3.tar.gz (62 kB)
+     ---------------------------------------- 62.4/62.4 KB 196.1 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Requirement already satisfied: setuptools in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from wadllib==1.3.3) (58.1.0)
+Requirement already satisfied: lazr.uri in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from wadllib==1.3.3) (1.0.3)
+Using legacy 'setup.py install' for wadllib, since package 'wheel' is not installed.
+Installing collected packages: wadllib
+  Attempting uninstall: wadllib
+    Found existing installation: wadllib 1.3.6
+    Uninstalling wadllib-1.3.6:
+      Successfully uninstalled wadllib-1.3.6
+  Running setup.py install for wadllib ... done
+Successfully installed wadllib-1.3.3
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install wcwidth==0.1.8
+Collecting wcwidth==0.1.8
+  Downloading wcwidth-0.1.8-py2.py3-none-any.whl (17 kB)
+Installing collected packages: wcwidth
+  Attempting uninstall: wcwidth
+    Found existing installation: wcwidth 0.2.5
+    Uninstalling wcwidth-0.2.5:
+      Successfully uninstalled wcwidth-0.2.5
+Successfully installed wcwidth-0.1.8
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install zipp==1.0.0
+Collecting zipp==1.0.0
+  Downloading zipp-1.0.0-py2.py3-none-any.whl (4.1 kB)
+Requirement already satisfied: more-itertools in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from zipp==1.0.0) (4.2.0)
+Requirement already satisfied: six<2.0.0,>=1.0.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from more-itertools->zipp==1.0.0) (1.14.0)
+Installing collected packages: zipp
+  Attempting uninstall: zipp
+    Found existing installation: zipp 3.8.0
+    Uninstalling zipp-3.8.0:
+      Successfully uninstalled zipp-3.8.0
+Successfully installed zipp-1.0.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install zope.interface==4.7.1
+Collecting zope.interface==4.7.1
+  Downloading zope.interface-4.7.1.tar.gz (151 kB)
+     ---------------------------------------- 151.4/151.4 KB 347.6 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... error
+  error: subprocess-exited-with-error
+
+  × python setup.py egg_info did not run successfully.
+  │ exit code: 1
+  ╰─> [6 lines of output]
+      Traceback (most recent call last):
+        File "<string>", line 2, in <module>
+        File "<pip-setuptools-caller>", line 34, in <module>
+        File "C:\Users\cpani\AppData\Local\Temp\pip-install-33n695ma\zope-interface_424e62cf7a9c46ba87b193641d0a619b\setup.py", line 26, in <module>
+          from setuptools import setup, Extension, Feature
+      ImportError: cannot import name 'Feature' from 'setuptools' (C:\Users\cpani\AppData\Local\Programs\Python\Python310\lib\site-packages\setuptools\__init__.py)
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: metadata-generation-failed
+
+× Encountered error while generating package metadata.
+╰─> See above for output.
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for details.
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip list
+Package             Version
+------------------- ----------
+attrs               19.3.0
+Automat             0.8.0
+autopep8            1.6.0
+backcall            0.1.0
+blinker             1.4
+certifi             2019.11.28
+cffi                1.15.0
+chardet             3.0.4
+Click               7.0
+colorama            0.4.3
+configobj           5.0.6
+constantly          15.1.0
+cryptography        36.0.2
+decorator           4.4.2
+distro              1.4.0
+entrypoints         0.3
+httplib2            0.14.0
+hyperlink           19.0.0
+idna                2.8
+importlib-metadata  1.5.0
+incremental         16.10.1
+ipython             7.13.0
+ipython-genutils    0.2.0
+jedi                0.15.2
+Jinja2              2.10.1
+jsonpatch           1.22
+jsonpointer         2.0
+jsonschema          3.2.0
+keyring             18.0.1
+launchpadlib        1.10.13
+lazr.restfulclient  0.14.2
+lazr.uri            1.0.3
+MarkupSafe          1.1.0
+more-itertools      4.2.0
+numpy               1.22.3
+oauthlib            3.1.0
+parso               0.5.2
+pbr                 5.8.1
+pexpect             4.6.0
+pickleshare         0.7.5
+pip                 22.0.4
+prompt-toolkit      2.0.10
+ptyprocess          0.7.0
+pyasn1              0.4.2
+pyasn1-modules      0.2.1
+pycodestyle         2.8.0
+pycparser           2.21
+Pygments            2.3.1
+PyHamcrest          1.9.0
+PyJWT               1.7.1
+pymacaroons         0.13.0
+PyNaCl              1.5.0
+pyOpenSSL           19.0.0
+pyrsistent          0.15.5
+pyserial            3.4
+pywin32-ctypes      0.2.0
+PyYAML              5.3.1
+requests            2.22.0
+requests-unixsocket 0.2.0
+SecretStorage       2.3.1
+service-identity    18.1.0
+setuptools          58.1.0
+simplejson          3.16.0
+six                 1.14.0
+ssh-import-id       5.10
+testresources       2.0.1
+toml                0.10.2
+traitlets           4.3.3
+urllib3             1.25.8
+wadllib             1.3.3
+wcwidth             0.1.8
+zipp                1.0.0
+zope.interface      5.4.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install keras
+Collecting keras
+  Downloading keras-2.8.0-py2.py3-none-any.whl (1.4 MB)
+     ---------------------------------------- 1.4/1.4 MB 1.1 MB/s eta 0:00:00
+Installing collected packages: keras
+Successfully installed keras-2.8.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip list
+Package             Version
+------------------- ----------
+attrs               19.3.0
+Automat             0.8.0
+autopep8            1.6.0
+backcall            0.1.0
+blinker             1.4
+certifi             2019.11.28
+cffi                1.15.0
+chardet             3.0.4
+Click               7.0
+colorama            0.4.3
+configobj           5.0.6
+constantly          15.1.0
+cryptography        36.0.2
+decorator           4.4.2
+distro              1.4.0
+entrypoints         0.3
+httplib2            0.14.0
+hyperlink           19.0.0
+idna                2.8
+importlib-metadata  1.5.0
+incremental         16.10.1
+ipython             7.13.0
+ipython-genutils    0.2.0
+jedi                0.15.2
+Jinja2              2.10.1
+jsonpatch           1.22
+jsonpointer         2.0
+jsonschema          3.2.0
+keras               2.8.0
+keyring             18.0.1
+launchpadlib        1.10.13
+lazr.restfulclient  0.14.2
+lazr.uri            1.0.3
+MarkupSafe          1.1.0
+more-itertools      4.2.0
+numpy               1.22.3
+oauthlib            3.1.0
+parso               0.5.2
+pbr                 5.8.1
+pexpect             4.6.0
+pickleshare         0.7.5
+pip                 22.0.4
+prompt-toolkit      2.0.10
+ptyprocess          0.7.0
+pyasn1              0.4.2
+pyasn1-modules      0.2.1
+pycodestyle         2.8.0
+pycparser           2.21
+Pygments            2.3.1
+PyHamcrest          1.9.0
+PyJWT               1.7.1
+pymacaroons         0.13.0
+PyNaCl              1.5.0
+pyOpenSSL           19.0.0
+pyrsistent          0.15.5
+pyserial            3.4
+pywin32-ctypes      0.2.0
+PyYAML              5.3.1
+requests            2.22.0
+requests-unixsocket 0.2.0
+SecretStorage       2.3.1
+service-identity    18.1.0
+setuptools          58.1.0
+simplejson          3.16.0
+six                 1.14.0
+ssh-import-id       5.10
+testresources       2.0.1
+toml                0.10.2
+traitlets           4.3.3
+urllib3             1.25.8
+wadllib             1.3.3
+wcwidth             0.1.8
+zipp                1.0.0
+zope.interface      5.4.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install tensorflow
+Collecting tensorflow
+  Downloading tensorflow-2.8.0-cp310-cp310-win_amd64.whl (438.0 MB)
+     ----- ---------------------------------- 63.8/438.0 MB 774.7 kB/s eta 0:08:03
+ERROR: Operation cancelled by user
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>pip install tensorflow
+Collecting tensorflow
+  Downloading tensorflow-2.8.0-cp310-cp310-win_amd64.whl (438.0 MB)
+     ---------------------------------------- 438.0/438.0 MB 534.6 kB/s eta 0:00:00
+Requirement already satisfied: numpy>=1.20 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from tensorflow) (1.22.3)
+WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/astunparse/
+Collecting astunparse>=1.6.0
+  Downloading astunparse-1.6.3-py2.py3-none-any.whl (12 kB)
+Collecting wrapt>=1.11.0
+  Downloading wrapt-1.14.0-cp310-cp310-win_amd64.whl (36 kB)
+Collecting google-pasta>=0.1.1
+  Downloading google_pasta-0.2.0-py3-none-any.whl (57 kB)
+     ---------------------------------------- 57.5/57.5 KB 42.0 kB/s eta 0:00:00
+Collecting h5py>=2.9.0
+  Downloading h5py-3.6.0-cp310-cp310-win_amd64.whl (2.8 MB)
+     ---------------------------------------- 2.8/2.8 MB 1.0 MB/s eta 0:00:00
+Requirement already satisfied: setuptools in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from tensorflow) (58.1.0)
+Collecting gast>=0.2.1
+  Downloading gast-0.5.3-py3-none-any.whl (19 kB)
+Collecting termcolor>=1.1.0
+  Downloading termcolor-1.1.0.tar.gz (3.9 kB)
+  Preparing metadata (setup.py) ... done
+Collecting flatbuffers>=1.12
+  Downloading flatbuffers-2.0-py2.py3-none-any.whl (26 kB)
+Collecting absl-py>=0.4.0
+  Downloading absl_py-1.0.0-py3-none-any.whl (126 kB)
+     ---------------------------------------- 126.7/126.7 KB 7.3 MB/s eta 0:00:00
+Collecting keras-preprocessing>=1.1.1
+  Downloading Keras_Preprocessing-1.1.2-py2.py3-none-any.whl (42 kB)
+     ---------------------------------------- 42.6/42.6 KB 347.8 kB/s eta 0:00:00
+Collecting protobuf>=3.9.2
+  Downloading protobuf-3.20.0-cp310-cp310-win_amd64.whl (903 kB)
+     ---------------------------------------- 903.8/903.8 KB 1.2 MB/s eta 0:00:00
+Collecting tensorflow-io-gcs-filesystem>=0.23.1
+  Downloading tensorflow_io_gcs_filesystem-0.24.0-cp310-cp310-win_amd64.whl (1.5 MB)
+     ---------------------------------------- 1.5/1.5 MB 776.1 kB/s eta 0:00:00
+Requirement already satisfied: keras<2.9,>=2.8.0rc0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from tensorflow) (2.8.0)
+Collecting opt-einsum>=2.3.2
+  Downloading opt_einsum-3.3.0-py3-none-any.whl (65 kB)
+     ---------------------------------------- 65.5/65.5 KB 506.8 kB/s eta 0:00:00
+Requirement already satisfied: six>=1.12.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from tensorflow) (1.14.0)
+Collecting tensorboard<2.9,>=2.8
+  Downloading tensorboard-2.8.0-py3-none-any.whl (5.8 MB)
+     ---------------------------------------- 5.8/5.8 MB 821.8 kB/s eta 0:00:00
+Collecting typing-extensions>=3.6.6
+  Downloading typing_extensions-4.1.1-py3-none-any.whl (26 kB)
+Collecting grpcio<2.0,>=1.24.3
+  Downloading grpcio-1.44.0-cp310-cp310-win_amd64.whl (3.4 MB)
+     ---------------------------------------- 3.4/3.4 MB 527.9 kB/s eta 0:00:00
+Collecting tf-estimator-nightly==2.8.0.dev2021122109
+  Downloading tf_estimator_nightly-2.8.0.dev2021122109-py2.py3-none-any.whl (462 kB)
+     ---------------------------------------- 462.5/462.5 KB 357.5 kB/s eta 0:00:00
+Collecting libclang>=9.0.1
+  Downloading libclang-13.0.0-py2.py3-none-win_amd64.whl (13.9 MB)
+     ---------------------------------------- 13.9/13.9 MB 983.1 kB/s eta 0:00:00
+Collecting wheel<1.0,>=0.23.0
+  Using cached wheel-0.37.1-py2.py3-none-any.whl (35 kB)
+Collecting google-auth-oauthlib<0.5,>=0.4.1
+  Downloading google_auth_oauthlib-0.4.6-py2.py3-none-any.whl (18 kB)
+Collecting markdown>=2.6.8
+  Downloading Markdown-3.3.6-py3-none-any.whl (97 kB)
+     ---------------------------------------- 97.8/97.8 KB 465.7 kB/s eta 0:00:00
+Collecting tensorboard-data-server<0.7.0,>=0.6.0
+  Downloading tensorboard_data_server-0.6.1-py3-none-any.whl (2.4 kB)
+Requirement already satisfied: requests<3,>=2.21.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from tensorboard<2.9,>=2.8->tensorflow) (2.22.0)
+Collecting google-auth<3,>=1.6.3
+  Downloading google_auth-2.6.3-py2.py3-none-any.whl (156 kB)
+     ---------------------------------------- 156.6/156.6 KB 203.8 kB/s eta 0:00:00
+Collecting tensorboard-plugin-wit>=1.6.0
+  Downloading tensorboard_plugin_wit-1.8.1-py3-none-any.whl (781 kB)
+     ---------------------------------------- 781.3/781.3 KB 306.5 kB/s eta 0:00:00
+Collecting werkzeug>=0.11.15
+  Downloading Werkzeug-2.1.1-py3-none-any.whl (224 kB)
+     ---------------------------------------- 224.7/224.7 KB 1.4 MB/s eta 0:00:00
+Requirement already satisfied: pyasn1-modules>=0.2.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from google-auth<3,>=1.6.3->tensorboard<2.9,>=2.8->tensorflow) (0.2.1)
+Collecting cachetools<6.0,>=2.0.0
+  Downloading cachetools-5.0.0-py3-none-any.whl (9.1 kB)
+Collecting rsa<5,>=3.1.4
+  Downloading rsa-4.8-py3-none-any.whl (39 kB)
+Collecting requests-oauthlib>=0.7.0
+  Downloading requests_oauthlib-1.3.1-py2.py3-none-any.whl (23 kB)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests<3,>=2.21.0->tensorboard<2.9,>=2.8->tensorflow) (1.25.8)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests<3,>=2.21.0->tensorboard<2.9,>=2.8->tensorflow) (2019.11.28)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests<3,>=2.21.0->tensorboard<2.9,>=2.8->tensorflow) (3.0.4)
+Requirement already satisfied: idna<2.9,>=2.5 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests<3,>=2.21.0->tensorboard<2.9,>=2.8->tensorflow) (2.8)
+Requirement already satisfied: pyasn1<0.5.0,>=0.4.1 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from pyasn1-modules>=0.2.1->google-auth<3,>=1.6.3->tensorboard<2.9,>=2.8->tensorflow) (0.4.2)
+Requirement already satisfied: oauthlib>=3.0.0 in c:\users\cpani\appdata\local\programs\python\python310\lib\site-packages (from requests-oauthlib>=0.7.0->google-auth-oauthlib<0.5,>=0.4.1->tensorboard<2.9,>=2.8->tensorflow) (3.1.0)
+Using legacy 'setup.py install' for termcolor, since package 'wheel' is not installed.
+Installing collected packages: tf-estimator-nightly, termcolor, tensorboard-plugin-wit, libclang, flatbuffers, wrapt, wheel, werkzeug, typing-extensions, tensorflow-io-gcs-filesystem, tensorboard-data-server, rsa, protobuf, opt-einsum, markdown, keras-preprocessing, h5py, grpcio, google-pasta, gast, cachetools, absl-py, requests-oauthlib, google-auth, astunparse, google-auth-oauthlib, tensorboard, tensorflow
+  Running setup.py install for termcolor ... done
+Successfully installed absl-py-1.0.0 astunparse-1.6.3 cachetools-5.0.0 flatbuffers-2.0 gast-0.5.3 google-auth-2.6.3 google-auth-oauthlib-0.4.6 google-pasta-0.2.0 grpcio-1.44.0 h5py-3.6.0 keras-preprocessing-1.1.2 libclang-13.0.0 markdown-3.3.6 opt-einsum-3.3.0 protobuf-3.20.0 requests-oauthlib-1.3.1 rsa-4.8 tensorboard-2.8.0 tensorboard-data-server-0.6.1 tensorboard-plugin-wit-1.8.1 tensorflow-2.8.0 tensorflow-io-gcs-filesystem-0.24.0 termcolor-1.1.0 tf-estimator-nightly-2.8.0.dev2021122109 typing-extensions-4.1.1 werkzeug-2.1.1 wheel-0.37.1 wrapt-1.14.0
+
+C:\Users\cpani\AppData\Local\Programs\Python\Python310\Scripts>
