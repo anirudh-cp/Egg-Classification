@@ -12,6 +12,9 @@ import matplotlib.pyplot as plt
 import time
 import random
 
+# Save model
+from datetime import datetime
+
 
 DATA_PATH = 'Data'
 HELPER_DISPLAY_ROWS = 2
@@ -226,14 +229,19 @@ def main():
     TestData = datasets.ImageFolder(DATA_PATH + '/test', transform=transforms.Compose([transforms.Resize(RESIZED), transforms.ToTensor()]))
     TestDataLoader = torch.utils.data.DataLoader(TestData, shuffle=True, batch_size=BATCH_SIZE)
     
+    model = CNN()
+    
     optimizer = OPTIMIZER(model.parameters(), lr=LEARN_RT)
     scheduler = SCHEDULER(optimizer, mode="min", factor=0.1, patience=3)
     
-    model = CNN()
     history = fit(model, TrainDataLoader, TestDataLoader, optimizer, scheduler, PATIENCE)
 
     plot_accuracies(history)
     plot_losses(history)
+
+    saveInp = input('Save model (0/1) ?')
+    if saveInp == '1':
+        torch.save(model.state_dict(), f'Models/{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}.pth')
 
     '''
     TestDataIter = iter(TestDataLoader)
