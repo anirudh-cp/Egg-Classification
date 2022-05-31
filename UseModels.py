@@ -1,11 +1,12 @@
 from main import CNN, RESIZED, CLASSES
 import torch
-from PIL import Image
 import torchvision.transforms as transforms
 
 import tkinter as tk
 from tkinter import filedialog as fd
 from tkinter import messagebox as mb
+from idlelib.tooltip import Hovertip
+
 from PIL import Image,ImageTk
 from pathlib import Path
 
@@ -33,7 +34,6 @@ class App(tk.Tk):
         
         self.selectModelLabel = tk.Label(Modelframe, textvariable=self.ModelPath, borderwidth=2, relief=tk.GROOVE, anchor=tk.W)
         self.selectModelLabel.pack(padx=5, pady=7, ipady=3, fill=tk.X)
-        
         
         Imageframe = tk.LabelFrame(self, text='Image', relief=tk.GROOVE, bd=4)
         Imageframe.pack(padx=10, pady=10, fill=tk.X)
@@ -80,9 +80,10 @@ class App(tk.Tk):
         path = fd.askopenfilename(parent=self, title=title, filetypes=fileTypes)
         path_ = Path(path)
         fileName = path_.name
-        if fileName == '':
-            fileName = 'None Selected'
-        Stringvar.set(' ' + fileName)
+        if path == '':
+            Stringvar.set(' ' + 'None Selected')
+        else:
+            Stringvar.set(' ' + path + ' ')
         return path
     
     
@@ -106,21 +107,27 @@ class App(tk.Tk):
         if self.ImagePathText == '' or self.ModelPathText == '':
             mb.showerror(title='Input Error', message='Please specify both model and image file.')
             return
-            
-        image = Image.open(self.ImagePathText)
+        
+        image = Image.open(self.ImagePathText).convert('RGB')
         transform = transforms.Compose([transforms.Resize(RESIZED), transforms.ToTensor()])
-        img_tensor = transform(image)
+        image_tensor = transform(image)
+
+        # Set to a batch of size 1
+        image_tensor = image_tensor.unsqueeze(0)
+        # print(image_tensor.shape)
         
         model = CNN()
         model.load_state_dict(torch.load(self.ModelPathText))
-    
-        out = model(img_tensor)
+        
+        out = model(image_tensor)
         # Pick index with highest probability
         _, preds  = torch.max(out, dim=1)
         # Retrieve the class label
         predLabel = CLASSES[preds[0].item()]
         
         self.OutClass.set(f' Class: {predLabel}')
+        
+        mb.showinfo(title='Output', message=f'Image has been classed as a class {predLabel} egg.')
 
 
 def main():
