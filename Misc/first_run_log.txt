@@ -1,0 +1,36 @@
+PS D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project> python -u "d:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\main.py"
+cpu
+Epoch [0], train_loss: 33.3481, val_loss: 1.5870, val_acc: 0.5000
+Epoch: 1 | train_loss: 33.34812, val_loss: 1.58697, lr: 1.00E-03, patience: 5
+Epoch [1], train_loss: 0.9348, val_loss: 0.8836, val_acc: 0.5547
+Epoch: 2 | train_loss: 0.93476, val_loss: 0.88356, lr: 1.00E-03, patience: 5
+Epoch [2], train_loss: 0.5981, val_loss: 0.3778, val_acc: 0.8516
+Epoch: 3 | train_loss: 0.59814, val_loss: 0.37782, lr: 1.00E-03, patience: 5
+Epoch [3], train_loss: 0.2954, val_loss: 0.2930, val_acc: 0.8906
+Epoch: 4 | train_loss: 0.29537, val_loss: 0.29296, lr: 1.00E-03, patience: 5
+Epoch [4], train_loss: 0.2330, val_loss: 0.2873, val_acc: 0.8906
+Epoch: 5 | train_loss: 0.23303, val_loss: 0.28726, lr: 1.00E-03, patience: 5
+Epoch [5], train_loss: 0.1967, val_loss: 0.2287, val_acc: 0.9219
+Epoch: 6 | train_loss: 0.19668, val_loss: 0.22871, lr: 1.00E-03, patience: 5
+Epoch [6], train_loss: 0.1815, val_loss: 0.2328, val_acc: 0.9062
+Epoch: 7 | train_loss: 0.18154, val_loss: 0.23280, lr: 1.00E-03, patience: 4
+Epoch [7], train_loss: 0.1876, val_loss: 0.3131, val_acc: 0.8906
+Epoch: 8 | train_loss: 0.18761, val_loss: 0.31312, lr: 1.00E-03, patience: 3
+Epoch [8], train_loss: 0.1949, val_loss: 0.2989, val_acc: 0.8984
+Epoch: 9 | train_loss: 0.19489, val_loss: 0.29895, lr: 1.00E-03, patience: 2
+Epoch [9], train_loss: 0.1677, val_loss: 0.2258, val_acc: 0.9062
+Epoch: 10 | train_loss: 0.16769, val_loss: 0.22579, lr: 1.00E-03, patience: 5
+Save model (0/1) ?1
+Traceback (most recent call last):
+  File "d:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\main.py", line 255, in <module>
+    main()
+  File "d:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\main.py", line 243, in main
+    torch.save(model.state_dict(), f'Models/{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}.pth')
+  File "C:\Users\cpani\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\serialization.py", line 377, in save
+    with _open_file_like(f, 'wb') as opened_file:
+  File "C:\Users\cpani\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\serialization.py", line 231, in _open_file_like   
+    return _open_file(name_or_buffer, mode)
+  File "C:\Users\cpani\AppData\Local\Programs\Python\Python310\lib\site-packages\torch\serialization.py", line 212, in __init__
+    super(_open_file, self).__init__(open(name, mode))
+OSError: [Errno 22] Invalid argument: 'Models/2022-05-31 02:29:56.pth'
+PS D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project>

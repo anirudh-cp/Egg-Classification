@@ -1,4 +1,4 @@
-from main import CNN, RESIZED, classes
+from main import CNN, RESIZED, CLASSES
 import torch
 from PIL import Image
 import torchvision.transforms as transforms
@@ -118,7 +118,7 @@ class App(tk.Tk):
         # Pick index with highest probability
         _, preds  = torch.max(out, dim=1)
         # Retrieve the class label
-        predLabel = classes[preds[0].item()]
+        predLabel = CLASSES[preds[0].item()]
         
         self.OutClass.set(f' Class: {predLabel}')
 

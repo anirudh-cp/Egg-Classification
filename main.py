@@ -12,15 +12,16 @@ import matplotlib.pyplot as plt
 import time
 import random
 
-# Save model
+# Save data
 from datetime import datetime
+import json
 
 
 DATA_PATH = 'Data'
 HELPER_DISPLAY_ROWS = 2
 HELPER_DISPLAY_COLS = 2
 RESIZED = (140, 250)
-classes = ('A', 'B')
+CLASSES = ('A', 'B')
 
 EPOCHS = 10
 BATCH_SIZE = 32
@@ -70,8 +71,7 @@ def imshow(img, labels, classes):
     
 class ImageClassificationBase(nn.Module):
     
-    @classmethod
-    def accuracy(outputs, labels):
+    def accuracy(self, outputs, labels):
         _, preds = torch.max(outputs, dim=1)
         return torch.tensor(torch.sum(preds == labels).item() / len(preds))
 
@@ -155,6 +155,7 @@ def evaluate(model, val_loader):
 def fit(model, train_loader, val_loader, optimizer, scheduler, patienceInit):
     history = []
     best_val_loss = np.inf
+    patience = patienceInit
     
     for epoch in range(EPOCHS):
         # Training Phase 
@@ -169,34 +170,40 @@ def fit(model, train_loader, val_loader, optimizer, scheduler, patienceInit):
             
         # Validation phase
         result = evaluate(model, val_loader)
-        result['train_loss'] = torch.stack(train_losses).mean().item()
-        model.epoch_end(epoch, result)
-        history.append(result)
         
-        val_loss = result['val_loss']
-        scheduler.step(val_loss)
+        # Change learning rate if required
+        scheduler.step(result['val_loss'])
         
         # Early stopping
-        if val_loss < best_val_loss:
-            best_val_loss = val_loss
+        if result['val_loss'] < best_val_loss:
+            best_val_loss = result['val_loss']
             best_model = model
             patience = patienceInit  # reset _patience
         else:
             patience -= 1
-        if not patience:  # 0
-            print("Stopping early!")
-            break
         
         # Logging
+        result['train_loss'] = torch.stack(train_losses).mean().item()
+        result['epoch'] = epoch
+        result['lr'] = optimizer.param_groups[0]['lr']
+        result['patience'] = patience
+        
+        # model.epoch_end(epoch, result)
+        history.append(result)
+        
         print(
             f"Epoch: {epoch+1} | "
             f"train_loss: {result['train_loss']:.5f}, "
-            f"val_loss: {val_loss:.5f}, "
+            f"val_loss: {result['val_loss']:.5f}, "
+            f"val_acc: { result['val_acc']:.5f}, "
             f"lr: {optimizer.param_groups[0]['lr']:.2E}, "
             f"patience: {patience}"
         )
-    
         
+        if not patience:  # 0
+            print("Stopping early!")
+            break
+    
     return history
 
 
@@ -205,7 +212,9 @@ def plot_accuracies(history):
     plt.plot(accuracies, '-x')
     plt.xlabel('epoch')
     plt.ylabel('accuracy')
-    plt.title('Accuracy vs. No. of epochs');
+    plt.title('Accuracy vs. No. of epochs')
+    plt.savefig(f'Analysis/{datetime.now().strftime("%Y-%m-%d_%H-%M-%S")}_Accuracy_vs_Epoch.png')
+    # plt.show()
 
 
 def plot_losses(history):
@@ -216,7 +225,9 @@ def plot_losses(history):
     plt.xlabel('epoch')
     plt.ylabel('loss')
     plt.legend(['Training', 'Validation'])
-    plt.title('Loss vs. No. of epochs');
+    plt.title('Loss vs. No. of epochs')
+    plt.savefig(f'Analysis/{datetime.now().strftime("%Y-%m-%d_%H-%M-%S")}_Loss_vs_Epoch.png')
+    # plt.show()
     
 
 def main():
@@ -235,20 +246,21 @@ def main():
     scheduler = SCHEDULER(optimizer, mode="min", factor=0.1, patience=3)
     
     history = fit(model, TrainDataLoader, TestDataLoader, optimizer, scheduler, PATIENCE)
+    
+    torch.save(model.state_dict(), f'Models/{datetime.now().strftime("%Y-%m-%d_%H-%M-%S")}.pth')
 
     plot_accuracies(history)
     plot_losses(history)
-
-    saveInp = input('Save model (0/1) ?')
-    if saveInp == '1':
-        torch.save(model.state_dict(), f'Models/{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}.pth')
+    
+    with open(f'Analysis/{datetime.now().strftime("%Y-%m-%d_%H-%M-%S")}_History.json', 'w', encoding ='utf8') as json_file:
+        json.dump(history, json_file, ensure_ascii = True, indent=4)
 
     '''
     TestDataIter = iter(TestDataLoader)
     images, labels = TestDataIter.next()
     
     # show images
-    imshow(images, labels, classes)
+    imshow(images, labels, CLASSES)
     '''
 
 
