@@ -15,7 +15,7 @@ import datetime
 
 params = {
     'A': {
-        'count': 256,
+        'count': 125,
         'proportioanlEditingMeanValueZ': 0.7,
         'proportionalEditingMeanSize': 2,
         'proportioanlEditingStdDevValueZ': 0.15,
@@ -23,20 +23,25 @@ params = {
         'ColorMean': (255, 249, 249),
         'ColorStdDev': (254, 235, 235),
 
-        'CamAngleX': (-10, 10),
-        'CamAngleZ': (0, 360),
+        'CamAngleX': (0, 0),
+        'CamAngleZ': (0, 0),
         'CamZ': (3.5, 5),
 
         'BackgroundColor': ((0, 0, 0), (150, 150, 150)),
         'LightSourceColor': ((255, 255, 255), (255, 247, 150)),
         'LightIntensity': (1000, 1000),
         'LightSourceZ': (5, 6),
+        
+        'Xmin': -2.1,
+        'Xmax': 2.1,
+        'Zmin': -0.15,
+        'Zmax': 0.7,
 
-        'PATH': 'D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\A'
+        'PATH': 'D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images'
     },
 
     'B': {
-        'count': 256,
+        'count': 125,
         'proportioanlEditingMeanValueZ': 0.45,
         'proportionalEditingMeanSize': 1.3,
         'proportioanlEditingStdDevValueZ': 0.125,
@@ -44,16 +49,21 @@ params = {
         'ColorMean': (255, 189, 189),
         'ColorStdDev': (255, 173, 173),
 
-        'CamAngleX': (-10, 10),
-        'CamAngleZ': (0, 360),
+        'CamAngleX': (0, 0),
+        'CamAngleZ': (0, 0),
         'CamZ': (3.5, 5),
 
         'BackgroundColor': ((0, 0, 0), (150, 150, 150)),
         'LightSourceColor': ((255, 255, 255), (255, 247, 150)),
         'LightIntensity': (1000, 1000),
         'LightSourceZ': (5, 6),
+        
+        'Xmin': -2.1,
+        'Xmax': 2.1,
+        'Zmin': -0.15,
+        'Zmax': 0.7,
 
-        'PATH': 'D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\B'
+        'PATH': 'D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images'
     },
 
 }
@@ -136,6 +146,9 @@ def randomizeValues(params, gradientObject, gradientLight):
     # Generate height at which light source is placed uniformly.
     values['LightSourceZ'] = np.random.uniform(
         params['LightSourceZ'][0], params['LightSourceZ'][1])
+        
+    values['X'] = np.random.uniform(params['Xmin'], params['Xmax'])
+    values['Z'] = np.random.uniform(params['Zmin'], params['Zmax'])
 
     return values
 
@@ -204,7 +217,6 @@ def createRenderImage(randomValues, path):
     texture.append(1)   # For alpha channel
     bpy.data.materials["Egg"].node_tree.nodes["Principled BSDF"].inputs[0].default_value = texture
     
-    
     mat = bpy.data.materials.get("Egg")
     if egg.data.materials:
         # assign to 1st material slot
@@ -229,6 +241,10 @@ def createRenderImage(randomValues, path):
     
     # Set height of light source
     bpy.data.objects["Light"].location[2] = randomValues["LightSourceZ"]
+    
+    # Move the egg on the 2D plane of Y=0
+    egg.location[0] = randomValues['X']
+    egg.location[2] = randomValues['Z']
 
     # Render image.
     bpy.context.scene.render.image_settings.file_format = 'PNG'
@@ -246,13 +262,15 @@ def main():
 
     file = open(r'D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\ImageRenderLogs.txt', 'a+')
     print(f'\n\n{datetime.datetime.now()}\n' + '-'*16, file=file)
-    
+
+    count = 0    
     for variant in params:
         print(variant, file=file)
         gradientLight = generateGradient(params[variant]['LightSourceColor'][0],
                                          params[variant]['LightSourceColor'][1], 500)
 
-        for count in range(params[variant]['count']):
+        for index in range(params[variant]['count']):
+            count += 1
             randomValues = randomizeValues(
                 params[variant], gradientObject, gradientLight)
             createRenderImageDebug(randomValues, f"{params[variant]['PATH']}\image{count}", file)

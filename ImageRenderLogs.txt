@@ -7553,3 +7553,3295 @@ D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\B\image255
 
 2022-05-30 13:57:07.107108
 ================
+
+
+2022-06-22 17:58:39.335524
+----------------
+A
+proportionalEditingValueZ 0.6062898365432341
+proportionalEditingSize 2.109673971880902
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [38, 19, 148]
+LightSourceColor [255, 252, 216]
+LightIntensity 1000.0
+LightSourceZ 5.501348110360615
+X -1.2933945463493512
+Z 0.6509585178969399
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image1
+
+
+2022-06-22 17:59:33.980712
+----------------
+A
+proportionalEditingValueZ 0.5919553224389182
+proportionalEditingSize 1.6403932308112004
+Color [255, 218, 218]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [12, 124, 4]
+LightSourceColor [255, 247, 161]
+LightIntensity 1000.0
+LightSourceZ 5.588226771338572
+X -0.9951064916512158
+Z 0.28382623508061555
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image1
+
+
+2022-06-22 18:25:47.738903
+----------------
+A
+proportionalEditingValueZ 0.6975444559908994
+proportionalEditingSize 2.165411470970476
+Color [255, 248, 248]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [30, 128, 92]
+LightSourceColor [255, 254, 250]
+LightIntensity 1000.0
+LightSourceZ 5.093153377319922
+X 0.19383264265953537
+Z 0.0962424563397859
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image1
+proportionalEditingValueZ 0.5445865652162102
+proportionalEditingSize 1.2704883974354595
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [36, 89, 34]
+LightSourceColor [255, 252, 217]
+LightIntensity 1000.0
+LightSourceZ 5.933531118660334
+X -0.9004997520025422
+Z -0.038272358400669004
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image2
+proportionalEditingValueZ 0.6895966892842298
+proportionalEditingSize 1.941708308714503
+Color [255, 252, 252]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [42, 115, 55]
+LightSourceColor [255, 250, 200]
+LightIntensity 1000.0
+LightSourceZ 5.498358316279513
+X 1.8321831562578637
+Z 0.5649023998788886
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image3
+proportionalEditingValueZ 0.9364054043676647
+proportionalEditingSize 2.0138236749613374
+Color [255, 226, 226]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [56, 61, 81]
+LightSourceColor [255, 249, 179]
+LightIntensity 1000.0
+LightSourceZ 5.57173594724923
+X 1.5061334457254736
+Z 0.6390758846663726
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image4
+proportionalEditingValueZ 0.7063687348779101
+proportionalEditingSize 2.149628412822625
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [131, 91, 29]
+LightSourceColor [255, 248, 164]
+LightIntensity 1000.0
+LightSourceZ 5.590039094844144
+X -1.338740149060028
+Z 0.42478386001287416
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image5
+proportionalEditingValueZ 0.37698322389337824
+proportionalEditingSize 1.7365202414429175
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [13, 70, 101]
+LightSourceColor [255, 249, 183]
+LightIntensity 1000.0
+LightSourceZ 5.2964636111522125
+X -0.7103054513076312
+Z 0.6011695668910534
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image6
+proportionalEditingValueZ 0.7660197917211635
+proportionalEditingSize 1.8596724876848145
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [0, 45, 55]
+LightSourceColor [255, 252, 227]
+LightIntensity 1000.0
+LightSourceZ 5.603695550193824
+X 1.0272869411524699
+Z 0.27008351975839484
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image7
+proportionalEditingValueZ 0.6958069795385678
+proportionalEditingSize 2.8159884084926823
+Color [255, 251, 251]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [49, 52, 52]
+LightSourceColor [255, 253, 230]
+LightIntensity 1000.0
+LightSourceZ 5.127163597721989
+X -0.050655131153548805
+Z 0.484439201914985
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image8
+proportionalEditingValueZ 0.6382659322782687
+proportionalEditingSize 1.9230464285425246
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [132, 33, 86]
+LightSourceColor [255, 251, 208]
+LightIntensity 1000.0
+LightSourceZ 5.77797648865032
+X 0.4986919586854097
+Z 0.08828904693201622
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image9
+proportionalEditingValueZ 0.7348290397031827
+proportionalEditingSize 1.7055343783127743
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [59, 95, 53]
+LightSourceColor [255, 253, 234]
+LightIntensity 1000.0
+LightSourceZ 5.291227587130857
+X 1.6295087654755975
+Z 0.08603193987616031
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image10
+B
+proportionalEditingValueZ 0.4839694376768397
+proportionalEditingSize 0.992053698624076
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [4, 9, 56]
+LightSourceColor [255, 253, 234]
+LightIntensity 1000.0
+LightSourceZ 5.059981985458391
+X -0.7528830804145639
+Z -0.11888544329061276
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image11
+proportionalEditingValueZ 0.42969433770918064
+proportionalEditingSize 0.9747954645075865
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [145, 137, 101]
+LightSourceColor [255, 247, 153]
+LightIntensity 1000.0
+LightSourceZ 5.553729467005586
+X -0.18026929671388991
+Z 0.145076144748543
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image12
+proportionalEditingValueZ 0.6790337363238199
+proportionalEditingSize 1.4775545069169318
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [118, 147, 7]
+LightSourceColor [255, 250, 197]
+LightIntensity 1000.0
+LightSourceZ 5.047545200184591
+X 1.7578103356096464
+Z -0.020098031215199458
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image13
+proportionalEditingValueZ 0.49950119567357126
+proportionalEditingSize 1.4313232198665304
+Color [255, 228, 228]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [95, 136, 61]
+LightSourceColor [255, 250, 201]
+LightIntensity 1000.0
+LightSourceZ 5.971268804786498
+X -1.2016626554381933
+Z 0.19091077234150808
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image14
+proportionalEditingValueZ 0.6343154582647899
+proportionalEditingSize 1.4867724302150407
+Color [255, 166, 166]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [131, 99, 21]
+LightSourceColor [255, 253, 229]
+LightIntensity 1000.0
+LightSourceZ 5.5221445800988755
+X -1.6854523177145464
+Z -0.05932200483741398
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image15
+proportionalEditingValueZ 0.5401595410650173
+proportionalEditingSize 0.9867409924200874
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [31, 73, 115]
+LightSourceColor [255, 254, 250]
+LightIntensity 1000.0
+LightSourceZ 5.683047073025048
+X 1.2513480031989932
+Z 0.43503695392750885
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image16
+proportionalEditingValueZ 0.7729040124575899
+proportionalEditingSize 1.2510427336405063
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [117, 136, 82]
+LightSourceColor [255, 249, 177]
+LightIntensity 1000.0
+LightSourceZ 5.362573783690773
+X 1.3757559500846033
+Z 0.13972520462994334
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image17
+proportionalEditingValueZ 0.4742916193234202
+proportionalEditingSize 1.5606540053789562
+Color [255, 179, 179]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [8, 16, 128]
+LightSourceColor [255, 250, 200]
+LightIntensity 1000.0
+LightSourceZ 5.6254391194276465
+X 0.3371896348091501
+Z -0.13783256696930332
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image18
+proportionalEditingValueZ 0.37552845112906025
+proportionalEditingSize 1.514389327729073
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [41, 135, 133]
+LightSourceColor [255, 248, 170]
+LightIntensity 1000.0
+LightSourceZ 5.685153080464099
+X 1.3038609906137522
+Z 0.3154758683810115
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image19
+proportionalEditingValueZ 0.24635881692084016
+proportionalEditingSize 1.126141647628943
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [92, 19, 102]
+LightSourceColor [255, 251, 213]
+LightIntensity 1000.0
+LightSourceZ 5.405881491376801
+X -1.7032269715553436
+Z -0.10377576417950429
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image20
+
+2022-06-22 18:26:15.553541
+================
+
+
+2022-06-22 20:03:14.834441
+----------------
+A
+proportionalEditingValueZ 0.5259021228926399
+proportionalEditingSize 1.8395943097197673
+Color [255, 249, 249]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [27, 18, 3]
+LightSourceColor [255, 252, 222]
+LightIntensity 1000.0
+LightSourceZ 5.204870277514867
+X -0.8280428402270341
+Z -0.14033457881429012
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image1
+proportionalEditingValueZ 0.6877879017799349
+proportionalEditingSize 1.3445230318426147
+Color [255, 242, 242]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [77, 52, 136]
+LightSourceColor [255, 249, 186]
+LightIntensity 1000.0
+LightSourceZ 5.292458972704939
+X 1.7454140526203399
+Z 0.6703775921479151
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image2
+proportionalEditingValueZ 0.6816391977372809
+proportionalEditingSize 1.7735347563580584
+Color [255, 250, 250]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [115, 57, 105]
+LightSourceColor [255, 247, 150]
+LightIntensity 1000.0
+LightSourceZ 5.3630223517245765
+X -1.1509171855435454
+Z 0.22931362040908368
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image3
+proportionalEditingValueZ 0.5297393839814988
+proportionalEditingSize 1.5515375058165017
+Color [255, 250, 250]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [71, 93, 92]
+LightSourceColor [255, 252, 215]
+LightIntensity 1000.0
+LightSourceZ 5.656612222725003
+X -1.3058270273538155
+Z 0.040292059803401226
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image4
+proportionalEditingValueZ 0.7951994824300713
+proportionalEditingSize 2.012610727465616
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [24, 48, 16]
+LightSourceColor [255, 251, 214]
+LightIntensity 1000.0
+LightSourceZ 5.919898081811644
+X 1.7696782866298015
+Z 0.5076408612130271
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image5
+proportionalEditingValueZ 0.38147882475148404
+proportionalEditingSize 1.2470854541076775
+Color [255, 243, 243]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [23, 7, 50]
+LightSourceColor [255, 250, 195]
+LightIntensity 1000.0
+LightSourceZ 5.210911706370148
+X 2.026629750618016
+Z 0.3140794837879627
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image6
+proportionalEditingValueZ 0.7957501719881171
+proportionalEditingSize 1.8227257918762518
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [75, 17, 35]
+LightSourceColor [255, 251, 210]
+LightIntensity 1000.0
+LightSourceZ 5.237147234542611
+X -1.314799342680731
+Z 0.6432029895374924
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image7
+proportionalEditingValueZ 0.777155577825425
+proportionalEditingSize 2.228034982251377
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [147, 141, 19]
+LightSourceColor [255, 252, 223]
+LightIntensity 1000.0
+LightSourceZ 5.4067906509913755
+X -0.45437215413255316
+Z 0.6457437448886485
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image8
+proportionalEditingValueZ 0.6661874475675265
+proportionalEditingSize 2.2981339202839837
+Color [255, 232, 232]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [146, 145, 92]
+LightSourceColor [255, 248, 171]
+LightIntensity 1000.0
+LightSourceZ 5.702140508519687
+X -1.5936387622881303
+Z 0.5579793239319981
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image9
+proportionalEditingValueZ 0.6010641683471392
+proportionalEditingSize 1.821444590352678
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [102, 77, 66]
+LightSourceColor [255, 249, 183]
+LightIntensity 1000.0
+LightSourceZ 5.242289729699058
+X -0.9373435111655053
+Z 0.039563057447910166
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image10
+proportionalEditingValueZ 1.0289695748458776
+proportionalEditingSize 1.7222446902248467
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [112, 127, 6]
+LightSourceColor [255, 247, 160]
+LightIntensity 1000.0
+LightSourceZ 5.54061361776676
+X 1.564245100673281
+Z 0.41758048210996934
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image11
+proportionalEditingValueZ 0.8438003070853193
+proportionalEditingSize 2.1647830970737045
+Color [255, 251, 251]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [49, 119, 24]
+LightSourceColor [255, 252, 220]
+LightIntensity 1000.0
+LightSourceZ 5.053028747706325
+X -0.6737952318601239
+Z 0.027916128384799455
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image12
+proportionalEditingValueZ 0.61219834676767
+proportionalEditingSize 2.073523785907638
+Color [255, 241, 241]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [142, 118, 3]
+LightSourceColor [255, 254, 243]
+LightIntensity 1000.0
+LightSourceZ 5.954271610063825
+X 1.6980674086462462
+Z 0.26139446838247127
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image13
+proportionalEditingValueZ 0.7189565635516716
+proportionalEditingSize 2.278767073445928
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [88, 33, 93]
+LightSourceColor [255, 249, 186]
+LightIntensity 1000.0
+LightSourceZ 5.201372005475424
+X 1.0805999637747545
+Z 0.5362823194019054
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image14
+proportionalEditingValueZ 0.7909017661600739
+proportionalEditingSize 1.5262736928080685
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [134, 132, 109]
+LightSourceColor [255, 251, 203]
+LightIntensity 1000.0
+LightSourceZ 5.910406514282081
+X -1.6704163466708288
+Z 0.6736988792417493
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image15
+proportionalEditingValueZ 0.6667160788409121
+proportionalEditingSize 1.918538102812551
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [80, 124, 18]
+LightSourceColor [255, 247, 156]
+LightIntensity 1000.0
+LightSourceZ 5.158965606130979
+X 2.0720243775474523
+Z 0.5414333440645209
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image16
+proportionalEditingValueZ 0.564491070393329
+proportionalEditingSize 2.747809969370129
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [49, 58, 69]
+LightSourceColor [255, 251, 205]
+LightIntensity 1000.0
+LightSourceZ 5.987234887904174
+X -0.18193682709758718
+Z 0.5691344207796855
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image17
+proportionalEditingValueZ 0.7476757846232132
+proportionalEditingSize 2.4192048323715984
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [32, 29, 68]
+LightSourceColor [255, 250, 194]
+LightIntensity 1000.0
+LightSourceZ 5.697145541060921
+X 1.2064893658450728
+Z 0.6704792817415736
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image18
+proportionalEditingValueZ 0.5716125464177364
+proportionalEditingSize 2.1017441179261316
+Color [255, 237, 237]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [7, 121, 67]
+LightSourceColor [255, 253, 239]
+LightIntensity 1000.0
+LightSourceZ 5.202863480654976
+X 0.08088202977916392
+Z 0.5991824157628389
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image19
+proportionalEditingValueZ 0.47408293861253875
+proportionalEditingSize 2.044931457020385
+Color [255, 234, 234]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [2, 81, 147]
+LightSourceColor [255, 249, 181]
+LightIntensity 1000.0
+LightSourceZ 5.433518465413573
+X 0.9193999021489523
+Z 0.5109353230048461
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image20
+proportionalEditingValueZ 0.880851357488896
+proportionalEditingSize 1.937563163938747
+Color [255, 248, 248]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [126, 20, 130]
+LightSourceColor [255, 252, 221]
+LightIntensity 1000.0
+LightSourceZ 5.501641304986089
+X -0.4012446508376366
+Z 0.22564218837180197
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image21
+proportionalEditingValueZ 0.8278769391950949
+proportionalEditingSize 2.2403430065513352
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [71, 124, 5]
+LightSourceColor [255, 247, 154]
+LightIntensity 1000.0
+LightSourceZ 5.846127419927666
+X 1.096987273691827
+Z 0.25042504820461475
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image22
+proportionalEditingValueZ 0.7500686536097467
+proportionalEditingSize 2.253999791678006
+Color [255, 237, 237]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [36, 95, 69]
+LightSourceColor [255, 252, 217]
+LightIntensity 1000.0
+LightSourceZ 5.019395529452576
+X -1.2135779943747782
+Z 0.39918567103805813
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image23
+proportionalEditingValueZ 0.7831428286534522
+proportionalEditingSize 2.0133964273226597
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [48, 87, 20]
+LightSourceColor [255, 249, 188]
+LightIntensity 1000.0
+LightSourceZ 5.197830605399733
+X -1.2258581852279167
+Z 0.18236873518909788
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image24
+proportionalEditingValueZ 0.47734705468820354
+proportionalEditingSize 2.156009810037995
+Color [255, 214, 214]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [50, 98, 10]
+LightSourceColor [255, 251, 203]
+LightIntensity 1000.0
+LightSourceZ 5.87890962526419
+X 0.39613111013937585
+Z 0.42847292867280373
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image25
+proportionalEditingValueZ 0.6525951310026368
+proportionalEditingSize 1.6290385108430434
+Color [255, 248, 248]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [130, 95, 30]
+LightSourceColor [255, 248, 175]
+LightIntensity 1000.0
+LightSourceZ 5.932097357211527
+X 1.6142490064100916
+Z 0.2061756607835433
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image26
+proportionalEditingValueZ 0.6226860506328787
+proportionalEditingSize 1.8473398148381213
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [146, 128, 110]
+LightSourceColor [255, 250, 200]
+LightIntensity 1000.0
+LightSourceZ 5.384981390069319
+X -1.776668463622438
+Z 0.048336874683163666
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image27
+proportionalEditingValueZ 0.7177173172515067
+proportionalEditingSize 2.6678388203114975
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [24, 69, 141]
+LightSourceColor [255, 254, 245]
+LightIntensity 1000.0
+LightSourceZ 5.406942639704502
+X 0.26856236895185903
+Z 0.23148261782766003
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image28
+proportionalEditingValueZ 0.6772864722408409
+proportionalEditingSize 1.2007462221039586
+Color [255, 232, 232]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [36, 67, 22]
+LightSourceColor [255, 249, 188]
+LightIntensity 1000.0
+LightSourceZ 5.954091681216354
+X 0.620721591389358
+Z 0.6929024153297921
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image29
+proportionalEditingValueZ 0.819414758616215
+proportionalEditingSize 2.0110136929239495
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [94, 46, 149]
+LightSourceColor [255, 252, 227]
+LightIntensity 1000.0
+LightSourceZ 5.258618358474224
+X -0.6488241482137012
+Z -0.09350305482861988
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image30
+proportionalEditingValueZ 0.5226807756531765
+proportionalEditingSize 1.6450194957713093
+Color [255, 230, 230]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [40, 77, 10]
+LightSourceColor [255, 252, 224]
+LightIntensity 1000.0
+LightSourceZ 5.962872241098855
+X 0.19206548556787117
+Z 0.24084391355892507
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image31
+proportionalEditingValueZ 0.6986879974556794
+proportionalEditingSize 2.0740670308364497
+Color [255, 244, 244]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [76, 34, 97]
+LightSourceColor [255, 247, 157]
+LightIntensity 1000.0
+LightSourceZ 5.3575414835793325
+X -1.6258539883474203
+Z 0.4582144145532644
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image32
+proportionalEditingValueZ 0.7707459106738201
+proportionalEditingSize 1.9922925930035218
+Color [255, 230, 230]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [51, 34, 139]
+LightSourceColor [255, 251, 209]
+LightIntensity 1000.0
+LightSourceZ 5.831398231127113
+X -0.9936297101865099
+Z 0.4579903039937546
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image33
+proportionalEditingValueZ 0.6187845220336413
+proportionalEditingSize 2.6784187817820744
+Color [255, 244, 244]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [90, 82, 148]
+LightSourceColor [255, 253, 232]
+LightIntensity 1000.0
+LightSourceZ 5.447050455023192
+X 1.8487254146898522
+Z 0.07402377836485355
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image34
+proportionalEditingValueZ 0.6702422873588125
+proportionalEditingSize 3.0011397201998884
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [90, 149, 51]
+LightSourceColor [255, 252, 227]
+LightIntensity 1000.0
+LightSourceZ 5.767589769291467
+X -0.04226596718822062
+Z 0.3158922820239798
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image35
+proportionalEditingValueZ 0.7118251023809006
+proportionalEditingSize 2.8305173165724624
+Color [255, 229, 229]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [5, 141, 119]
+LightSourceColor [255, 252, 216]
+LightIntensity 1000.0
+LightSourceZ 5.286249771235967
+X 1.2364092603880885
+Z 0.42315915657419667
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image36
+proportionalEditingValueZ 1.014260067823423
+proportionalEditingSize 2.469821728826856
+Color [255, 246, 246]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [35, 98, 30]
+LightSourceColor [255, 254, 249]
+LightIntensity 1000.0
+LightSourceZ 5.1386371268608455
+X 0.9817581415706838
+Z 0.4606902452440358
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image37
+proportionalEditingValueZ 0.7803025957087415
+proportionalEditingSize 2.29628197510128
+Color [255, 224, 224]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [138, 129, 127]
+LightSourceColor [255, 249, 176]
+LightIntensity 1000.0
+LightSourceZ 5.2909368933924235
+X 0.26530439083271196
+Z 0.6034230528132255
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image38
+proportionalEditingValueZ 0.6346651393373338
+proportionalEditingSize 2.1130300602383385
+Color [255, 251, 251]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [28, 42, 23]
+LightSourceColor [255, 251, 206]
+LightIntensity 1000.0
+LightSourceZ 5.295787772379557
+X -0.7205771527534979
+Z 0.37719586992684273
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image39
+proportionalEditingValueZ 0.7513770726337736
+proportionalEditingSize 2.176996333266284
+Color [255, 244, 244]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [64, 149, 6]
+LightSourceColor [255, 251, 214]
+LightIntensity 1000.0
+LightSourceZ 5.212557064985967
+X 1.5639580887976732
+Z -0.0535068841241914
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image40
+proportionalEditingValueZ 0.6887174858167039
+proportionalEditingSize 1.9438714056412734
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [115, 121, 83]
+LightSourceColor [255, 249, 184]
+LightIntensity 1000.0
+LightSourceZ 5.070372956103254
+X 1.0796327047110892
+Z 0.3067888523020764
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image41
+proportionalEditingValueZ 0.6933377452290033
+proportionalEditingSize 1.9869995644996188
+Color [255, 233, 233]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [95, 109, 59]
+LightSourceColor [255, 248, 167]
+LightIntensity 1000.0
+LightSourceZ 5.851918065944752
+X 1.9948618337223327
+Z 0.020887543859801155
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image42
+proportionalEditingValueZ 0.7556518776661847
+proportionalEditingSize 2.478548773307451
+Color [255, 239, 239]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [108, 140, 92]
+LightSourceColor [255, 254, 243]
+LightIntensity 1000.0
+LightSourceZ 5.948754987717194
+X -0.38905641704379623
+Z 0.03646624017112149
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image43
+proportionalEditingValueZ 0.7706020541046773
+proportionalEditingSize 1.805609955704771
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [12, 8, 131]
+LightSourceColor [255, 251, 204]
+LightIntensity 1000.0
+LightSourceZ 5.631460055694326
+X -0.4912971556482695
+Z 0.6425273403959568
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image44
+proportionalEditingValueZ 0.83275117061438
+proportionalEditingSize 2.078406187628104
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [60, 129, 86]
+LightSourceColor [255, 253, 233]
+LightIntensity 1000.0
+LightSourceZ 5.981359060665538
+X 1.8359182457847556
+Z 0.5718845773149832
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image45
+proportionalEditingValueZ 0.8479988830519922
+proportionalEditingSize 1.4722117493706155
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [10, 83, 66]
+LightSourceColor [255, 251, 207]
+LightIntensity 1000.0
+LightSourceZ 5.527270611458179
+X -0.7975901779431018
+Z 0.163985466555273
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image46
+proportionalEditingValueZ 0.6153677626437057
+proportionalEditingSize 2.0627795664808812
+Color [255, 242, 242]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [117, 147, 14]
+LightSourceColor [255, 249, 179]
+LightIntensity 1000.0
+LightSourceZ 5.508733383135491
+X -1.2762653900829668
+Z 0.3447382685403001
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image47
+proportionalEditingValueZ 0.5867082821709136
+proportionalEditingSize 2.233785623963511
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [24, 127, 109]
+LightSourceColor [255, 250, 195]
+LightIntensity 1000.0
+LightSourceZ 5.579522505356677
+X -0.21041609509196335
+Z -0.024367395902895855
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image48
+proportionalEditingValueZ 0.6234671792471055
+proportionalEditingSize 1.9852157534183323
+Color [255, 224, 224]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [20, 113, 25]
+LightSourceColor [255, 249, 188]
+LightIntensity 1000.0
+LightSourceZ 5.822487187922848
+X 0.8497267856068311
+Z 0.4373046424883543
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image49
+proportionalEditingValueZ 0.8417311878710949
+proportionalEditingSize 2.1700114090408595
+Color [255, 245, 245]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [25, 3, 89]
+LightSourceColor [255, 251, 214]
+LightIntensity 1000.0
+LightSourceZ 5.642572367557808
+X -0.13524410352714344
+Z 0.07428132439038984
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image50
+proportionalEditingValueZ 0.8503741449650178
+proportionalEditingSize 1.937025757253234
+Color [255, 252, 252]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [62, 50, 25]
+LightSourceColor [255, 252, 219]
+LightIntensity 1000.0
+LightSourceZ 5.407773023980466
+X -1.6979854915139756
+Z -0.035253656837629294
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image51
+proportionalEditingValueZ 0.5135433889456456
+proportionalEditingSize 1.5309799365638115
+Color [255, 253, 253]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [96, 44, 51]
+LightSourceColor [255, 249, 177]
+LightIntensity 1000.0
+LightSourceZ 5.4853157689600796
+X -1.4396952398810112
+Z 0.2446142760295478
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image52
+proportionalEditingValueZ 0.5788800997932552
+proportionalEditingSize 1.7768542359062787
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [46, 43, 69]
+LightSourceColor [255, 254, 243]
+LightIntensity 1000.0
+LightSourceZ 5.742426354964105
+X -1.9184408856780728
+Z 0.5819347208322656
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image53
+proportionalEditingValueZ 0.8325806906302113
+proportionalEditingSize 2.156121849855713
+Color [255, 228, 228]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [28, 56, 104]
+LightSourceColor [255, 254, 253]
+LightIntensity 1000.0
+LightSourceZ 5.467683587661037
+X 1.2537777945327813
+Z -0.07265159294700403
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image54
+proportionalEditingValueZ 0.7279359834740061
+proportionalEditingSize 1.7702553704172304
+Color [255, 206, 206]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [149, 85, 99]
+LightSourceColor [255, 250, 191]
+LightIntensity 1000.0
+LightSourceZ 5.434550601134643
+X -1.3551993281770986
+Z 0.4508726823030573
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image55
+proportionalEditingValueZ 0.6576527746655396
+proportionalEditingSize 2.1607683693223465
+Color [255, 253, 253]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [124, 111, 112]
+LightSourceColor [255, 248, 171]
+LightIntensity 1000.0
+LightSourceZ 5.754462677621512
+X -1.6491128517392029
+Z 0.4492657801351484
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image56
+proportionalEditingValueZ 0.9910998208264905
+proportionalEditingSize 1.5370133939211985
+Color [255, 246, 246]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [48, 122, 26]
+LightSourceColor [255, 251, 211]
+LightIntensity 1000.0
+LightSourceZ 5.783075000125569
+X -0.04740297375891078
+Z 0.41880790416391245
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image57
+proportionalEditingValueZ 0.6403546754005321
+proportionalEditingSize 2.8022166069901937
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [32, 51, 17]
+LightSourceColor [255, 250, 195]
+LightIntensity 1000.0
+LightSourceZ 5.608535150976564
+X 1.0527305501710953
+Z 0.6679941567426786
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image58
+proportionalEditingValueZ 0.5776129804946664
+proportionalEditingSize 1.8746906661204699
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [67, 38, 20]
+LightSourceColor [255, 254, 248]
+LightIntensity 1000.0
+LightSourceZ 5.747211974820321
+X -0.8725447324541742
+Z 0.47902204327077635
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image59
+proportionalEditingValueZ 0.7342093663136243
+proportionalEditingSize 2.3568435442808653
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [44, 131, 141]
+LightSourceColor [255, 247, 150]
+LightIntensity 1000.0
+LightSourceZ 5.638371020262719
+X -1.5467419098840172
+Z 0.5003996046978224
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image60
+proportionalEditingValueZ 0.7800311348048146
+proportionalEditingSize 2.0207176657536974
+Color [255, 235, 235]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [84, 32, 1]
+LightSourceColor [255, 252, 216]
+LightIntensity 1000.0
+LightSourceZ 5.467621542609246
+X -0.057879159538292146
+Z 0.4511027927549671
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image61
+proportionalEditingValueZ 0.4973607528383103
+proportionalEditingSize 2.7970928835804343
+Color [255, 247, 247]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [108, 98, 130]
+LightSourceColor [255, 247, 162]
+LightIntensity 1000.0
+LightSourceZ 5.141100244607968
+X 1.5845263777389396
+Z -0.09856442602648247
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image62
+proportionalEditingValueZ 0.4567313121216547
+proportionalEditingSize 2.056644015845623
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [98, 20, 33]
+LightSourceColor [255, 248, 169]
+LightIntensity 1000.0
+LightSourceZ 5.069342074998088
+X -0.6381015748029706
+Z 0.44992224449522944
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image63
+proportionalEditingValueZ 0.4068908941417723
+proportionalEditingSize 1.5257090586725164
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [29, 52, 120]
+LightSourceColor [255, 253, 235]
+LightIntensity 1000.0
+LightSourceZ 5.721357559137167
+X 1.4296133856143762
+Z 0.15723354095969358
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image64
+proportionalEditingValueZ 0.8256139737557628
+proportionalEditingSize 1.5313440676266508
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [141, 57, 107]
+LightSourceColor [255, 253, 241]
+LightIntensity 1000.0
+LightSourceZ 5.459075363596515
+X 0.3891342720059532
+Z -0.11040683172296523
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image65
+proportionalEditingValueZ 0.5614514867785969
+proportionalEditingSize 1.7252947894501918
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [62, 36, 23]
+LightSourceColor [255, 253, 233]
+LightIntensity 1000.0
+LightSourceZ 5.489955472347131
+X 1.0819950047847073
+Z 0.0915494706071788
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image66
+proportionalEditingValueZ 0.5857247443029316
+proportionalEditingSize 2.2818324103197165
+Color [255, 232, 232]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [63, 73, 135]
+LightSourceColor [255, 252, 215]
+LightIntensity 1000.0
+LightSourceZ 5.967951988973834
+X 1.8276944374440642
+Z 0.6242538582537881
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image67
+proportionalEditingValueZ 0.5369940006586936
+proportionalEditingSize 1.8564573237451338
+Color [255, 252, 252]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [145, 110, 54]
+LightSourceColor [255, 253, 240]
+LightIntensity 1000.0
+LightSourceZ 5.71663197820024
+X 0.7717704977826769
+Z 0.698397548094452
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image68
+proportionalEditingValueZ 0.5552662777083691
+proportionalEditingSize 2.054069733926667
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [41, 62, 107]
+LightSourceColor [255, 254, 245]
+LightIntensity 1000.0
+LightSourceZ 5.929210038419053
+X -0.8902936940124997
+Z 0.3845633741251664
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image69
+proportionalEditingValueZ 0.6343270043279875
+proportionalEditingSize 2.19307477323807
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [115, 9, 13]
+LightSourceColor [255, 252, 221]
+LightIntensity 1000.0
+LightSourceZ 5.213777010054065
+X -1.4361480751123947
+Z -0.02606074934460903
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image70
+proportionalEditingValueZ 0.8493499660664758
+proportionalEditingSize 1.1221574096386053
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [130, 55, 63]
+LightSourceColor [255, 252, 223]
+LightIntensity 1000.0
+LightSourceZ 5.46241237288409
+X 0.3199142599912568
+Z 0.12691407458961287
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image71
+proportionalEditingValueZ 0.4712945762130156
+proportionalEditingSize 2.279531519460922
+Color [255, 237, 237]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [58, 84, 119]
+LightSourceColor [255, 247, 150]
+LightIntensity 1000.0
+LightSourceZ 5.91318300042065
+X -1.751126526836208
+Z 0.3297036321088337
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image72
+proportionalEditingValueZ 0.6064495413663882
+proportionalEditingSize 2.0858283876391197
+Color [255, 238, 238]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [143, 45, 78]
+LightSourceColor [255, 249, 179]
+LightIntensity 1000.0
+LightSourceZ 5.49258006664793
+X -1.5607379880331607
+Z 0.5044949411545353
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image73
+proportionalEditingValueZ 0.7480376904412297
+proportionalEditingSize 2.460131819143127
+Color [255, 227, 227]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [139, 49, 111]
+LightSourceColor [255, 248, 173]
+LightIntensity 1000.0
+LightSourceZ 5.694313978796183
+X -0.44425428201438755
+Z 0.34690490261515794
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image74
+proportionalEditingValueZ 0.7656835221575912
+proportionalEditingSize 2.132747743784585
+Color [255, 241, 241]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [78, 22, 18]
+LightSourceColor [255, 251, 202]
+LightIntensity 1000.0
+LightSourceZ 5.6835952719708045
+X -0.6371855130270907
+Z 0.13241262526706551
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image75
+proportionalEditingValueZ 0.6492464449870647
+proportionalEditingSize 2.2967610182950398
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [89, 69, 3]
+LightSourceColor [255, 247, 160]
+LightIntensity 1000.0
+LightSourceZ 5.8353568535936855
+X -0.9323942980238378
+Z 0.10237260011330165
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image76
+proportionalEditingValueZ 0.6152748655530279
+proportionalEditingSize 2.0241034970758633
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [45, 108, 126]
+LightSourceColor [255, 248, 164]
+LightIntensity 1000.0
+LightSourceZ 5.362432414832933
+X 0.09431838404645854
+Z 0.5226940844731468
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image77
+proportionalEditingValueZ 0.7440208636011741
+proportionalEditingSize 1.5669512803963779
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [38, 25, 78]
+LightSourceColor [255, 254, 246]
+LightIntensity 1000.0
+LightSourceZ 5.843121209698649
+X -0.37878270414829074
+Z 0.4507477891501741
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image78
+proportionalEditingValueZ 0.5455069685988989
+proportionalEditingSize 1.842335653504653
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [101, 29, 138]
+LightSourceColor [255, 254, 244]
+LightIntensity 1000.0
+LightSourceZ 5.869485067892741
+X 1.5224066402530525
+Z -0.1131470322399669
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image79
+proportionalEditingValueZ 0.9492878200056732
+proportionalEditingSize 1.113872479070471
+Color [255, 229, 229]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [93, 141, 147]
+LightSourceColor [255, 254, 246]
+LightIntensity 1000.0
+LightSourceZ 5.529001437858543
+X -0.9411077066300952
+Z 0.4192078784823119
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image80
+proportionalEditingValueZ 0.4905071837217551
+proportionalEditingSize 1.734298908826234
+Color [255, 240, 240]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [3, 27, 41]
+LightSourceColor [255, 254, 252]
+LightIntensity 1000.0
+LightSourceZ 5.873316506622784
+X -1.2381130798008575
+Z -0.1017605166555052
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image81
+proportionalEditingValueZ 0.6982876866124883
+proportionalEditingSize 2.210750627898808
+Color [255, 243, 243]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [81, 134, 27]
+LightSourceColor [255, 248, 167]
+LightIntensity 1000.0
+LightSourceZ 5.4441060188281725
+X -1.505991617960912
+Z -0.02151159192894922
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image82
+proportionalEditingValueZ 0.8609710649609534
+proportionalEditingSize 1.9016649749931782
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [36, 38, 6]
+LightSourceColor [255, 248, 169]
+LightIntensity 1000.0
+LightSourceZ 5.537980874895491
+X 1.0463377861233552
+Z -0.08295831025271763
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image83
+proportionalEditingValueZ 0.788760129066095
+proportionalEditingSize 2.51018797476859
+Color [255, 247, 247]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [103, 20, 62]
+LightSourceColor [255, 252, 216]
+LightIntensity 1000.0
+LightSourceZ 5.997622763493726
+X -1.3728263504205833
+Z 0.27316027811646304
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image84
+proportionalEditingValueZ 0.7995947094309104
+proportionalEditingSize 1.6277288169705175
+Color [255, 243, 243]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [130, 142, 137]
+LightSourceColor [255, 248, 176]
+LightIntensity 1000.0
+LightSourceZ 5.490140302148679
+X 1.095068745301031
+Z 0.6518340421114206
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image85
+proportionalEditingValueZ 0.8476270255603597
+proportionalEditingSize 1.5871761033673923
+Color [255, 222, 222]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [116, 5, 123]
+LightSourceColor [255, 251, 215]
+LightIntensity 1000.0
+LightSourceZ 5.125202792781799
+X 1.3756690337016035
+Z -0.02929600137274814
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image86
+proportionalEditingValueZ 0.7952806180803005
+proportionalEditingSize 2.0752381716704367
+Color [255, 231, 231]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [34, 52, 32]
+LightSourceColor [255, 250, 189]
+LightIntensity 1000.0
+LightSourceZ 5.105976112518692
+X -0.487341260684538
+Z 0.5747264538599304
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image87
+proportionalEditingValueZ 0.6409153864288942
+proportionalEditingSize 1.2911955509866035
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [46, 82, 99]
+LightSourceColor [255, 253, 231]
+LightIntensity 1000.0
+LightSourceZ 5.149137509825044
+X -0.13145640975328798
+Z 0.30581766737571137
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image88
+proportionalEditingValueZ 0.3527553177341546
+proportionalEditingSize 1.8885844910804996
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [98, 73, 71]
+LightSourceColor [255, 254, 245]
+LightIntensity 1000.0
+LightSourceZ 5.954788280817715
+X -0.2878960149679963
+Z 0.6460525222583622
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image89
+proportionalEditingValueZ 0.6448498438063256
+proportionalEditingSize 1.8543118465254136
+Color [255, 242, 242]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [47, 67, 18]
+LightSourceColor [255, 253, 235]
+LightIntensity 1000.0
+LightSourceZ 5.416410301309603
+X -0.22069323593708812
+Z 0.30245910900378203
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image90
+proportionalEditingValueZ 0.7473307529321714
+proportionalEditingSize 2.3586422777353993
+Color [255, 246, 246]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [81, 54, 24]
+LightSourceColor [255, 249, 182]
+LightIntensity 1000.0
+LightSourceZ 5.3103600763945105
+X -2.078721620859165
+Z 0.33580273464997545
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image91
+proportionalEditingValueZ 0.6970455239297889
+proportionalEditingSize 1.6397735663830135
+Color [255, 218, 218]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [1, 116, 61]
+LightSourceColor [255, 248, 164]
+LightIntensity 1000.0
+LightSourceZ 5.080029984530927
+X -0.7879704713326587
+Z -0.12032688752136818
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image92
+proportionalEditingValueZ 0.7216904536133754
+proportionalEditingSize 2.5353107686654957
+Color [255, 245, 245]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [129, 36, 62]
+LightSourceColor [255, 248, 173]
+LightIntensity 1000.0
+LightSourceZ 5.932250687171798
+X 1.066949697297248
+Z 0.5096944738102013
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image93
+proportionalEditingValueZ 0.325049194187154
+proportionalEditingSize 2.4284584050692373
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [48, 116, 84]
+LightSourceColor [255, 248, 174]
+LightIntensity 1000.0
+LightSourceZ 5.265302509745241
+X 1.796064863628799
+Z 0.0811165639147429
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image94
+proportionalEditingValueZ 0.8672485670304794
+proportionalEditingSize 1.18300426329907
+Color [255, 241, 241]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [61, 50, 68]
+LightSourceColor [255, 254, 245]
+LightIntensity 1000.0
+LightSourceZ 5.374622908912332
+X -0.01959699122006997
+Z 0.36183363241815225
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image95
+proportionalEditingValueZ 0.7737252006094927
+proportionalEditingSize 1.7733986697001607
+Color [255, 244, 244]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [67, 103, 10]
+LightSourceColor [255, 253, 236]
+LightIntensity 1000.0
+LightSourceZ 5.924650649737984
+X -1.4700858000704902
+Z 0.48832879812495145
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image96
+proportionalEditingValueZ 0.5812052740302522
+proportionalEditingSize 1.4239893223420093
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [89, 81, 68]
+LightSourceColor [255, 251, 208]
+LightIntensity 1000.0
+LightSourceZ 5.270726392805002
+X -0.13463752285881214
+Z 0.4605540968413996
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image97
+proportionalEditingValueZ 0.5731738020922315
+proportionalEditingSize 2.3279557241075004
+Color [255, 252, 252]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [13, 28, 68]
+LightSourceColor [255, 254, 253]
+LightIntensity 1000.0
+LightSourceZ 5.705730003371839
+X -0.03143728252948286
+Z -0.13339877465662048
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image98
+proportionalEditingValueZ 0.5682665987017652
+proportionalEditingSize 1.9252556362249078
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [107, 8, 94]
+LightSourceColor [255, 254, 244]
+LightIntensity 1000.0
+LightSourceZ 5.873969944070131
+X 0.25871969013191043
+Z 0.37413632321739676
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image99
+proportionalEditingValueZ 0.6479738668473712
+proportionalEditingSize 1.8072395130420364
+Color [255, 250, 250]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [141, 109, 114]
+LightSourceColor [255, 253, 239]
+LightIntensity 1000.0
+LightSourceZ 5.235833133452815
+X -1.7083956333583685
+Z 0.3540580535279768
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image100
+proportionalEditingValueZ 0.5456981035332613
+proportionalEditingSize 1.9175384430943379
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [100, 98, 3]
+LightSourceColor [255, 249, 183]
+LightIntensity 1000.0
+LightSourceZ 5.880525676030541
+X -0.16445978728856714
+Z 0.6432691253190105
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image101
+proportionalEditingValueZ 0.5645938219338965
+proportionalEditingSize 1.9695378895532192
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [116, 3, 138]
+LightSourceColor [255, 248, 172]
+LightIntensity 1000.0
+LightSourceZ 5.551296584688503
+X 1.3835753372889208
+Z 0.14561934104426835
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image102
+proportionalEditingValueZ 0.7340067170719572
+proportionalEditingSize 1.263021068199695
+Color [255, 253, 253]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [21, 63, 7]
+LightSourceColor [255, 251, 205]
+LightIntensity 1000.0
+LightSourceZ 5.565931611955785
+X -2.022601014461925
+Z 0.17218156492516448
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image103
+proportionalEditingValueZ 0.6548386935387946
+proportionalEditingSize 1.5290676087599462
+Color [255, 231, 231]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [145, 62, 119]
+LightSourceColor [255, 247, 153]
+LightIntensity 1000.0
+LightSourceZ 5.620791154229778
+X 1.6218639701126478
+Z 0.30628847342821974
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image104
+proportionalEditingValueZ 0.7002051069828785
+proportionalEditingSize 2.0902305364465765
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [74, 97, 121]
+LightSourceColor [255, 248, 172]
+LightIntensity 1000.0
+LightSourceZ 5.235685086142877
+X -1.782984271997376
+Z 0.10218423978047295
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image105
+proportionalEditingValueZ 0.5896633979062359
+proportionalEditingSize 1.929122339163868
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [130, 13, 63]
+LightSourceColor [255, 250, 189]
+LightIntensity 1000.0
+LightSourceZ 5.005524945830257
+X 0.8566207185561927
+Z -0.06432590825167672
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image106
+proportionalEditingValueZ 0.5794380284197889
+proportionalEditingSize 1.2067627220458679
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [3, 133, 97]
+LightSourceColor [255, 250, 192]
+LightIntensity 1000.0
+LightSourceZ 5.119522456339023
+X -0.3595624066538523
+Z 0.08971506499024198
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image107
+proportionalEditingValueZ 0.6725160927242206
+proportionalEditingSize 1.4909618924244086
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [95, 8, 50]
+LightSourceColor [255, 252, 227]
+LightIntensity 1000.0
+LightSourceZ 5.40479212609797
+X -0.8603307806527232
+Z 0.4092896292425715
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image108
+proportionalEditingValueZ 0.7746451321111583
+proportionalEditingSize 1.7567857935913358
+Color [255, 251, 251]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [22, 55, 135]
+LightSourceColor [255, 247, 150]
+LightIntensity 1000.0
+LightSourceZ 5.384604550804621
+X 0.48556877663569686
+Z 0.036857517468958184
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image109
+proportionalEditingValueZ 0.8550691245319032
+proportionalEditingSize 1.5663243514738885
+Color [255, 219, 219]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [73, 17, 116]
+LightSourceColor [255, 255, 255]
+LightIntensity 1000.0
+LightSourceZ 5.769386907136899
+X -1.5010450812507758
+Z 0.4622668437024312
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image110
+proportionalEditingValueZ 0.6097850793808726
+proportionalEditingSize 1.7939966196888169
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [53, 42, 146]
+LightSourceColor [255, 250, 201]
+LightIntensity 1000.0
+LightSourceZ 5.072761521186403
+X -1.0662648265718633
+Z 0.09317712495764469
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image111
+proportionalEditingValueZ 0.7668198312338361
+proportionalEditingSize 2.4584115981221712
+Color [255, 224, 224]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [64, 83, 53]
+LightSourceColor [255, 252, 224]
+LightIntensity 1000.0
+LightSourceZ 5.716646127602594
+X -0.4736199797448284
+Z -0.0022171762178221366
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image112
+proportionalEditingValueZ 0.660945540969888
+proportionalEditingSize 2.330677735368669
+Color [255, 233, 233]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [10, 7, 39]
+LightSourceColor [255, 253, 232]
+LightIntensity 1000.0
+LightSourceZ 5.493218407368265
+X 0.7586025875816014
+Z 0.4502898059039643
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image113
+proportionalEditingValueZ 0.715088340916391
+proportionalEditingSize 2.3023496783816215
+Color [255, 254, 254]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [23, 81, 90]
+LightSourceColor [255, 254, 244]
+LightIntensity 1000.0
+LightSourceZ 5.01376303378722
+X 1.281575890668814
+Z 0.0864711911929617
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image114
+proportionalEditingValueZ 0.6023608668483647
+proportionalEditingSize 1.5785193568065607
+Color [255, 249, 249]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [40, 27, 101]
+LightSourceColor [255, 248, 170]
+LightIntensity 1000.0
+LightSourceZ 5.634240381318785
+X 0.6391717071646537
+Z 0.589061971742208
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image115
+proportionalEditingValueZ 0.6721985766063947
+proportionalEditingSize 2.378602680012889
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [29, 19, 57]
+LightSourceColor [255, 254, 252]
+LightIntensity 1000.0
+LightSourceZ 5.768031775769876
+X -1.0992402706296427
+Z -0.0023809295816419884
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image116
+proportionalEditingValueZ 0.6394771892609495
+proportionalEditingSize 1.9515394722502934
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [130, 107, 131]
+LightSourceColor [255, 254, 251]
+LightIntensity 1000.0
+LightSourceZ 5.569851806461731
+X 0.5251208838067409
+Z 0.10912269506000824
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image117
+proportionalEditingValueZ 0.44156490391887293
+proportionalEditingSize 2.515003678518827
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [119, 147, 13]
+LightSourceColor [255, 250, 199]
+LightIntensity 1000.0
+LightSourceZ 5.589886662203746
+X -1.6014639012817156
+Z 0.39432820811395874
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image118
+proportionalEditingValueZ 0.7230041939183548
+proportionalEditingSize 1.8162273018015949
+Color [255, 216, 216]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [70, 61, 71]
+LightSourceColor [255, 250, 194]
+LightIntensity 1000.0
+LightSourceZ 5.814628669888116
+X 0.23631874274455722
+Z 0.6788687436189003
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image119
+proportionalEditingValueZ 0.9161859609811835
+proportionalEditingSize 2.358268042876749
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [82, 112, 16]
+LightSourceColor [255, 248, 174]
+LightIntensity 1000.0
+LightSourceZ 5.616423551515185
+X 0.7927913286106252
+Z 0.5841051225205154
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image120
+proportionalEditingValueZ 0.6552599383734016
+proportionalEditingSize 2.6949449799650878
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [128, 53, 147]
+LightSourceColor [255, 249, 185]
+LightIntensity 1000.0
+LightSourceZ 5.598729192818634
+X -0.9542850096847231
+Z 0.3602106982745076
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image121
+proportionalEditingValueZ 0.7190892898448192
+proportionalEditingSize 1.9296498287023724
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [69, 104, 92]
+LightSourceColor [255, 252, 223]
+LightIntensity 1000.0
+LightSourceZ 5.124256249602597
+X 0.6338236948598333
+Z 0.2483895820068218
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image122
+proportionalEditingValueZ 0.7617806946863961
+proportionalEditingSize 1.8315467181022405
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [98, 108, 119]
+LightSourceColor [255, 249, 180]
+LightIntensity 1000.0
+LightSourceZ 5.889855157657899
+X 0.8912851422743047
+Z 0.3926172870235567
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image123
+proportionalEditingValueZ 0.5006639644170258
+proportionalEditingSize 2.112739026606896
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [58, 136, 37]
+LightSourceColor [255, 254, 247]
+LightIntensity 1000.0
+LightSourceZ 5.082948005009926
+X -0.42909133400604027
+Z 0.28780617317810453
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image124
+proportionalEditingValueZ 0.3326073251979707
+proportionalEditingSize 2.1964600412206225
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [4, 18, 147]
+LightSourceColor [255, 251, 204]
+LightIntensity 1000.0
+LightSourceZ 5.6194148549102065
+X 1.6929706467789032
+Z 0.003006864953706667
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image125
+B
+proportionalEditingValueZ 0.6154106779897104
+proportionalEditingSize 1.1472020067998554
+Color [255, 212, 212]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [20, 116, 141]
+LightSourceColor [255, 253, 233]
+LightIntensity 1000.0
+LightSourceZ 5.119794541764107
+X 0.45707369624739824
+Z 0.2422026710216247
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image126
+proportionalEditingValueZ 0.5451654733469677
+proportionalEditingSize 1.2416548632791642
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [130, 109, 88]
+LightSourceColor [255, 252, 220]
+LightIntensity 1000.0
+LightSourceZ 5.724042745798251
+X -1.9246332284717234
+Z 0.03631458504738999
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image127
+proportionalEditingValueZ 0.44028826121534126
+proportionalEditingSize 1.2351428307274712
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [94, 32, 75]
+LightSourceColor [255, 249, 183]
+LightIntensity 1000.0
+LightSourceZ 5.094392247954031
+X -0.14318251728083986
+Z 0.3352162379842657
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image128
+proportionalEditingValueZ 0.5872333944372055
+proportionalEditingSize 1.4330523252039644
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [144, 30, 88]
+LightSourceColor [255, 254, 247]
+LightIntensity 1000.0
+LightSourceZ 5.228003860903339
+X -0.8260082811678253
+Z 0.284880556180213
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image129
+proportionalEditingValueZ 0.4949332246806798
+proportionalEditingSize 1.1031453949406922
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [76, 10, 149]
+LightSourceColor [255, 254, 249]
+LightIntensity 1000.0
+LightSourceZ 5.067169552658717
+X 0.4251171634641113
+Z 0.3957718250321919
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image130
+proportionalEditingValueZ 0.3218951886284042
+proportionalEditingSize 1.2943097940673216
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [85, 55, 141]
+LightSourceColor [255, 249, 186]
+LightIntensity 1000.0
+LightSourceZ 5.80706129580165
+X 1.8789387392150347
+Z 0.3149546726580179
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image131
+proportionalEditingValueZ 0.4274571233216284
+proportionalEditingSize 1.3907821474346043
+Color [255, 238, 238]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [116, 93, 62]
+LightSourceColor [255, 250, 193]
+LightIntensity 1000.0
+LightSourceZ 5.040932452523129
+X -2.0892328572946313
+Z 0.6234788173604849
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image132
+proportionalEditingValueZ 0.58081619190313
+proportionalEditingSize 1.0988550589197486
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [10, 91, 56]
+LightSourceColor [255, 254, 250]
+LightIntensity 1000.0
+LightSourceZ 5.740999684829346
+X 1.3132341131947567
+Z 0.3774590210841965
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image133
+proportionalEditingValueZ 0.32065913230785786
+proportionalEditingSize 1.6492766059576276
+Color [255, 248, 248]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [97, 83, 121]
+LightSourceColor [255, 252, 223]
+LightIntensity 1000.0
+LightSourceZ 5.455346217265483
+X 1.353986945080588
+Z 0.5727993377003004
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image134
+proportionalEditingValueZ 0.37715096576666995
+proportionalEditingSize 0.8074543519518149
+Color [255, 199, 199]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [111, 85, 43]
+LightSourceColor [255, 247, 155]
+LightIntensity 1000.0
+LightSourceZ 5.016048451415386
+X 0.4002429288475371
+Z 0.15411373147196697
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image135
+proportionalEditingValueZ 0.5812784236732402
+proportionalEditingSize 0.8721285666097887
+Color [255, 244, 244]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [28, 128, 75]
+LightSourceColor [255, 252, 225]
+LightIntensity 1000.0
+LightSourceZ 5.137236542798441
+X 1.4544172583090451
+Z 0.1436055768240415
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image136
+proportionalEditingValueZ 0.5278360465339841
+proportionalEditingSize 1.4882489065668039
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [20, 94, 73]
+LightSourceColor [255, 252, 226]
+LightIntensity 1000.0
+LightSourceZ 5.374150197703453
+X -0.04557797570579991
+Z 0.2869424813035937
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image137
+proportionalEditingValueZ 0.5317011792797888
+proportionalEditingSize 1.4648544963501018
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [81, 138, 4]
+LightSourceColor [255, 250, 200]
+LightIntensity 1000.0
+LightSourceZ 5.634959729815232
+X 1.47788741912587
+Z -0.12755824395555118
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image138
+proportionalEditingValueZ 0.37893973150389587
+proportionalEditingSize 1.7868966799451198
+Color [255, 164, 164]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [83, 116, 32]
+LightSourceColor [255, 250, 191]
+LightIntensity 1000.0
+LightSourceZ 5.106099655349651
+X 0.8112709989673736
+Z 0.44678296899451575
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image139
+proportionalEditingValueZ 0.5267057073759788
+proportionalEditingSize 1.4483311088914639
+Color [255, 171, 171]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [62, 90, 93]
+LightSourceColor [255, 249, 179]
+LightIntensity 1000.0
+LightSourceZ 5.535995817225465
+X 1.1963480350190054
+Z 0.546526494163363
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image140
+proportionalEditingValueZ 0.47691093897623366
+proportionalEditingSize 1.2147767103053506
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [63, 143, 48]
+LightSourceColor [255, 251, 208]
+LightIntensity 1000.0
+LightSourceZ 5.297801946213675
+X 0.7371667249673246
+Z 0.37218601545101115
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image141
+proportionalEditingValueZ 0.4911453490169628
+proportionalEditingSize 1.34835997304258
+Color [255, 221, 221]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [49, 128, 84]
+LightSourceColor [255, 250, 193]
+LightIntensity 1000.0
+LightSourceZ 5.388183683552206
+X 0.6077268256213015
+Z 0.2421126149765592
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image142
+proportionalEditingValueZ 0.6205738342748908
+proportionalEditingSize 1.1812481432790405
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [144, 98, 100]
+LightSourceColor [255, 247, 155]
+LightIntensity 1000.0
+LightSourceZ 5.802731569573015
+X 0.2285915725072245
+Z -0.02520313084152155
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image143
+proportionalEditingValueZ 0.48597684206395003
+proportionalEditingSize 1.2219406761093747
+Color [255, 191, 191]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [70, 38, 22]
+LightSourceColor [255, 253, 241]
+LightIntensity 1000.0
+LightSourceZ 5.752178293170924
+X -0.25610827169236927
+Z 0.26398629810901575
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image144
+proportionalEditingValueZ 0.45131037729342444
+proportionalEditingSize 0.5512287822301853
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [1, 107, 46]
+LightSourceColor [255, 252, 228]
+LightIntensity 1000.0
+LightSourceZ 5.667162457720107
+X -2.078079429947308
+Z 0.21963880696905666
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image145
+proportionalEditingValueZ 0.36681292028574164
+proportionalEditingSize 1.1647748027465208
+Color [255, 205, 205]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [77, 98, 4]
+LightSourceColor [255, 249, 184]
+LightIntensity 1000.0
+LightSourceZ 5.603763501646016
+X 0.8596363196391352
+Z 0.05685709147108606
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image146
+proportionalEditingValueZ 0.6355784482727027
+proportionalEditingSize 1.1317509346165766
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [17, 28, 31]
+LightSourceColor [255, 248, 175]
+LightIntensity 1000.0
+LightSourceZ 5.842229339366975
+X -2.0150960568815828
+Z 0.6243714489453185
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image147
+proportionalEditingValueZ 0.5377021474055157
+proportionalEditingSize 1.6907183381058366
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [14, 16, 71]
+LightSourceColor [255, 250, 199]
+LightIntensity 1000.0
+LightSourceZ 5.258821394934668
+X -1.1463800823885966
+Z 0.3389676847925722
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image148
+proportionalEditingValueZ 0.5124972077175199
+proportionalEditingSize 0.9102007847733136
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [118, 140, 24]
+LightSourceColor [255, 253, 229]
+LightIntensity 1000.0
+LightSourceZ 5.078012890049681
+X 1.9583517397151886
+Z 0.14933732404766678
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image149
+proportionalEditingValueZ 0.5481239524051871
+proportionalEditingSize 1.0798534948298784
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [48, 118, 68]
+LightSourceColor [255, 252, 225]
+LightIntensity 1000.0
+LightSourceZ 5.421509700746791
+X 1.7505821143542528
+Z 0.19403439042362655
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image150
+proportionalEditingValueZ 0.3511650737632085
+proportionalEditingSize 0.823942268783944
+Color [255, 225, 225]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [15, 105, 39]
+LightSourceColor [255, 248, 169]
+LightIntensity 1000.0
+LightSourceZ 5.47953678255909
+X -1.506711147834165
+Z 0.3221619365153532
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image151
+proportionalEditingValueZ 0.5257659739846422
+proportionalEditingSize 1.4273048937294344
+Color [255, 169, 169]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [122, 40, 149]
+LightSourceColor [255, 248, 171]
+LightIntensity 1000.0
+LightSourceZ 5.317014040189009
+X 1.1217438785579454
+Z 0.501465963219719
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image152
+proportionalEditingValueZ 0.4204914524427245
+proportionalEditingSize 1.5665983469131772
+Color [255, 236, 236]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [94, 44, 109]
+LightSourceColor [255, 252, 220]
+LightIntensity 1000.0
+LightSourceZ 5.359319212409685
+X 0.5287869456076164
+Z 0.0075558647542389445
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image153
+proportionalEditingValueZ 0.5476452934715141
+proportionalEditingSize 1.2773050953495746
+Color [255, 219, 219]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [92, 136, 38]
+LightSourceColor [255, 251, 213]
+LightIntensity 1000.0
+LightSourceZ 5.968974608593188
+X 0.28228665869785274
+Z 0.6228850950223029
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image154
+proportionalEditingValueZ 0.330556065366934
+proportionalEditingSize 1.3894832089117073
+Color [255, 165, 165]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [147, 32, 130]
+LightSourceColor [255, 250, 199]
+LightIntensity 1000.0
+LightSourceZ 5.371281654440614
+X -0.24851017660876784
+Z 0.019749966515554135
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image155
+proportionalEditingValueZ 0.560381756024907
+proportionalEditingSize 1.0729399943871418
+Color [255, 248, 248]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [55, 35, 2]
+LightSourceColor [255, 251, 204]
+LightIntensity 1000.0
+LightSourceZ 5.883509760261219
+X 1.7952571450810617
+Z -0.004380258708852142
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image156
+proportionalEditingValueZ 0.4823252601144314
+proportionalEditingSize 1.4207116119012837
+Color [255, 162, 162]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [32, 75, 107]
+LightSourceColor [255, 248, 175]
+LightIntensity 1000.0
+LightSourceZ 5.508078966412717
+X -1.9665780680802827
+Z 0.6001438064394009
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image157
+proportionalEditingValueZ 0.46264181894124284
+proportionalEditingSize 1.8686893945498693
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [87, 100, 71]
+LightSourceColor [255, 254, 254]
+LightIntensity 1000.0
+LightSourceZ 5.071632609570671
+X 1.326498896722287
+Z 0.17426713863986185
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image158
+proportionalEditingValueZ 0.46893525268023517
+proportionalEditingSize 1.1884178288787681
+Color [255, 175, 175]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [59, 142, 128]
+LightSourceColor [255, 254, 253]
+LightIntensity 1000.0
+LightSourceZ 5.218540544955489
+X 2.096195419672958
+Z 0.5156918549715178
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image159
+proportionalEditingValueZ 0.5394225220208081
+proportionalEditingSize 1.8675861985872113
+Color [255, 220, 220]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [82, 44, 5]
+LightSourceColor [255, 249, 183]
+LightIntensity 1000.0
+LightSourceZ 5.359932885594052
+X 1.1868129335985578
+Z 0.2506205426025563
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image160
+proportionalEditingValueZ 0.6970587836565187
+proportionalEditingSize 1.0309347498594827
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [122, 134, 123]
+LightSourceColor [255, 254, 251]
+LightIntensity 1000.0
+LightSourceZ 5.265305732037962
+X -1.1930171100079279
+Z 0.19016601864636998
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image161
+proportionalEditingValueZ 0.4931607407729953
+proportionalEditingSize 1.1821246016086513
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [126, 112, 120]
+LightSourceColor [255, 247, 152]
+LightIntensity 1000.0
+LightSourceZ 5.257000535718488
+X -1.9988735793546717
+Z 0.6827944801550245
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image162
+proportionalEditingValueZ 0.3186576115352914
+proportionalEditingSize 1.7281250154437877
+Color [255, 232, 232]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [97, 108, 143]
+LightSourceColor [255, 248, 174]
+LightIntensity 1000.0
+LightSourceZ 5.8932101891304445
+X 1.2107415983750238
+Z -0.12258708211908478
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image163
+proportionalEditingValueZ 0.4563172167109903
+proportionalEditingSize 1.9103406153087548
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [51, 130, 100]
+LightSourceColor [255, 251, 214]
+LightIntensity 1000.0
+LightSourceZ 5.418828237488226
+X 0.06789093054801976
+Z 0.4636428317293585
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image164
+proportionalEditingValueZ 0.3264710556910799
+proportionalEditingSize 0.979711143364167
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [81, 107, 42]
+LightSourceColor [255, 247, 158]
+LightIntensity 1000.0
+LightSourceZ 5.354257353449808
+X 1.6637248966373206
+Z 0.5498211993697558
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image165
+proportionalEditingValueZ 0.3495747993295188
+proportionalEditingSize 1.4514438154846576
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [80, 116, 85]
+LightSourceColor [255, 252, 217]
+LightIntensity 1000.0
+LightSourceZ 5.888851686688327
+X 0.9747881402752188
+Z 0.35203207534856185
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image166
+proportionalEditingValueZ 0.4702463323257651
+proportionalEditingSize 0.5560543077099085
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [84, 14, 112]
+LightSourceColor [255, 252, 216]
+LightIntensity 1000.0
+LightSourceZ 5.851437174828436
+X 1.0566637547668258
+Z 0.555151189522996
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image167
+proportionalEditingValueZ 0.3318223155978026
+proportionalEditingSize 1.514014573338081
+Color [255, 180, 180]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [91, 54, 96]
+LightSourceColor [255, 252, 220]
+LightIntensity 1000.0
+LightSourceZ 5.781848845178571
+X -1.9912327333583404
+Z 0.4732690149625052
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image168
+proportionalEditingValueZ 0.5922628779187948
+proportionalEditingSize 1.4656466831735102
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [95, 105, 116]
+LightSourceColor [255, 253, 240]
+LightIntensity 1000.0
+LightSourceZ 5.881164170237394
+X -0.7241378653423298
+Z 0.006592057415638841
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image169
+proportionalEditingValueZ 0.37556821682816277
+proportionalEditingSize 1.0198821890496244
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [68, 65, 117]
+LightSourceColor [255, 250, 192]
+LightIntensity 1000.0
+LightSourceZ 5.654404576800057
+X 1.3870817247671927
+Z 0.10794988071838116
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image170
+proportionalEditingValueZ 0.44511819347327014
+proportionalEditingSize 1.286635668591377
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [104, 34, 5]
+LightSourceColor [255, 251, 209]
+LightIntensity 1000.0
+LightSourceZ 5.492525913624436
+X -0.47817666626447797
+Z 0.3825795722206573
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image171
+proportionalEditingValueZ 0.5716991508955955
+proportionalEditingSize 1.762569609316595
+Color [255, 216, 216]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [142, 81, 10]
+LightSourceColor [255, 252, 218]
+LightIntensity 1000.0
+LightSourceZ 5.3127971460174575
+X -1.1786008416068958
+Z 0.45151984094760655
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image172
+proportionalEditingValueZ 0.4278175373853663
+proportionalEditingSize 1.2506051540739596
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [44, 124, 92]
+LightSourceColor [255, 248, 171]
+LightIntensity 1000.0
+LightSourceZ 5.263636644983282
+X -2.0574159274133863
+Z -0.03255990179734364
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image173
+proportionalEditingValueZ 0.5093808643768912
+proportionalEditingSize 1.7642879533865887
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [128, 38, 65]
+LightSourceColor [255, 253, 236]
+LightIntensity 1000.0
+LightSourceZ 5.957749749746259
+X 0.6164938266995268
+Z 0.1738480505103608
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image174
+proportionalEditingValueZ 0.23534372581781843
+proportionalEditingSize 0.62442230173503
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [4, 92, 148]
+LightSourceColor [255, 254, 243]
+LightIntensity 1000.0
+LightSourceZ 5.35145207676874
+X 1.5170543125702136
+Z -0.1156657612338928
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image175
+proportionalEditingValueZ 0.486447459982435
+proportionalEditingSize 1.134981082669408
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [22, 20, 87]
+LightSourceColor [255, 249, 183]
+LightIntensity 1000.0
+LightSourceZ 5.5485859946463965
+X -1.9962480620783036
+Z 0.616233624654109
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image176
+proportionalEditingValueZ 0.4631762860944805
+proportionalEditingSize 1.0681864658454308
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [133, 140, 134]
+LightSourceColor [255, 254, 249]
+LightIntensity 1000.0
+LightSourceZ 5.233134980991904
+X 1.7265608744913106
+Z 0.5733433573133304
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image177
+proportionalEditingValueZ 0.513555676629999
+proportionalEditingSize 1.8872582125363822
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [130, 101, 21]
+LightSourceColor [255, 253, 233]
+LightIntensity 1000.0
+LightSourceZ 5.5176825882099525
+X -1.850485083468016
+Z -0.02603028853916732
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image178
+proportionalEditingValueZ 0.42206099745546793
+proportionalEditingSize 1.450593029187817
+Color [255, 184, 184]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [13, 106, 5]
+LightSourceColor [255, 247, 155]
+LightIntensity 1000.0
+LightSourceZ 5.941377615799649
+X 0.48151542994297536
+Z 0.2809768521638426
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image179
+proportionalEditingValueZ 0.4454252966379673
+proportionalEditingSize 1.4470110128663292
+Color [255, 203, 203]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [129, 116, 44]
+LightSourceColor [255, 253, 231]
+LightIntensity 1000.0
+LightSourceZ 5.663365974526018
+X 1.4030345091393013
+Z 0.31301168279224956
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image180
+proportionalEditingValueZ 0.5662842374192996
+proportionalEditingSize 1.2050695949679227
+Color [255, 167, 167]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [116, 74, 61]
+LightSourceColor [255, 249, 181]
+LightIntensity 1000.0
+LightSourceZ 5.301675803862129
+X 0.7627547614674
+Z 0.3184722276655647
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image181
+proportionalEditingValueZ 0.18665727537903581
+proportionalEditingSize 1.5543557783116577
+Color [255, 197, 197]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [76, 15, 31]
+LightSourceColor [255, 252, 222]
+LightIntensity 1000.0
+LightSourceZ 5.139636827215207
+X -0.49919906715865103
+Z 0.6406393309303874
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image182
+proportionalEditingValueZ 0.39522357690336324
+proportionalEditingSize 1.5798772603336713
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [143, 125, 44]
+LightSourceColor [255, 250, 201]
+LightIntensity 1000.0
+LightSourceZ 5.1590553244175155
+X 1.2128720415516767
+Z -0.018972365107940314
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image183
+proportionalEditingValueZ 0.32916174923229025
+proportionalEditingSize 1.9940161247413088
+Color [255, 203, 203]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [106, 97, 61]
+LightSourceColor [255, 252, 221]
+LightIntensity 1000.0
+LightSourceZ 5.057316474230115
+X -1.9959260875119158
+Z 0.6464388464808258
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image184
+proportionalEditingValueZ 0.47764901374368324
+proportionalEditingSize 1.756507306761709
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [119, 117, 92]
+LightSourceColor [255, 250, 194]
+LightIntensity 1000.0
+LightSourceZ 5.328167001850863
+X -0.31297933412289414
+Z 0.4497612376403498
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image185
+proportionalEditingValueZ 0.3111538731386744
+proportionalEditingSize 1.3498167913768122
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [52, 45, 79]
+LightSourceColor [255, 250, 201]
+LightIntensity 1000.0
+LightSourceZ 5.347171753108291
+X 0.5028333211275453
+Z 0.5201886958740468
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image186
+proportionalEditingValueZ 0.3843107461026857
+proportionalEditingSize 1.2157945931969216
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [101, 29, 36]
+LightSourceColor [255, 251, 204]
+LightIntensity 1000.0
+LightSourceZ 5.582446458913432
+X 1.19714055484208
+Z 0.29932831551109174
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image187
+proportionalEditingValueZ 0.4980347867672796
+proportionalEditingSize 1.3036476143817184
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [78, 17, 31]
+LightSourceColor [255, 251, 213]
+LightIntensity 1000.0
+LightSourceZ 5.134889147646467
+X -1.9124899163937443
+Z 0.5574611837677451
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image188
+proportionalEditingValueZ 0.5392113297459719
+proportionalEditingSize 1.2215473505153485
+Color [255, 156, 156]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [53, 6, 15]
+LightSourceColor [255, 250, 199]
+LightIntensity 1000.0
+LightSourceZ 5.819669624445863
+X -0.14079336038127876
+Z 0.6705558041999942
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image189
+proportionalEditingValueZ 0.5416829718943547
+proportionalEditingSize 1.6356480383878678
+Color [255, 168, 168]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [27, 36, 26]
+LightSourceColor [255, 254, 247]
+LightIntensity 1000.0
+LightSourceZ 5.616161871898298
+X 0.8051128669403798
+Z 0.2812488020310182
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image190
+proportionalEditingValueZ 0.4821625055989928
+proportionalEditingSize 1.0458125906999227
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [75, 71, 74]
+LightSourceColor [255, 250, 195]
+LightIntensity 1000.0
+LightSourceZ 5.253020484821034
+X -0.2986412054741625
+Z 0.16846165498973228
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image191
+proportionalEditingValueZ 0.6653620245256593
+proportionalEditingSize 0.756765420064635
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [41, 125, 64]
+LightSourceColor [255, 249, 181]
+LightIntensity 1000.0
+LightSourceZ 5.508021156256841
+X -0.38106214974076114
+Z 0.5437560518698386
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image192
+proportionalEditingValueZ 0.5225884798932585
+proportionalEditingSize 1.4094873514797381
+Color [255, 243, 243]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [96, 130, 85]
+LightSourceColor [255, 250, 201]
+LightIntensity 1000.0
+LightSourceZ 5.4990006812390355
+X 1.146442920660618
+Z 0.6353724971162751
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image193
+proportionalEditingValueZ 0.4168170983258299
+proportionalEditingSize 1.7467726489555642
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [79, 120, 35]
+LightSourceColor [255, 247, 155]
+LightIntensity 1000.0
+LightSourceZ 5.706492169863
+X -1.8326063661510277
+Z -0.0696625336581096
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image194
+proportionalEditingValueZ 0.5883344383993105
+proportionalEditingSize 1.511292097594577
+Color [255, 253, 253]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [117, 88, 72]
+LightSourceColor [255, 254, 251]
+LightIntensity 1000.0
+LightSourceZ 5.461418574816162
+X 1.7680088569146286
+Z 0.286892310225631
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image195
+proportionalEditingValueZ 0.6113406386364681
+proportionalEditingSize 1.8258174828461886
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [76, 51, 45]
+LightSourceColor [255, 251, 202]
+LightIntensity 1000.0
+LightSourceZ 5.1050754181721265
+X -0.0020708484113316494
+Z 0.3641949080053922
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image196
+proportionalEditingValueZ 0.5300088639249743
+proportionalEditingSize 0.9298942934789346
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [85, 85, 32]
+LightSourceColor [255, 250, 200]
+LightIntensity 1000.0
+LightSourceZ 5.342644178291341
+X -0.7701633486606565
+Z 0.6323757238621348
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image197
+proportionalEditingValueZ 0.36069509014964357
+proportionalEditingSize 1.0442548930008253
+Color [255, 213, 213]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [68, 6, 148]
+LightSourceColor [255, 252, 216]
+LightIntensity 1000.0
+LightSourceZ 5.516998834709057
+X 0.5086429187911352
+Z -0.026844274770285947
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image198
+proportionalEditingValueZ 0.4049596943013334
+proportionalEditingSize 1.2005954025568037
+Color [255, 200, 200]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [122, 109, 82]
+LightSourceColor [255, 250, 191]
+LightIntensity 1000.0
+LightSourceZ 5.628085637530571
+X -1.6211634820897984
+Z 0.25116725714323007
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image199
+proportionalEditingValueZ 0.3069710747021267
+proportionalEditingSize 1.2755407611507845
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [39, 54, 90]
+LightSourceColor [255, 250, 196]
+LightIntensity 1000.0
+LightSourceZ 5.211028031521609
+X 0.8627247532356486
+Z 0.3134226296841808
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image200
+proportionalEditingValueZ 0.4369984122223602
+proportionalEditingSize 1.6962075755102681
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [8, 38, 12]
+LightSourceColor [255, 247, 160]
+LightIntensity 1000.0
+LightSourceZ 5.476057035940874
+X 1.208900863608379
+Z 0.06664531814023594
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image201
+proportionalEditingValueZ 0.296459114298589
+proportionalEditingSize 1.1464043159928465
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [124, 106, 141]
+LightSourceColor [255, 248, 172]
+LightIntensity 1000.0
+LightSourceZ 5.540022275222835
+X -0.19747897098115352
+Z 0.10409491802951973
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image202
+proportionalEditingValueZ 0.38769934363588066
+proportionalEditingSize 1.680064598028563
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [7, 45, 46]
+LightSourceColor [255, 251, 210]
+LightIntensity 1000.0
+LightSourceZ 5.390745053197685
+X -0.193143725489467
+Z 0.09792776327440178
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image203
+proportionalEditingValueZ 0.4035739503162535
+proportionalEditingSize 1.9767839960476117
+Color [255, 232, 232]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [90, 47, 43]
+LightSourceColor [255, 248, 175]
+LightIntensity 1000.0
+LightSourceZ 5.676826621807152
+X 2.026494069310696
+Z 0.1332836447004839
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image204
+proportionalEditingValueZ 0.6565453238073506
+proportionalEditingSize 1.0460436810862679
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [38, 145, 74]
+LightSourceColor [255, 254, 247]
+LightIntensity 1000.0
+LightSourceZ 5.852992965291652
+X -0.21611006871642346
+Z 0.19086244789378307
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image205
+proportionalEditingValueZ 0.4370318446664364
+proportionalEditingSize 1.3721033725719518
+Color [255, 229, 229]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [144, 52, 25]
+LightSourceColor [255, 251, 214]
+LightIntensity 1000.0
+LightSourceZ 5.641234339402169
+X -1.0439010800871729
+Z 0.25784872758981314
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image206
+proportionalEditingValueZ 0.5737170338092552
+proportionalEditingSize 1.6802504360840038
+Color [255, 215, 215]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [75, 85, 60]
+LightSourceColor [255, 250, 190]
+LightIntensity 1000.0
+LightSourceZ 5.361815428942286
+X -1.3770855664139308
+Z 0.19356600048578707
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image207
+proportionalEditingValueZ 0.18731053161586536
+proportionalEditingSize 1.2768392346453685
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [43, 119, 100]
+LightSourceColor [255, 249, 188]
+LightIntensity 1000.0
+LightSourceZ 5.155986966165154
+X -0.5481800331481554
+Z 0.3810628679624777
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image208
+proportionalEditingValueZ 0.49399233100078915
+proportionalEditingSize 1.1056853077704332
+Color [255, 191, 191]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [23, 38, 15]
+LightSourceColor [255, 254, 253]
+LightIntensity 1000.0
+LightSourceZ 5.6034080557498065
+X -1.5867311480383979
+Z 0.003974571775825081
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image209
+proportionalEditingValueZ 0.3674601925079862
+proportionalEditingSize 1.649846803777013
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [106, 97, 109]
+LightSourceColor [255, 252, 218]
+LightIntensity 1000.0
+LightSourceZ 5.114664949922451
+X -1.2122609230380188
+Z 0.5676256600257563
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image210
+proportionalEditingValueZ 0.7175775897003178
+proportionalEditingSize 1.428448849207184
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [136, 147, 41]
+LightSourceColor [255, 250, 202]
+LightIntensity 1000.0
+LightSourceZ 5.3501932410884745
+X -0.7635491541652328
+Z 0.41048205406600824
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image211
+proportionalEditingValueZ 0.5971139717504877
+proportionalEditingSize 0.5258087078565404
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [86, 83, 39]
+LightSourceColor [255, 254, 247]
+LightIntensity 1000.0
+LightSourceZ 5.701482750879905
+X -1.428550258865624
+Z 0.44932002641261837
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image212
+proportionalEditingValueZ 0.36100884468110817
+proportionalEditingSize 1.2948995197101485
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [82, 15, 106]
+LightSourceColor [255, 249, 186]
+LightIntensity 1000.0
+LightSourceZ 5.792909749847002
+X 1.9074390411058393
+Z -0.012018696122782585
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image213
+proportionalEditingValueZ 0.4714994570261053
+proportionalEditingSize 1.5085123468198025
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [135, 31, 91]
+LightSourceColor [255, 254, 248]
+LightIntensity 1000.0
+LightSourceZ 5.342175913394394
+X -1.8221799091802418
+Z -0.030869993085612557
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image214
+proportionalEditingValueZ 0.5006234545572656
+proportionalEditingSize 1.2858683202872523
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [28, 12, 145]
+LightSourceColor [255, 247, 161]
+LightIntensity 1000.0
+LightSourceZ 5.855319432721827
+X -0.4825231235394287
+Z 0.6655166450947168
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image215
+proportionalEditingValueZ 0.44957574174448983
+proportionalEditingSize 1.354655092225903
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [28, 83, 82]
+LightSourceColor [255, 251, 213]
+LightIntensity 1000.0
+LightSourceZ 5.364790261130763
+X -0.5150900714304649
+Z 0.6361615215262577
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image216
+proportionalEditingValueZ 0.52633105161419
+proportionalEditingSize 1.245358365526517
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [131, 40, 53]
+LightSourceColor [255, 252, 223]
+LightIntensity 1000.0
+LightSourceZ 5.76071187004967
+X -1.701906824149406
+Z 0.24955530259073036
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image217
+proportionalEditingValueZ 0.5095524210075832
+proportionalEditingSize 1.9597438757751608
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [138, 10, 29]
+LightSourceColor [255, 252, 222]
+LightIntensity 1000.0
+LightSourceZ 5.956669420090704
+X -0.7319574190127682
+Z 0.5192686542992019
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image218
+proportionalEditingValueZ 0.42880805149855916
+proportionalEditingSize 1.4571079597381222
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [74, 17, 23]
+LightSourceColor [255, 248, 165]
+LightIntensity 1000.0
+LightSourceZ 5.990641067808398
+X 1.4277316407149026
+Z 0.511387514757594
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image219
+proportionalEditingValueZ 0.6195979560798229
+proportionalEditingSize 1.6521078066904573
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [78, 123, 106]
+LightSourceColor [255, 250, 196]
+LightIntensity 1000.0
+LightSourceZ 5.408061755870336
+X -1.1412216099746462
+Z 0.23807635501495436
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image220
+proportionalEditingValueZ 0.5526081789404659
+proportionalEditingSize 1.527092099236299
+Color [255, 212, 212]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [16, 118, 69]
+LightSourceColor [255, 249, 179]
+LightIntensity 1000.0
+LightSourceZ 5.441330881176745
+X -0.05152598974064926
+Z -0.14408660321108757
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image221
+proportionalEditingValueZ 0.5284382379881142
+proportionalEditingSize 0.9231423515857138
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [68, 86, 147]
+LightSourceColor [255, 247, 162]
+LightIntensity 1000.0
+LightSourceZ 5.327247297748777
+X 1.7091068107653204
+Z 0.22150871947115439
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image222
+proportionalEditingValueZ 0.42431656268095574
+proportionalEditingSize 1.134719045663818
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [96, 5, 80]
+LightSourceColor [255, 247, 162]
+LightIntensity 1000.0
+LightSourceZ 5.301724118136491
+X 1.4750581619538603
+Z 0.4257920705859466
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image223
+proportionalEditingValueZ 0.4003825391886328
+proportionalEditingSize 0.5210964133194504
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [83, 95, 53]
+LightSourceColor [255, 254, 243]
+LightIntensity 1000.0
+LightSourceZ 5.078774218711045
+X 1.5892496684205262
+Z 0.45998169706019165
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image224
+proportionalEditingValueZ 0.5665354615919549
+proportionalEditingSize 1.300352118517606
+Color [255, 190, 190]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [70, 96, 52]
+LightSourceColor [255, 254, 252]
+LightIntensity 1000.0
+LightSourceZ 5.378433475978291
+X -1.4493859143532313
+Z 0.16571003439623996
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image225
+proportionalEditingValueZ 0.359886702714876
+proportionalEditingSize 1.093875327932456
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [41, 140, 132]
+LightSourceColor [255, 250, 192]
+LightIntensity 1000.0
+LightSourceZ 5.956799633231969
+X 1.1407849999710384
+Z -0.12353497671572741
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image226
+proportionalEditingValueZ 0.7641626304481184
+proportionalEditingSize 2.014766799255085
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [44, 50, 87]
+LightSourceColor [255, 254, 241]
+LightIntensity 1000.0
+LightSourceZ 5.149163234635366
+X 0.08188492532624458
+Z 0.592810212415415
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image227
+proportionalEditingValueZ 0.6087161726657886
+proportionalEditingSize 1.3589048153145953
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [49, 18, 69]
+LightSourceColor [255, 250, 200]
+LightIntensity 1000.0
+LightSourceZ 5.427499817997018
+X -2.0672855296968566
+Z 0.1022166312343972
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image228
+proportionalEditingValueZ 0.4534689526370241
+proportionalEditingSize 1.6094447440385338
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [101, 44, 39]
+LightSourceColor [255, 253, 231]
+LightIntensity 1000.0
+LightSourceZ 5.8591664693395495
+X 1.410417108924178
+Z 0.3532263103569875
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image229
+proportionalEditingValueZ 0.49226073510464113
+proportionalEditingSize 2.1071121169225577
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [104, 138, 131]
+LightSourceColor [255, 249, 182]
+LightIntensity 1000.0
+LightSourceZ 5.2191690412176355
+X -1.8597270746239982
+Z -0.14680327856415737
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image230
+proportionalEditingValueZ 0.3540396314469571
+proportionalEditingSize 1.4813498561653935
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [133, 6, 107]
+LightSourceColor [255, 250, 198]
+LightIntensity 1000.0
+LightSourceZ 5.523076574279111
+X 0.19312355418438898
+Z -0.03545161346206045
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image231
+proportionalEditingValueZ 0.36418603739016076
+proportionalEditingSize 1.1665989264082166
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [102, 123, 60]
+LightSourceColor [255, 251, 208]
+LightIntensity 1000.0
+LightSourceZ 5.549864677275868
+X 0.538533121120158
+Z -0.039580801891665976
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image232
+proportionalEditingValueZ 0.5478644536826017
+proportionalEditingSize 1.5520623637967708
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [14, 8, 137]
+LightSourceColor [255, 249, 182]
+LightIntensity 1000.0
+LightSourceZ 5.1484511047785695
+X 1.9051565204527452
+Z 0.03595967157560065
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image233
+proportionalEditingValueZ 0.41955654298978823
+proportionalEditingSize 1.7917561754933842
+Color [255, 241, 241]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [85, 99, 45]
+LightSourceColor [255, 248, 172]
+LightIntensity 1000.0
+LightSourceZ 5.655843825608666
+X -0.4075790942176556
+Z 0.12359596602645337
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image234
+proportionalEditingValueZ 0.5315800124143842
+proportionalEditingSize 1.0682040802259567
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [13, 56, 102]
+LightSourceColor [255, 248, 173]
+LightIntensity 1000.0
+LightSourceZ 5.268194206080284
+X -0.46053194785305407
+Z -0.09032195532445175
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image235
+proportionalEditingValueZ 0.5045115964615509
+proportionalEditingSize 1.53125370211568
+Color [255, 166, 166]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [11, 143, 16]
+LightSourceColor [255, 254, 254]
+LightIntensity 1000.0
+LightSourceZ 5.916942678039602
+X -1.5612228672327402
+Z 0.2948705992326306
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image236
+proportionalEditingValueZ 0.5350312817858561
+proportionalEditingSize 1.091441143780352
+Color [255, 205, 205]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [2, 8, 39]
+LightSourceColor [255, 253, 237]
+LightIntensity 1000.0
+LightSourceZ 5.454859682109985
+X 1.9255797613056873
+Z 0.24776709528386523
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image237
+proportionalEditingValueZ 0.26503117828958
+proportionalEditingSize 1.7138105487675603
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [107, 137, 99]
+LightSourceColor [255, 253, 239]
+LightIntensity 1000.0
+LightSourceZ 5.188667051543647
+X -0.5420488760598914
+Z 0.26639155023942285
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image238
+proportionalEditingValueZ 0.39961952670423345
+proportionalEditingSize 1.6925743566027767
+Color [255, 236, 236]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [2, 15, 12]
+LightSourceColor [255, 253, 232]
+LightIntensity 1000.0
+LightSourceZ 5.538057432347982
+X -1.7538540615256244
+Z 0.4293227364742571
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image239
+proportionalEditingValueZ 0.4811209238489326
+proportionalEditingSize 1.3422300273912036
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [82, 17, 147]
+LightSourceColor [255, 248, 168]
+LightIntensity 1000.0
+LightSourceZ 5.719349550603827
+X 1.8649432228603855
+Z 0.010731416762429502
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image240
+proportionalEditingValueZ 0.4750750581198235
+proportionalEditingSize 1.0323716638679103
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [115, 76, 90]
+LightSourceColor [255, 249, 180]
+LightIntensity 1000.0
+LightSourceZ 5.308187660204972
+X -1.0784800234206198
+Z 0.1031868480995948
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image241
+proportionalEditingValueZ 0.6443209749812864
+proportionalEditingSize 1.3433195422161488
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [120, 51, 131]
+LightSourceColor [255, 252, 225]
+LightIntensity 1000.0
+LightSourceZ 5.924056954150234
+X 0.32611830231055583
+Z -0.018196621248783795
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image242
+proportionalEditingValueZ 0.4821641746307847
+proportionalEditingSize 1.5252899593030225
+Color [255, 172, 172]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [21, 41, 128]
+LightSourceColor [255, 248, 174]
+LightIntensity 1000.0
+LightSourceZ 5.933633236080664
+X -0.425750215026818
+Z 0.3225523401227536
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image243
+proportionalEditingValueZ 0.5075673829727512
+proportionalEditingSize 1.3505136808137361
+Color [255, 177, 177]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [1, 114, 92]
+LightSourceColor [255, 251, 203]
+LightIntensity 1000.0
+LightSourceZ 5.914765200038882
+X 1.1575462310225255
+Z 0.10714001411907467
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image244
+proportionalEditingValueZ 0.3204480660929826
+proportionalEditingSize 1.747727501506068
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [46, 23, 107]
+LightSourceColor [255, 253, 230]
+LightIntensity 1000.0
+LightSourceZ 5.120510932675808
+X -0.658043547051093
+Z -0.020022784539574318
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image245
+proportionalEditingValueZ 0.31987733586659683
+proportionalEditingSize 1.0328099867924294
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [85, 147, 39]
+LightSourceColor [255, 250, 201]
+LightIntensity 1000.0
+LightSourceZ 5.850309257010184
+X -0.17031439726100728
+Z 0.6788732148525396
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image246
+proportionalEditingValueZ 0.32909066639824414
+proportionalEditingSize 1.6928930403232911
+Color [255, 179, 179]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [138, 80, 123]
+LightSourceColor [255, 253, 233]
+LightIntensity 1000.0
+LightSourceZ 5.897810840130172
+X 1.0247396856618627
+Z 0.45210347278648233
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image247
+proportionalEditingValueZ 0.41489248806380974
+proportionalEditingSize 1.1508020633121943
+Color [255, 155, 155]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [36, 121, 34]
+LightSourceColor [255, 248, 173]
+LightIntensity 1000.0
+LightSourceZ 5.0895446357994265
+X 0.10273094926031723
+Z 0.01838704233025598
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image248
+proportionalEditingValueZ 0.44340142887410017
+proportionalEditingSize 1.1690046008908919
+Color [255, 250, 250]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [5, 45, 47]
+LightSourceColor [255, 251, 206]
+LightIntensity 1000.0
+LightSourceZ 5.731531602253712
+X 0.4632268936966808
+Z 0.49684489062963644
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image249
+proportionalEditingValueZ 0.22159354296692843
+proportionalEditingSize 1.3828592356677791
+Color [255, 255, 255]
+CamAngleX 0.0
+CamAngleZ 0.0
+BackgroundColor [29, 128, 87]
+LightSourceColor [255, 254, 251]
+LightIntensity 1000.0
+LightSourceZ 5.506062245817851
+X 1.491497364774324
+Z 0.054617177909590336
+D:\Anirudh\VIT\Second Year - Winter Sem\_ML Project\Images\image250
+
+2022-06-22 20:08:36.344546
+================
