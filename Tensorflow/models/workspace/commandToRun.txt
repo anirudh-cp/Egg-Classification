@@ -1,0 +1,9 @@
+ 
+  python model_main_tf2.py \
+  --pipeline_config_path=Tensorflow\models\workspace\models\faster_rcnn_resnet101_coco_2018_01_28\v1\pipeline.config \
+  --model_dir=Tensorflow\models\workspace\models\faster_rcnn_resnet101_coco_2018_01_28\v1 \
+  --checkpoint_every_n=10 \
+  --alsologtostderr
+
+
+  tensorboard --logdir=Tensorflow\models\workspace\models\faster_rcnn_resnet101_coco_2018_01_28\v1
